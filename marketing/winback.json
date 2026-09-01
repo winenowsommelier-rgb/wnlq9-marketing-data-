@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T14:26:05.494029+00:00",
+  "generated_at": "2026-09-01T14:28:11.152792+00:00",
   "segments": {
     "At Risk": {
       "rows": 200,
@@ -3068,7 +3068,7 @@
           "m_score": 5
         },
         {
-          "email": "chaiwat@weikeng.com.sg",
+          "email": "linlin.chai@gmail.com",
           "rfm_segment": "Hibernating",
           "last_order_month": "2025-08-01T00:00:00",
           "recency_days": 365,
@@ -3079,7 +3079,7 @@
           "m_score": 5
         },
         {
-          "email": "linlin.chai@gmail.com",
+          "email": "chaiwat@weikeng.com.sg",
           "rfm_segment": "Hibernating",
           "last_order_month": "2025-08-01T00:00:00",
           "recency_days": 365,
@@ -4102,7 +4102,7 @@
           "m_score": 3
         },
         {
-          "email": "natchayar.s@veolia.com",
+          "email": "ken.sugiso1008@gmail.com",
           "rfm_segment": "Hibernating",
           "last_order_month": "2025-08-01T00:00:00",
           "recency_days": 365,
@@ -4113,7 +4113,7 @@
           "m_score": 3
         },
         {
-          "email": "ken.sugiso1008@gmail.com",
+          "email": "natchayar.s@veolia.com",
           "rfm_segment": "Hibernating",
           "last_order_month": "2025-08-01T00:00:00",
           "recency_days": 365,
@@ -4135,7 +4135,7 @@
           "m_score": 3
         },
         {
-          "email": "junioregie@hotmail.com",
+          "email": "0892807357@wine-now.com",
           "rfm_segment": "Hibernating",
           "last_order_month": "2025-09-01T00:00:00",
           "recency_days": 334,
@@ -4146,7 +4146,7 @@
           "m_score": 3
         },
         {
-          "email": "0892807357@wine-now.com",
+          "email": "junioregie@hotmail.com",
           "rfm_segment": "Hibernating",
           "last_order_month": "2025-09-01T00:00:00",
           "recency_days": 334,
@@ -12361,6 +12361,17 @@
           "m_score": 4
         },
         {
+          "email": "facebkk@gmail.com",
+          "rfm_segment": "Promising",
+          "last_order_month": "2026-08-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 1,
+          "total_spend_thb": 10260.0,
+          "r_score": 5,
+          "f_score": 1,
+          "m_score": 4
+        },
+        {
           "email": "ueaangkun@gmail.com",
           "rfm_segment": "Promising",
           "last_order_month": "2026-04-01T00:00:00",
@@ -12376,17 +12387,6 @@
           "rfm_segment": "Promising",
           "last_order_month": "2026-04-01T00:00:00",
           "recency_days": 122,
-          "order_count": 1,
-          "total_spend_thb": 10260.0,
-          "r_score": 5,
-          "f_score": 1,
-          "m_score": 4
-        },
-        {
-          "email": "facebkk@gmail.com",
-          "rfm_segment": "Promising",
-          "last_order_month": "2026-08-01T00:00:00",
-          "recency_days": 0,
           "order_count": 1,
           "total_spend_thb": 10260.0,
           "r_score": 5,
@@ -12416,10 +12416,10 @@
           "m_score": 4
         },
         {
-          "email": "golfubu@hotmail.com",
+          "email": "krittin.tan@gmail.com",
           "rfm_segment": "Promising",
-          "last_order_month": "2026-01-01T00:00:00",
-          "recency_days": 212,
+          "last_order_month": "2026-04-01T00:00:00",
+          "recency_days": 122,
           "order_count": 1,
           "total_spend_thb": 9840.0,
           "r_score": 5,
@@ -12427,10 +12427,10 @@
           "m_score": 4
         },
         {
-          "email": "krittin.tan@gmail.com",
+          "email": "golfubu@hotmail.com",
           "rfm_segment": "Promising",
-          "last_order_month": "2026-04-01T00:00:00",
-          "recency_days": 122,
+          "last_order_month": "2026-01-01T00:00:00",
+          "recency_days": 212,
           "order_count": 1,
           "total_spend_thb": 9840.0,
           "r_score": 5,
@@ -12449,10 +12449,10 @@
           "m_score": 4
         },
         {
-          "email": "francoghirimoldi@gmail.com",
+          "email": "narawutchaichana@icloud.com",
           "rfm_segment": "Promising",
-          "last_order_month": "2026-03-01T00:00:00",
-          "recency_days": 153,
+          "last_order_month": "2026-06-01T00:00:00",
+          "recency_days": 61,
           "order_count": 1,
           "total_spend_thb": 9660.0,
           "r_score": 5,
@@ -12460,10 +12460,10 @@
           "m_score": 4
         },
         {
-          "email": "narawutchaichana@icloud.com",
+          "email": "francoghirimoldi@gmail.com",
           "rfm_segment": "Promising",
-          "last_order_month": "2026-06-01T00:00:00",
-          "recency_days": 61,
+          "last_order_month": "2026-03-01T00:00:00",
+          "recency_days": 153,
           "order_count": 1,
           "total_spend_thb": 9660.0,
           "r_score": 5,
