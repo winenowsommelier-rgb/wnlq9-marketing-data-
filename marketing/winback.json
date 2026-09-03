@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T06:38:58.229476+00:00",
+  "generated_at": "2026-09-03T03:58:39.182690+00:00",
   "segments": {
     "At Risk": {
       "rows": 200,
@@ -4102,7 +4102,7 @@
           "m_score": 3
         },
         {
-          "email": "ken.sugiso1008@gmail.com",
+          "email": "natchayar.s@veolia.com",
           "rfm_segment": "Hibernating",
           "last_order_month": "2025-08-01T00:00:00",
           "recency_days": 365,
@@ -4113,7 +4113,7 @@
           "m_score": 3
         },
         {
-          "email": "natchayar.s@veolia.com",
+          "email": "ken.sugiso1008@gmail.com",
           "rfm_segment": "Hibernating",
           "last_order_month": "2025-08-01T00:00:00",
           "recency_days": 365,
@@ -4135,7 +4135,7 @@
           "m_score": 3
         },
         {
-          "email": "0892807357@wine-now.com",
+          "email": "junioregie@hotmail.com",
           "rfm_segment": "Hibernating",
           "last_order_month": "2025-09-01T00:00:00",
           "recency_days": 334,
@@ -4146,7 +4146,7 @@
           "m_score": 3
         },
         {
-          "email": "junioregie@hotmail.com",
+          "email": "0892807357@wine-now.com",
           "rfm_segment": "Hibernating",
           "last_order_month": "2025-09-01T00:00:00",
           "recency_days": 334,
@@ -4300,7 +4300,7 @@
           "m_score": 3
         },
         {
-          "email": "cherry.titapa@gmail.com",
+          "email": "sanchat113@gmail.com",
           "rfm_segment": "Hibernating",
           "last_order_month": "2025-09-01T00:00:00",
           "recency_days": 334,
@@ -4311,7 +4311,7 @@
           "m_score": 3
         },
         {
-          "email": "sanchat113@gmail.com",
+          "email": "cherry.titapa@gmail.com",
           "rfm_segment": "Hibernating",
           "last_order_month": "2025-09-01T00:00:00",
           "recency_days": 334,
@@ -5834,17 +5834,6 @@
           "m_score": 5
         },
         {
-          "email": "saranyabunyarit@gmail.com",
-          "rfm_segment": "Lost",
-          "last_order_month": "2024-12-01T00:00:00",
-          "recency_days": 608,
-          "order_count": 1,
-          "total_spend_thb": 94740.0,
-          "r_score": 3,
-          "f_score": 3,
-          "m_score": 5
-        },
-        {
           "email": "komkai77@hotmail.com",
           "rfm_segment": "Lost",
           "last_order_month": "2024-11-01T00:00:00",
@@ -5853,6 +5842,17 @@
           "total_spend_thb": 94740.0,
           "r_score": 3,
           "f_score": 4,
+          "m_score": 5
+        },
+        {
+          "email": "saranyabunyarit@gmail.com",
+          "rfm_segment": "Lost",
+          "last_order_month": "2024-12-01T00:00:00",
+          "recency_days": 608,
+          "order_count": 1,
+          "total_spend_thb": 94740.0,
+          "r_score": 3,
+          "f_score": 3,
           "m_score": 5
         },
         {
@@ -12372,10 +12372,10 @@
           "m_score": 4
         },
         {
-          "email": "facebkk@gmail.com",
+          "email": "bream.y@brainsandbrawn.co",
           "rfm_segment": "Promising",
-          "last_order_month": "2026-08-01T00:00:00",
-          "recency_days": 0,
+          "last_order_month": "2026-04-01T00:00:00",
+          "recency_days": 122,
           "order_count": 1,
           "total_spend_thb": 10260.0,
           "r_score": 5,
@@ -12383,10 +12383,10 @@
           "m_score": 4
         },
         {
-          "email": "bream.y@brainsandbrawn.co",
+          "email": "facebkk@gmail.com",
           "rfm_segment": "Promising",
-          "last_order_month": "2026-04-01T00:00:00",
-          "recency_days": 122,
+          "last_order_month": "2026-08-01T00:00:00",
+          "recency_days": 0,
           "order_count": 1,
           "total_spend_thb": 10260.0,
           "r_score": 5,
@@ -13164,10 +13164,10 @@
           "m_score": 3
         },
         {
-          "email": "nuntawut@hotmail.com",
+          "email": "esukyai@gmail.com",
           "rfm_segment": "Promising",
-          "last_order_month": "2026-08-01T00:00:00",
-          "recency_days": 0,
+          "last_order_month": "2026-06-01T00:00:00",
+          "recency_days": 61,
           "order_count": 1,
           "total_spend_thb": 6500.0,
           "r_score": 5,
@@ -13175,10 +13175,10 @@
           "m_score": 3
         },
         {
-          "email": "roma12xx@hotmail.co.uk",
+          "email": "nuntawut@hotmail.com",
           "rfm_segment": "Promising",
-          "last_order_month": "2026-06-01T00:00:00",
-          "recency_days": 61,
+          "last_order_month": "2026-08-01T00:00:00",
+          "recency_days": 0,
           "order_count": 1,
           "total_spend_thb": 6500.0,
           "r_score": 5,
@@ -13197,7 +13197,7 @@
           "m_score": 3
         },
         {
-          "email": "esukyai@gmail.com",
+          "email": "roma12xx@hotmail.co.uk",
           "rfm_segment": "Promising",
           "last_order_month": "2026-06-01T00:00:00",
           "recency_days": 61,
