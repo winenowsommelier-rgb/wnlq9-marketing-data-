@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-03T07:24:15.352530+00:00",
+  "generated_at": "2026-09-03T08:52:14.115765+00:00",
   "base_url": "https://raw.githubusercontent.com/winenowsommelier-rgb/wnlq9-marketing-data-/main/marketing/",
   "files": [
     {
       "name": "bestsellers.json",
-      "size_kb": 1.7
+      "size_kb": 39.1
     },
     {
       "name": "must_move.json",
-      "size_kb": 74.2
+      "size_kb": 74.6
     },
     {
       "name": "winback.json",
