@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T08:20:00.394469+00:00",
+  "generated_at": "2026-09-07T08:48:37.975208+00:00",
   "rows": 200,
   "data": [
     {
@@ -19,12 +19,12 @@
       "base_product_code": "LWH0364",
       "product_name": "The Macallan  18 Years Old Sherry Oak Cask (700 ml)",
       "brand": "The Macallan",
-      "is_in_stock": true,
+      "is_in_stock": false,
       "units_sold": 136.0,
       "revenue_thb": 2863589.0,
       "margin_thb": 205959.9486,
       "last_sale_month": "2026-08-01T00:00:00",
-      "replenishment_signal": "monitor"
+      "replenishment_signal": "out_of_stock_high_demand"
     },
     {
       "sku": "LBD0053BU",
@@ -115,12 +115,12 @@
       "base_product_code": "LVK0181",
       "product_name": "Russian Standard  Platinum Vodka (700 ml)",
       "brand": "Russian Standard",
-      "is_in_stock": false,
+      "is_in_stock": true,
       "units_sold": 1398.0,
       "revenue_thb": 1164088.0,
       "margin_thb": 200010.44830000002,
       "last_sale_month": "2026-08-01T00:00:00",
-      "replenishment_signal": "out_of_stock_high_demand"
+      "replenishment_signal": "monitor"
     },
     {
       "sku": "WRW0255AA-6",
@@ -271,12 +271,12 @@
       "base_product_code": "LWH0668",
       "product_name": "The Macallan  18 Year Old Double Cask (700 ml)",
       "brand": "The Macallan",
-      "is_in_stock": true,
+      "is_in_stock": false,
       "units_sold": 48.0,
       "revenue_thb": 909462.0,
       "margin_thb": 80404.17969999998,
       "last_sale_month": "2026-03-01T00:00:00",
-      "replenishment_signal": "monitor"
+      "replenishment_signal": "out_of_stock_high_demand"
     },
     {
       "sku": "WSP1233AD",
@@ -787,7 +787,7 @@
       "base_product_code": "WSP1131",
       "product_name": "Nua  Vino Spumante Brut",
       "brand": "Nua",
-      "is_in_stock": null,
+      "is_in_stock": true,
       "units_sold": 1023.0,
       "revenue_thb": 484896.0,
       "margin_thb": 182983.28060000003,
@@ -883,12 +883,12 @@
       "base_product_code": "WRW4874",
       "product_name": "Chateau Clerc Milon  2015",
       "brand": "Ch\u00e2teau Clerc Milon",
-      "is_in_stock": true,
+      "is_in_stock": false,
       "units_sold": 74.0,
       "revenue_thb": 439963.0,
       "margin_thb": 50499.83180000001,
       "last_sale_month": "2026-08-01T00:00:00",
-      "replenishment_signal": "monitor"
+      "replenishment_signal": "out_of_stock_high_demand"
     },
     {
       "sku": "WRW5037FS",

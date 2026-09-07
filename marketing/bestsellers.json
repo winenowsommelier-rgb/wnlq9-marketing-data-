@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T08:20:00.394469+00:00",
+  "generated_at": "2026-09-07T08:48:37.975208+00:00",
   "window_days": 90,
   "rows": 100,
   "data": [
@@ -57,6 +57,20 @@
       "margin_thb": 12199.215400000001,
       "margin_pct": 8.4,
       "avg_unit_price_thb": 785.1879229728066,
+      "in_stock": true
+    },
+    {
+      "sku": "LVK0181AE",
+      "product_name": "Russian Standard  Platinum Vodka (700 ml)",
+      "brand": "Russian Standard",
+      "category": "Vodka",
+      "country": "Russia",
+      "region": "Other Russia",
+      "units_sold": 153.0,
+      "revenue_thb": 128548.0,
+      "margin_thb": 23273.0693,
+      "margin_pct": 18.1,
+      "avg_unit_price_thb": 840.1832185886403,
       "in_stock": true
     },
     {
@@ -158,20 +172,6 @@
       "in_stock": true
     },
     {
-      "sku": "WRW5868AU",
-      "product_name": "Chateau Clerc Milon  2019",
-      "brand": "Ch\u00e2teau Clerc Milon",
-      "category": "Red Wine",
-      "country": "France",
-      "region": "Bordeaux",
-      "units_sold": 15.0,
-      "revenue_thb": 76753.0,
-      "margin_thb": 16105.320899999999,
-      "margin_pct": 21.0,
-      "avg_unit_price_thb": 5116.928571428572,
-      "in_stock": true
-    },
-    {
       "sku": "WRW4681AD",
       "product_name": "Penfolds  Bin 407",
       "brand": "Penfolds",
@@ -197,20 +197,6 @@
       "margin_thb": 14381.6,
       "margin_pct": 20.0,
       "avg_unit_price_thb": 7989.857142857143,
-      "in_stock": true
-    },
-    {
-      "sku": "LWH0364CN",
-      "product_name": "The Macallan  18 Years Old Sherry Oak Cask (700 ml)",
-      "brand": "The Macallan",
-      "category": "Whisky",
-      "country": "Scotland",
-      "region": "Speyside",
-      "units_sold": 3.0,
-      "revenue_thb": 62215.0,
-      "margin_thb": 3247.623,
-      "margin_pct": 5.2,
-      "avg_unit_price_thb": 20738.333333333332,
       "in_stock": true
     },
     {
@@ -326,17 +312,17 @@
       "in_stock": true
     },
     {
-      "sku": "WRW4874FS",
-      "product_name": "Chateau Clerc Milon  2015",
-      "brand": "Ch\u00e2teau Clerc Milon",
-      "category": "Red Wine",
-      "country": "France",
-      "region": "Bordeaux",
-      "units_sold": 9.0,
-      "revenue_thb": 50174.0,
-      "margin_thb": 5417.7088,
-      "margin_pct": 10.8,
-      "avg_unit_price_thb": 5574.875,
+      "sku": "LGN0044CN",
+      "product_name": "The Botanist  Islay Dry Gin (700 ml)",
+      "brand": "The Botanist",
+      "category": "Gin",
+      "country": "Scotland",
+      "region": "Islay",
+      "units_sold": 21.0,
+      "revenue_thb": 49059.0,
+      "margin_thb": 4960.4326,
+      "margin_pct": 10.1,
+      "avg_unit_price_thb": 2371.6470588235297,
       "in_stock": true
     },
     {
@@ -435,6 +421,20 @@
       "margin_thb": 2791.4369,
       "margin_pct": 6.8,
       "avg_unit_price_thb": 41111.0,
+      "in_stock": true
+    },
+    {
+      "sku": "WSP1131AA",
+      "product_name": "Nua  Vino Spumante Brut",
+      "brand": "Nua",
+      "category": "Sparkling Wine",
+      "country": "Italy",
+      "region": "Piedmont",
+      "units_sold": 85.0,
+      "revenue_thb": 40912.0,
+      "margin_thb": 19490.4768,
+      "margin_pct": 47.6,
+      "avg_unit_price_thb": 481.3433441558442,
       "in_stock": true
     },
     {
@@ -1054,20 +1054,6 @@
       "in_stock": true
     },
     {
-      "sku": "WRW7609FS",
-      "product_name": "Chateau Pichon Longueville Baron 2009",
-      "brand": "Chateau Pichon Baron",
-      "category": "Red Wine",
-      "country": "France",
-      "region": "Bordeaux",
-      "units_sold": 2.0,
-      "revenue_thb": 26421.0,
-      "margin_thb": 2420.1636000000003,
-      "margin_pct": 9.2,
-      "avg_unit_price_thb": 13210.5,
-      "in_stock": true
-    },
-    {
       "sku": "WSP9043AD",
       "product_name": "Armand de Brignac Brut Gold with Gift Box",
       "brand": "Armand de Brignac",
@@ -1401,6 +1387,20 @@
       "margin_thb": 4342.907200000001,
       "margin_pct": 19.4,
       "avg_unit_price_thb": 2236.6,
+      "in_stock": true
+    },
+    {
+      "sku": "WSP1140AE",
+      "product_name": "Follador  Prosecco Farder treviso Extra Dry Gold DOC",
+      "brand": "Follador",
+      "category": "Sparkling Wine",
+      "country": "Italy",
+      "region": "Veneto",
+      "units_sold": 26.0,
+      "revenue_thb": 22245.0,
+      "margin_thb": 5401.887900000001,
+      "margin_pct": 24.3,
+      "avg_unit_price_thb": 860.375,
       "in_stock": true
     }
   ]

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T08:20:00.394469+00:00",
-  "rows": 12196,
+  "generated_at": "2026-09-07T08:48:37.975208+00:00",
+  "rows": 12235,
   "data": [
     {
       "sku": "ABA0001BH",
@@ -4291,6 +4291,22 @@
       "is_in_stock": true
     },
     {
+      "sku": "ABA0872FW",
+      "product_name": "The 4 Barmen  Fine Mesh Strainer (Mirrored Bronze)",
+      "brand": "The 4 Barmen",
+      "category_name": null,
+      "b2c_price_thb": 288.9,
+      "is_in_stock": true
+    },
+    {
+      "sku": "ABA0873FW",
+      "product_name": "The 4 Barmen  Perfect Large Mixing Glass (740 ml)",
+      "brand": "The 4 Barmen",
+      "category_name": null,
+      "b2c_price_thb": 1187.7,
+      "is_in_stock": true
+    },
+    {
       "sku": "AWC0001BR",
       "product_name": "Eurocave  Pure V-Pure-L (Full Glass Door)",
       "brand": "Eurocave",
@@ -8480,7 +8496,7 @@
       "brand": "Camus",
       "category_name": "Brandy",
       "b2c_price_thb": 21400.0,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LBD0024BU",
@@ -11976,7 +11992,7 @@
       "brand": "The Botanist",
       "category_name": "Gin",
       "b2c_price_thb": 2449.23,
-      "is_in_stock": false
+      "is_in_stock": true
     },
     {
       "sku": "LGN0046CN",
@@ -27160,7 +27176,7 @@
       "brand": "McCormick",
       "category_name": "Vodka",
       "b2c_price_thb": 491.13,
-      "is_in_stock": null
+      "is_in_stock": true
     },
     {
       "sku": "LVK0004AA",
@@ -28208,7 +28224,7 @@
       "brand": "Russian Standard",
       "category_name": "Vodka",
       "b2c_price_thb": 961.93,
-      "is_in_stock": false
+      "is_in_stock": true
     },
     {
       "sku": "LVK0182CN",
@@ -30976,7 +30992,7 @@
       "brand": "The Macallan",
       "category_name": "Whisky",
       "b2c_price_thb": 25571.93,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LWH0365CN",
@@ -31327,7 +31343,7 @@
       "product_name": "Tomintoul  21 Years Old (700 ml)",
       "brand": "Tomintoul",
       "category_name": "Whisky",
-      "b2c_price_thb": 29746.0,
+      "b2c_price_thb": 30600.93,
       "is_in_stock": true
     },
     {
@@ -32936,7 +32952,7 @@
       "brand": "The Macallan",
       "category_name": "Whisky",
       "b2c_price_thb": 23003.93,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LWH0670BU",
@@ -38027,6 +38043,14 @@
       "is_in_stock": true
     },
     {
+      "sku": "WOW0020AB",
+      "product_name": "Dominio De Punctum: 20000 LEGUAS Skin Contact Orange Wine",
+      "brand": "Dominio De Punctum",
+      "category_name": "Orange Wine",
+      "b2c_price_thb": 856.0,
+      "is_in_stock": true
+    },
+    {
       "sku": "WRS0002AA",
       "product_name": "Chateau La Tour L'Eveque P\u00e9tale de Rose Ros\u00e9 AOP",
       "brand": "Ch\u00e2teau la Tour de l'\u00e9v\u00eaque",
@@ -39744,7 +39768,7 @@
       "brand": "Chateau Villa Bel Air",
       "category_name": "Red Wine",
       "b2c_price_thb": 1336.43,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "WRW0047AA",
@@ -42000,7 +42024,7 @@
       "brand": "Two oceans",
       "category_name": "Red Wine",
       "b2c_price_thb": 523.23,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "WRW1050AD",
@@ -56048,7 +56072,7 @@
       "brand": "Ch\u00e2teau Clerc Milon",
       "category_name": "Red Wine",
       "b2c_price_thb": 7704.0,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "WRW4875BL",
@@ -58360,7 +58384,7 @@
       "brand": "Brancaia",
       "category_name": "Red Wine",
       "b2c_price_thb": 1300.05,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "WRW5286AA",
@@ -62576,7 +62600,7 @@
       "brand": "Ch\u00e2teau Clerc Milon",
       "category_name": "Red Wine",
       "b2c_price_thb": 6955.0,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "WRW5869AD",
@@ -71048,7 +71072,7 @@
       "brand": "Planeta",
       "category_name": "Red Wine",
       "b2c_price_thb": 1444.5,
-      "is_in_stock": false
+      "is_in_stock": true
     },
     {
       "sku": "WRW6975AD",
@@ -71243,6 +71267,14 @@
       "is_in_stock": true
     },
     {
+      "sku": "WRW7033AD",
+      "product_name": "Borsao Tres Picos Garnacha",
+      "brand": "Borsao",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 1926.0,
+      "is_in_stock": true
+    },
+    {
       "sku": "WRW7035AD",
       "product_name": "AG 47 Malbec",
       "brand": "Argento",
@@ -71256,7 +71288,7 @@
       "brand": "Otronia",
       "category_name": "Red Wine",
       "b2c_price_thb": 1380.3,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "WRW7048AD",
@@ -71784,6 +71816,14 @@
       "brand": "Ricossa",
       "category_name": "Red Wine",
       "b2c_price_thb": 1926.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW7319AA",
+      "product_name": "San Marzano Crus Sessantanni Old Wines Primitivo Di Manduria Dop",
+      "brand": "San Marzano",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 1819.0,
       "is_in_stock": true
     },
     {
@@ -72608,7 +72648,7 @@
       "brand": "Neleman Organic Vineyards",
       "category_name": "Red Wine",
       "b2c_price_thb": 1284.0,
-      "is_in_stock": false
+      "is_in_stock": true
     },
     {
       "sku": "WRW7512CB",
@@ -73048,7 +73088,7 @@
       "brand": "Chateau Pichon Baron",
       "category_name": "Red Wine",
       "b2c_price_thb": 17227.0,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "WRW7610AD",
@@ -75424,7 +75464,7 @@
       "brand": "Chateau Petrus",
       "category_name": "Red Wine",
       "b2c_price_thb": 187143.0,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "WRW7919FO",
@@ -75432,7 +75472,7 @@
       "brand": "Chateau Petrus",
       "category_name": "Red Wine",
       "b2c_price_thb": 310942.0,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "WRW7920FO",
@@ -75811,6 +75851,174 @@
       "is_in_stock": true
     },
     {
+      "sku": "WRW7967AH",
+      "product_name": "Abbotts & Delaunay Les Fruits Sauvages Pinot Noir",
+      "brand": "Abbotts & Delaunay",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 640.93,
+      "is_in_stock": false
+    },
+    {
+      "sku": "WRW7968GX",
+      "product_name": "Riporta Nero D'Avola Appassite",
+      "brand": "Riporta",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 747.93,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW7969DD",
+      "product_name": "Chateau Claire Abbaye Bordeaux Superieur (Wooden Box)",
+      "brand": "Chateau Claire Abbaye",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 1175.93,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW7970AU",
+      "product_name": "Ch\u00e2teau Soutard - Saint-Emilion Grand Cru Class\u00e9",
+      "brand": "Chateau Soutard",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 2996.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW7971AU",
+      "product_name": "Ch\u00e2teau Labadie M\u00e9doc Cru Bourgeois Sup\u00e9rieur AOC",
+      "brand": "Ch\u00e2teau Labadie",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 1177.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW7972AU",
+      "product_name": "Ch\u00e2teau Landat Haut-M\u00e9doc AOC",
+      "brand": "Ch\u00e2teau Landat",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 1177.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW7973AU",
+      "product_name": "Ch\u00e2teau L\u2019Heyrisson Frank\u2019s Reserve AOC Bordeaux Rouge",
+      "brand": "Ch\u00e2teau L\u2019Heyrisson",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 856.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW7974AU",
+      "product_name": "Badia Al Colle Primitivo di Manduria DOC",
+      "brand": "Badia Al Colle",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 856.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW7975AU",
+      "product_name": "Siegel Handpicked Reserva Cabernet Sauvignon",
+      "brand": "Siegel",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 642.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW7976AU",
+      "product_name": "Siegel Handpicked Reserva Syrah",
+      "brand": "Siegel",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 642.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW7977AU",
+      "product_name": "Siegel Handpicked Reserva Merlot",
+      "brand": "Siegel",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 642.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW7978AU",
+      "product_name": "Ch\u00e2teau Latapie Bordeaux R\u00e9serve",
+      "brand": "Ch\u00e2teau Latapie",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 856.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW7979AD",
+      "product_name": "Felline Pietraluna Negroamaro Salento DOC",
+      "brand": "Felline",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 759.7,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW7980AD",
+      "product_name": "Felline Primitivo Di Manduria DOC",
+      "brand": "Felline",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 1144.9,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW7981AD",
+      "product_name": "Petra Quercegobbe Merlot Toscana Rosso",
+      "brand": "Petra",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 2033.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW7982AD",
+      "product_name": "Kendall Jackson Vintner's Reserve Zinfandel Red",
+      "brand": "Kendall Jackson",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 1068.93,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW7983AD",
+      "product_name": "Kendall Jackson Vintner's Reserve Pinot Noir",
+      "brand": "Kendall Jackson",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 1391.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW7984AD",
+      "product_name": "Argento Single Vineyards Finca Altamira Malbec",
+      "brand": "Argento",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 1068.93,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW7985AD",
+      "product_name": "Otronia Pinot Noir Patagonia",
+      "brand": "Otronia",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 2889.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW7986AD",
+      "product_name": "De Bortoli The Estate Vineyard Pinot Noir Yarra Valley",
+      "brand": "De Bortoli",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 1284.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW7987AD",
+      "product_name": "Wente Baily Hill Pinot Noir Red",
+      "brand": "Wente Vineyards",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 961.93,
+      "is_in_stock": true
+    },
+    {
       "sku": "WSP0002AA",
       "product_name": "Delamotte  Brut (375 ml)",
       "brand": "Salon-Delamotte",
@@ -76064,7 +76272,7 @@
       "brand": "Umberto Cavicchioli & Figli",
       "category_name": "Sparkling Wine",
       "b2c_price_thb": 642.0,
-      "is_in_stock": null
+      "is_in_stock": true
     },
     {
       "sku": "WSP0075HI",
@@ -76848,7 +77056,7 @@
       "brand": "Nua",
       "category_name": "Sparkling Wine",
       "b2c_price_thb": 551.05,
-      "is_in_stock": null
+      "is_in_stock": true
     },
     {
       "sku": "WSP1132AA",
@@ -81040,7 +81248,7 @@
       "brand": "Pares Balta",
       "category_name": "Sparkling Wine",
       "b2c_price_thb": 961.93,
-      "is_in_stock": false
+      "is_in_stock": true
     },
     {
       "sku": "WSP5687AF",
@@ -83513,6 +83721,46 @@
       "category_name": "Sparkling Wine",
       "b2c_price_thb": 14550.93,
       "is_in_stock": false
+    },
+    {
+      "sku": "WSP9054FR",
+      "product_name": "Belcolle Moscato d\u2019Asti DOCG",
+      "brand": "Belcolle",
+      "category_name": "Sparkling Wine",
+      "b2c_price_thb": 640.93,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WSP9055GX",
+      "product_name": "Louis Dumont Champagne Brut",
+      "brand": "Louis Dumont",
+      "category_name": "Sparkling Wine",
+      "b2c_price_thb": 1496.93,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WSP9056AD",
+      "product_name": "De Bortoli Limone Spritz",
+      "brand": "De Bortoli",
+      "category_name": "Sparkling Wine",
+      "b2c_price_thb": 362.73,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WSP9057AD",
+      "product_name": "De Bortoli Sangria Spritz",
+      "brand": "De Bortoli",
+      "category_name": "Sparkling Wine",
+      "b2c_price_thb": 426.93,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WSP9058AD",
+      "product_name": "Vranken Demoiselle Tete De Cuvee Rose",
+      "brand": "Champagne Vranken",
+      "category_name": "Sparkling Wine",
+      "b2c_price_thb": 2673.93,
+      "is_in_stock": true
     },
     {
       "sku": "WWW0006AD",
@@ -86911,7 +87159,7 @@
       "product_name": "Maison Verget  Pouilly-Fuisse \"Terroirs de V\"",
       "brand": "Maison Verget",
       "category_name": "White Wine",
-      "b2c_price_thb": 2033.0,
+      "b2c_price_thb": 2140.0,
       "is_in_stock": true
     },
     {
@@ -92096,7 +92344,7 @@
       "brand": "Moulin de Gassac",
       "category_name": "White Wine",
       "b2c_price_thb": 747.93,
-      "is_in_stock": false
+      "is_in_stock": true
     },
     {
       "sku": "WWW5121AD",
@@ -97568,6 +97816,70 @@
       "brand": "Cantina Santadi",
       "category_name": "White Wine",
       "b2c_price_thb": 1498.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WWW6345GX",
+      "product_name": "Riporta Pinot Grigio",
+      "brand": "Riporta",
+      "category_name": "White Wine",
+      "b2c_price_thb": 747.93,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WWW6346GX",
+      "product_name": "Riporta Pecorino",
+      "brand": "Riporta",
+      "category_name": "White Wine",
+      "b2c_price_thb": 747.93,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WWW6347GX",
+      "product_name": "Riporta Vermentino",
+      "brand": "Riporta",
+      "category_name": "White Wine",
+      "b2c_price_thb": 747.93,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WWW6348FC",
+      "product_name": "Louis Latour Chardonnay Grand Ardeche",
+      "brand": "Louis Latour",
+      "category_name": "White Wine",
+      "b2c_price_thb": 1926.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WWW6349AU",
+      "product_name": "Siegel Handpicked Reserva Chardonnay",
+      "brand": "Siegel",
+      "category_name": "White Wine",
+      "b2c_price_thb": 642.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WWW6350AD",
+      "product_name": "Planeta Etna Bianco DOC",
+      "brand": "Planeta",
+      "category_name": "White Wine",
+      "b2c_price_thb": 1498.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WWW6351AD",
+      "product_name": "Frontera Sauvignon Blanc",
+      "brand": "Concha Y Toro",
+      "category_name": "White Wine",
+      "b2c_price_thb": 426.93,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WWW6352AD",
+      "product_name": "Barefoot Pinot Grigio",
+      "brand": "Barefoot",
+      "category_name": "White Wine",
+      "b2c_price_thb": 533.93,
       "is_in_stock": true
     }
   ]
