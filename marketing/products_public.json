@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T08:48:37.975208+00:00",
+  "generated_at": "2026-09-07T13:02:13.158261+00:00",
   "rows": 12235,
   "data": [
     {
@@ -71007,7 +71007,7 @@
       "product_name": "Chateau Brane Cantenac Margaux 2017",
       "brand": "Chateau Brane Cantenac",
       "category_name": "Red Wine",
-      "b2c_price_thb": 5157.4,
+      "b2c_price_thb": 5136.0,
       "is_in_stock": true
     },
     {
