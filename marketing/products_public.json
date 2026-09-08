@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T06:45:31.857592+00:00",
+  "generated_at": "2026-09-08T07:16:50.068392+00:00",
   "rows": 12235,
   "data": [
     {
@@ -88803,12 +88803,12 @@
       "is_in_stock": true
     },
     {
-      "sku": "WWW1943DJ",
+      "sku": "WWW1943FJ",
       "product_name": "Albert Bichot  Domaine Long-Depaquit  Chablis 1er Cru \"les Vaucopins\"",
       "brand": "Albert Bichot",
       "category_name": "White Wine",
-      "b2c_price_thb": 3850.93,
-      "is_in_stock": false
+      "b2c_price_thb": 2877.23,
+      "is_in_stock": true
     },
     {
       "sku": "WWW1947FJ",
