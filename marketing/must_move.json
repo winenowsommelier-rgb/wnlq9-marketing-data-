@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T09:52:14.514238+00:00",
+  "generated_at": "2026-09-09T17:26:55.501559+00:00",
   "rows": 200,
   "data": [
     {
@@ -2076,7 +2076,7 @@
       "revenue_thb": 240966.0,
       "margin_thb": 30196.9185,
       "last_sale_month": "2026-07-01T00:00:00",
-      "replenishment_signal": "low_margin_watch"
+      "replenishment_signal": "monitor"
     },
     {
       "sku": "WWW0092AH",
@@ -2256,7 +2256,7 @@
       "revenue_thb": 220875.0,
       "margin_thb": 34192.911100000005,
       "last_sale_month": "2026-07-01T00:00:00",
-      "replenishment_signal": "low_margin_watch"
+      "replenishment_signal": "monitor"
     },
     {
       "sku": "WRW4728DD",

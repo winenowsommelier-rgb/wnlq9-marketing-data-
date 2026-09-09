@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T09:52:14.514238+00:00",
+  "generated_at": "2026-09-09T17:26:55.501559+00:00",
   "rows": 12235,
   "data": [
     {
@@ -42243,7 +42243,7 @@
       "is_in_stock": false
     },
     {
-      "sku": "WRW1110AA",
+      "sku": "WRW1110HR",
       "product_name": "Luce Della Vite  La Vite Lucente Toscana IGT",
       "brand": "Luce Della Vite",
       "category_name": "Red Wine",
@@ -49643,7 +49643,7 @@
       "is_in_stock": false
     },
     {
-      "sku": "WRW3396AA",
+      "sku": "WRW3396HR",
       "product_name": "Luce Della Vite  Luce Brunello di Montalcino DOCG",
       "brand": "Luce Della Vite",
       "category_name": "Red Wine",
@@ -54675,16 +54675,16 @@
       "is_in_stock": true
     },
     {
-      "sku": "WRW4670HI",
-      "product_name": "Fantini Lava Terre del Vulcano Aglianico Campania IGT",
+      "sku": "WRW4670HR",
+      "product_name": "Lava Terre del Vulcano Aglianico Beneventano IGT",
       "brand": "Fantini",
       "category_name": "Red Wine",
       "b2c_price_thb": 963.0,
       "is_in_stock": true
     },
     {
-      "sku": "WRW4671HI",
-      "product_name": "Fantini Lava Aglianico Taurasi DOCG",
+      "sku": "WRW4671HR",
+      "product_name": "Lava Terre del Vulcano Taurasi DOCG",
       "brand": "Fantini",
       "category_name": "Red Wine",
       "b2c_price_thb": 1712.0,
@@ -67827,11 +67827,11 @@
       "is_in_stock": true
     },
     {
-      "sku": "WRW6555AF",
+      "sku": "WRW6555HR",
       "product_name": "Almaviva  2021",
       "brand": "Almaviva",
       "category_name": "Red Wine",
-      "b2c_price_thb": 12519.0,
+      "b2c_price_thb": 11556.0,
       "is_in_stock": true
     },
     {
