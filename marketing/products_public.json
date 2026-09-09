@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T09:28:02.912853+00:00",
+  "generated_at": "2026-09-09T04:33:26.438599+00:00",
   "rows": 12235,
   "data": [
     {
@@ -39627,9 +39627,9 @@
       "is_in_stock": true
     },
     {
-      "sku": "WRW0001HI",
-      "product_name": "Fantini Gran Sasso Montepulciano d\u2018Abruzzo Limited Edition DOC",
-      "brand": "Fantini",
+      "sku": "WRW0001HR",
+      "product_name": "Gran Sasso Montepulciano d\u2018Abruzzo DOC",
+      "brand": "Gran Sasso",
       "category_name": "Red Wine",
       "b2c_price_thb": 963.0,
       "is_in_stock": true
