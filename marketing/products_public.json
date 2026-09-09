@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T04:33:26.438599+00:00",
+  "generated_at": "2026-09-09T05:24:45.596052+00:00",
   "rows": 12235,
   "data": [
     {
@@ -47815,16 +47815,16 @@
       "product_name": "Felton Road  Pinot Noir Block 3",
       "brand": "Felton Road",
       "category_name": "Red Wine",
-      "b2c_price_thb": 4494.0,
-      "is_in_stock": false
+      "b2c_price_thb": 5243.0,
+      "is_in_stock": true
     },
     {
       "sku": "WRW3013BN",
       "product_name": "Felton Road  Pinot Noir Block 5",
       "brand": "Felton Road",
       "category_name": "Red Wine",
-      "b2c_price_thb": 4494.0,
-      "is_in_stock": false
+      "b2c_price_thb": 5243.0,
+      "is_in_stock": true
     },
     {
       "sku": "WRW3015BN",

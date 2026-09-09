@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T04:33:26.438599+00:00",
+  "generated_at": "2026-09-09T05:24:45.596052+00:00",
   "segments": {
     "At Risk": {
       "rows": 200,
@@ -13153,10 +13153,10 @@
           "m_score": 3
         },
         {
-          "email": "atthapinya.phu@gmail.com",
+          "email": "preeyaporn.jansombat@prestigegrp.co",
           "rfm_segment": "Promising",
-          "last_order_month": "2026-03-01T00:00:00",
-          "recency_days": 184,
+          "last_order_month": "2026-05-01T00:00:00",
+          "recency_days": 123,
           "order_count": 1,
           "total_spend_thb": 5500.0,
           "r_score": 5,
@@ -13164,10 +13164,10 @@
           "m_score": 3
         },
         {
-          "email": "preeyaporn.jansombat@prestigegrp.co",
+          "email": "atthapinya.phu@gmail.com",
           "rfm_segment": "Promising",
-          "last_order_month": "2026-05-01T00:00:00",
-          "recency_days": 123,
+          "last_order_month": "2026-03-01T00:00:00",
+          "recency_days": 184,
           "order_count": 1,
           "total_spend_thb": 5500.0,
           "r_score": 5,
