@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T06:50:44.457531+00:00",
+  "generated_at": "2026-09-10T09:27:35.422756+00:00",
   "rows": 12235,
   "data": [
     {
@@ -43715,12 +43715,12 @@
       "is_in_stock": false
     },
     {
-      "sku": "WRW1396AF",
-      "product_name": "Chateau Carbonnieux  Grand Cru Classe",
+      "sku": "WRW1396HR",
+      "product_name": "Chateau Carbonnieux  Grand Cru Classe 2021",
       "brand": "Chateau Carbonnieux",
       "category_name": "Red Wine",
-      "b2c_price_thb": 3734.3,
-      "is_in_stock": false
+      "b2c_price_thb": 3210.0,
+      "is_in_stock": true
     },
     {
       "sku": "WRW1398AF",
@@ -56659,11 +56659,11 @@
       "is_in_stock": true
     },
     {
-      "sku": "WRW4972AF",
-      "product_name": "Chateau Chasse-Spleen",
+      "sku": "WRW4972HR",
+      "product_name": "Ch\u00e2teau Chasse-Spleen, Moulis en Medoc 2021",
       "brand": "Chateau Chasse-Spleen",
       "category_name": "Red Wine",
-      "b2c_price_thb": 3959.0,
+      "b2c_price_thb": 2782.0,
       "is_in_stock": true
     },
     {
@@ -56859,12 +56859,12 @@
       "is_in_stock": false
     },
     {
-      "sku": "WRW5007FT",
-      "product_name": "Fugue De Nenin  \"Le 2nd Vin De Chateau Nenin\"",
+      "sku": "WRW5007HR",
+      "product_name": "Fugue De Nenin  \"Le 2nd Vin De Chateau Nenin\" 2014",
       "brand": "Chateau Nenin",
       "category_name": "Red Wine",
-      "b2c_price_thb": 3210.0,
-      "is_in_stock": false
+      "b2c_price_thb": 2996.0,
+      "is_in_stock": true
     },
     {
       "sku": "WRW5008AF",
@@ -64219,8 +64219,8 @@
       "is_in_stock": true
     },
     {
-      "sku": "WRW6077BN",
-      "product_name": "Clos de L'Oratoire  Saint-Emilion",
+      "sku": "WRW6077HR",
+      "product_name": "Clos de L'Oratoire, Saint-\u00c9milion Grand Cru Class\u00e9 AOC 2019",
       "brand": "Clos de L'Oratoire",
       "category_name": "Red Wine",
       "b2c_price_thb": 3959.0,
@@ -66899,11 +66899,11 @@
       "is_in_stock": true
     },
     {
-      "sku": "WRW6433FT",
-      "product_name": "Chateau Ormes De Pez Saint Estephe",
+      "sku": "WRW6433HR",
+      "product_name": "Chateau Ormes De Pez Saint Estephe 2017",
       "brand": "Chateau Ormes De Pez",
       "category_name": "Red Wine",
-      "b2c_price_thb": 2782.0,
+      "b2c_price_thb": 2247.0,
       "is_in_stock": true
     },
     {
@@ -74099,11 +74099,11 @@
       "is_in_stock": true
     },
     {
-      "sku": "WRW7738FS",
-      "product_name": "Chateau Quintus (Grand Cru)",
+      "sku": "WRW7738HR",
+      "product_name": "Ch\u00e2teau Quintus, Saint-\u00c9milion Grand Cru AOC 2019",
       "brand": "Chateau Quintus",
       "category_name": "Red Wine",
-      "b2c_price_thb": 7383.0,
+      "b2c_price_thb": 6420.0,
       "is_in_stock": true
     },
     {
