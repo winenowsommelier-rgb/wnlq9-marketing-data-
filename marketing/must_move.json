@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T06:42:32.016899+00:00",
+  "generated_at": "2026-09-13T04:28:43.961637+00:00",
   "rows": 200,
   "data": [
     {
@@ -787,12 +787,12 @@
       "base_product_code": "WSP1131",
       "product_name": "Nua  Vino Spumante Brut",
       "brand": "Nua",
-      "is_in_stock": true,
+      "is_in_stock": false,
       "units_sold": 1023.0,
       "revenue_thb": 484896.0,
       "margin_thb": 182983.28060000003,
       "last_sale_month": "2026-08-01T00:00:00",
-      "replenishment_signal": "monitor"
+      "replenishment_signal": "out_of_stock_high_demand"
     },
     {
       "sku": "WSP0009AA",

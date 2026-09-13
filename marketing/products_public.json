@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T06:42:32.016899+00:00",
-  "rows": 12235,
+  "generated_at": "2026-09-13T04:28:43.961637+00:00",
+  "rows": 12233,
   "data": [
     {
       "sku": "ABA0001BH",
@@ -7967,8 +7967,8 @@
       "product_name": "Riedel  Performance Pay 3 Get 4 Cabernet/Merlot Value Gift Pack",
       "brand": "Riedel",
       "category_name": null,
-      "b2c_price_thb": 4815.0,
-      "is_in_stock": false
+      "b2c_price_thb": 5136.0,
+      "is_in_stock": true
     },
     {
       "sku": "GWN0406AB",
@@ -8360,7 +8360,7 @@
       "brand": "St. George",
       "category_name": null,
       "b2c_price_thb": 4257.53,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LAB0016EQ",
@@ -12336,7 +12336,7 @@
       "brand": "Four Pillars",
       "category_name": "Gin",
       "b2c_price_thb": 2352.93,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LGN0102ED",
@@ -12480,7 +12480,7 @@
       "brand": "Rock Rose",
       "category_name": "Gin",
       "b2c_price_thb": 3766.4,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LGN0121ER",
@@ -13008,7 +13008,7 @@
       "brand": "Windspiel",
       "category_name": "Gin",
       "b2c_price_thb": 2461.0,
-      "is_in_stock": false
+      "is_in_stock": true
     },
     {
       "sku": "LGN0207AA",
@@ -13296,7 +13296,7 @@
       "brand": "Komasa",
       "category_name": "Gin",
       "b2c_price_thb": 3690.43,
-      "is_in_stock": false
+      "is_in_stock": true
     },
     {
       "sku": "LGN0247DJ",
@@ -15496,7 +15496,7 @@
       "brand": "De Kuyper",
       "category_name": "Liqueur",
       "b2c_price_thb": 743.65,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LLQ0104AD",
@@ -16528,7 +16528,7 @@
       "brand": "Cinzano",
       "category_name": "Liqueur",
       "b2c_price_thb": 1368.53,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LLQ0302BU",
@@ -20400,7 +20400,7 @@
       "brand": "Bacardi",
       "category_name": "Rum",
       "b2c_price_thb": 1389.93,
-      "is_in_stock": false
+      "is_in_stock": true
     },
     {
       "sku": "LRM0193DR",
@@ -23456,7 +23456,7 @@
       "brand": "Hakutsuru",
       "category_name": "Sake & Shochu",
       "b2c_price_thb": 428.0,
-      "is_in_stock": false
+      "is_in_stock": true
     },
     {
       "sku": "LSK0434FS",
@@ -32152,7 +32152,7 @@
       "brand": "Glen Grant",
       "category_name": "Whisky",
       "b2c_price_thb": 3422.93,
-      "is_in_stock": false
+      "is_in_stock": true
     },
     {
       "sku": "LWH0543CN",
@@ -41352,7 +41352,7 @@
       "brand": "Allegrini",
       "category_name": "Red Wine",
       "b2c_price_thb": 1449.85,
-      "is_in_stock": false
+      "is_in_stock": true
     },
     {
       "sku": "WRW0618AA",
@@ -43424,7 +43424,7 @@
       "brand": "La Campagne",
       "category_name": "Red Wine",
       "b2c_price_thb": 1027.2,
-      "is_in_stock": false
+      "is_in_stock": true
     },
     {
       "sku": "WRW1339AF",
@@ -47256,14 +47256,6 @@
       "brand": "Chateau Branon",
       "category_name": "Red Wine",
       "b2c_price_thb": 12485.83,
-      "is_in_stock": false
-    },
-    {
-      "sku": "WRW2436BN",
-      "product_name": "Chateau Carbonnieux  Rouge Pessac-Leognan",
-      "brand": "Chateau Carbonnieux",
-      "category_name": "Red Wine",
-      "b2c_price_thb": 4995.83,
       "is_in_stock": false
     },
     {
@@ -54688,7 +54680,7 @@
       "brand": "Fantini",
       "category_name": "Red Wine",
       "b2c_price_thb": 1712.0,
-      "is_in_stock": false
+      "is_in_stock": true
     },
     {
       "sku": "WRW4672AD",
@@ -63912,7 +63904,7 @@
       "brand": "Bindi Surgadi",
       "category_name": "Red Wine",
       "b2c_price_thb": 2053.33,
-      "is_in_stock": false
+      "is_in_stock": true
     },
     {
       "sku": "WRW6038AA",
@@ -64240,14 +64232,6 @@
       "brand": "Chateau Figeac",
       "category_name": "Red Wine",
       "b2c_price_thb": 4387.0,
-      "is_in_stock": true
-    },
-    {
-      "sku": "WRW6081BN",
-      "product_name": "Chateau La Dame de Montrose  Saint-Estephe",
-      "brand": "Chateau Montrose",
-      "category_name": "Red Wine",
-      "b2c_price_thb": 3424.0,
       "is_in_stock": true
     },
     {
@@ -68392,7 +68376,7 @@
       "brand": "Tenuta dell'Ornellaia",
       "category_name": "Red Wine",
       "b2c_price_thb": 13696.0,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "WRW6626AF",
@@ -69824,7 +69808,7 @@
       "brand": "Bera",
       "category_name": "Red Wine",
       "b2c_price_thb": 802.5,
-      "is_in_stock": false
+      "is_in_stock": true
     },
     {
       "sku": "WRW6810GW",
@@ -70368,7 +70352,7 @@
       "brand": "Poliziano",
       "category_name": "Red Wine",
       "b2c_price_thb": 1487.3,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "WRW6878GW",
@@ -70496,7 +70480,7 @@
       "brand": "Vasu Vasu",
       "category_name": "Red Wine",
       "b2c_price_thb": 535.0,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "WRW6894GW",
@@ -74832,7 +74816,7 @@
       "brand": "Robert Mondavi",
       "category_name": "Red Wine",
       "b2c_price_thb": 5348.93,
-      "is_in_stock": false
+      "is_in_stock": true
     },
     {
       "sku": "WRW7837AH",
@@ -76664,7 +76648,7 @@
       "brand": "Pommery",
       "category_name": "Sparkling Wine",
       "b2c_price_thb": 4171.93,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "WSP1060AD",
@@ -77056,7 +77040,7 @@
       "brand": "Nua",
       "category_name": "Sparkling Wine",
       "b2c_price_thb": 551.05,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "WSP1132AA",
@@ -79320,7 +79304,7 @@
       "brand": "Yellow Tail",
       "category_name": "Sparkling Wine",
       "b2c_price_thb": 640.93,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "WSP1588CH",
@@ -83424,7 +83408,7 @@
       "brand": "Freixenet",
       "category_name": "Sparkling Wine",
       "b2c_price_thb": 856.0,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "WSP9016HI",
@@ -89464,7 +89448,7 @@
       "brand": "Black Oak",
       "category_name": "White Wine",
       "b2c_price_thb": 1284.0,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "WWW2143AJ",
@@ -95032,7 +95016,7 @@
       "brand": "I Vigneri",
       "category_name": "White Wine",
       "b2c_price_thb": 6955.0,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "WWW5475AB",
@@ -96456,7 +96440,7 @@
       "brand": "Louis Jadot",
       "category_name": "White Wine",
       "b2c_price_thb": 36273.0,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "WWW6117AB",
