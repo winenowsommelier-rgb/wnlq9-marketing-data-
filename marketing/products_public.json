@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T04:28:43.961637+00:00",
-  "rows": 12233,
+  "generated_at": "2026-09-13T04:35:23.225785+00:00",
+  "rows": 12271,
   "data": [
     {
       "sku": "ABA0001BH",
@@ -40971,6 +40971,14 @@
       "is_in_stock": true
     },
     {
+      "sku": "WRW0475HR",
+      "product_name": "Gran Sasso Sangiovese Puglia IGP",
+      "brand": "Fantini",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 963.0,
+      "is_in_stock": true
+    },
+    {
       "sku": "WRW0478AA",
       "product_name": "Lungarotti  Sagrantino Di Montefalco",
       "brand": "Lungarotti",
@@ -56995,6 +57003,14 @@
       "is_in_stock": false
     },
     {
+      "sku": "WRW5040HR",
+      "product_name": "Chateau Lynch Bages  AOC Pauillac 2017",
+      "brand": "Chateau Lynch Bages",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 8560.0,
+      "is_in_stock": true
+    },
+    {
       "sku": "WRW5041AB",
       "product_name": "Yalumba  Samuel's Collection Barossa Bush Vine Grenache",
       "brand": "Yalumba",
@@ -64232,6 +64248,14 @@
       "brand": "Chateau Figeac",
       "category_name": "Red Wine",
       "b2c_price_thb": 4387.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW6081HR",
+      "product_name": "La Dame de Montros 2021",
+      "brand": "Chateau Montrose",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 3317.0,
       "is_in_stock": true
     },
     {
@@ -71731,6 +71755,22 @@
       "is_in_stock": true
     },
     {
+      "sku": "WRW7244AB",
+      "product_name": "Agricola Querciabella  Ardalico Chianti Classico DOCG",
+      "brand": "Agricola Querciabella",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 1391.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW7255AB",
+      "product_name": "Bertinga Porta Di Vertine Chianti Classico Docg",
+      "brand": "Bertinga",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 1819.0,
+      "is_in_stock": true
+    },
+    {
       "sku": "WRW7256AB",
       "product_name": "Bosco Agostino  Barolo La Serra DOCG (Cru In La Morra)",
       "brand": "Bosco Agostino",
@@ -71832,6 +71872,14 @@
       "brand": "Soprassasso",
       "category_name": "Red Wine",
       "b2c_price_thb": 1284.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW7329AB",
+      "product_name": "Tenuta Di Artimino Chianti Montalbano DOCG",
+      "brand": "Tenuta Di Artimino",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 963.0,
       "is_in_stock": true
     },
     {
@@ -72336,6 +72384,14 @@
       "brand": "Terra Vega",
       "category_name": "Red Wine",
       "b2c_price_thb": 749.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW7463HR",
+      "product_name": "Pr\u00e9lude \u00e0 Grand-Puy Ducasse 2017",
+      "brand": "Chateau Grand Puy Ducasse",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 1819.0,
       "is_in_stock": true
     },
     {
@@ -76000,6 +76056,254 @@
       "brand": "Wente Vineyards",
       "category_name": "Red Wine",
       "b2c_price_thb": 961.93,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW7988FR",
+      "product_name": "Elettra Primitivo Negroamaro Puglia IGT",
+      "brand": "Elettra",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 994.03,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW7989AC",
+      "product_name": "Baron de Donzac Vin Rouge",
+      "brand": "Baron de Donzac",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 642.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW7990HR",
+      "product_name": "Ch\u00e2teau Prieur\u00e9-Lichine, Margaux Grand Cru Class\u00e9 AOC 2019",
+      "brand": "Chateau Prieure-Lichine",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 3745.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW7991HR",
+      "product_name": "Ch\u00e2teau La Tour Carnet 2019",
+      "brand": "Chateau La Tour Carnet",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 2996.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW7992HR",
+      "product_name": "Ch\u00e2teau La Lagune 2021",
+      "brand": "Chateau La Lagune",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 3210.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW7993HR",
+      "product_name": "Ch\u00e2teau Giscours Margaux Grand Cru Class\u00e9 AOC 2017",
+      "brand": "Mixed Case",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 7704.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW7994HR",
+      "product_name": "Ch\u00e2teau d\u2019Issan 2021",
+      "brand": "Chateau d'Issan",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 3745.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW7995HR",
+      "product_name": "Chateau Brane-Cantenac Margaux 2018",
+      "brand": "Chateau Brane Cantenac",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 5136.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW7996HR",
+      "product_name": "Carillon d' Angelus 2019",
+      "brand": "Chateau Angelus",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 8239.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW7997DJ",
+      "product_name": "Marchand-Tawse Gevrey-Chambertin",
+      "brand": "Marchand-Tawse",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 5136.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW7998HR",
+      "product_name": "Alter Ego de Ch\u00e2teau Palmer, Margaux 2020",
+      "brand": "Ch\u00e2teau Palmer",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 7276.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW7999HR",
+      "product_name": "La Closerie de Camensac 2017",
+      "brand": "Chateau De Camensac",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 1284.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW8000HR",
+      "product_name": "BriO de Cantenac Brown 2017",
+      "brand": "Chateau Cantenac Brown",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 2461.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW8001HR",
+      "product_name": "Pastourelle De Clerc Milon  \"Le 2nd Vin De Chateau Clerc Milon\" 2020",
+      "brand": "Ch\u00e2teau Clerc Milon",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 2889.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW8002HR",
+      "product_name": "Tempo d'Angelus Bordeaux AOC by Ch\u00e2teau Angelus",
+      "brand": "Chateau Angelus",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 1819.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW8003HR",
+      "product_name": "Viberti Bricco Delle Viole Barolo Riserva DOCG",
+      "brand": "Viberti Giovanni",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 5136.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW8004HR",
+      "product_name": "Buglioni Il Lussurioso Amarone della Valpolicella Classico DOCG",
+      "brand": "Buglioni",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 2782.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW8005HR",
+      "product_name": "Cantina Sava Campo V Primitivo di Manduria DOP",
+      "brand": "Cantina Sava",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 1785.83,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW8006HR",
+      "product_name": "Caccia al Piano Bolgheri Superiore DOC",
+      "brand": "Caccia al Piano",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 5136.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW8007HR",
+      "product_name": "Rocca delle Macie \"Sergio Zingarelli\" Chianti Classico Gran Selezione DOCG",
+      "brand": "Rocca Delle Macie",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 4601.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW8008AH",
+      "product_name": "Piccini Collezione Rosso Privata Toscana IGT",
+      "brand": "Piccini",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 780.03,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW8009HR",
+      "product_name": "Margaux by Tertre, Grand Vin de Bordeaux, Margaux AOC",
+      "brand": "Margaux by Tertre",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 2033.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW8010HR",
+      "product_name": "Ch\u00e2teau Notton Margaux AOC by Brane Cantenac",
+      "brand": "Ch\u00e2teau Notton by Brane-Cantenac",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 2996.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW8011HR",
+      "product_name": "Arthus D'Olivey, Pessac-Leognan AOC",
+      "brand": "Arthus D\u2019Olivey",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 1926.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW8012HR",
+      "product_name": "L'H\u00e9ritier de Grand-Puy Ducasse, Pauillac AOC 2013",
+      "brand": "Chateau Grand Puy Ducasse",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 2354.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW8013HR",
+      "product_name": "Pauillac by Pichon-Longueville, Pauillac AOC",
+      "brand": "Pauillac by Pichon-Longueville",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 2568.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW8014HR",
+      "product_name": "Ch\u00e2teau Croizet-Bages 2016",
+      "brand": "Ch\u00e2teau Croizet-Bages",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 3210.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW8015HR",
+      "product_name": "Ch\u00e2teau Ph\u00e9lan S\u00e9gur, Saint-Est\u00e8phe AOC 2013",
+      "brand": "Chateau Phelan Segur",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 3531.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW8016HR",
+      "product_name": "Ch\u00e2teau Corbin, Saint-Emilion Grand Cru Class\u00e9 AOC 2019",
+      "brand": "Ch\u00e2teau Corbin",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 3210.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW8017HR",
+      "product_name": "Ch\u00e2teau Pavie Premier Grand Cru Class\u00e9 \"A\" Saint-\u00c9milion Grand Cru AOC 2019",
+      "brand": "Chateau Pavie",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 18190.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW8018BN",
+      "product_name": "Ch\u00e2teau Monbousque 2018",
+      "brand": "Chateau Monbousquet",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 4173.0,
       "is_in_stock": true
     },
     {
