@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T04:12:29.662057+00:00",
+  "generated_at": "2026-09-16T06:04:06.072391+00:00",
   "rows": 12271,
   "data": [
     {
@@ -33187,20 +33187,20 @@
       "is_in_stock": false
     },
     {
-      "sku": "LWH0709AB",
+      "sku": "LWH0709DD",
       "product_name": "HYDE  No. 5 The Aras Cask Single Grain Burgundy Cask Irish Whiskey (700 ml)",
       "brand": "HYDE",
       "category_name": "Whisky",
-      "b2c_price_thb": 3103.0,
-      "is_in_stock": false
+      "b2c_price_thb": 2053.33,
+      "is_in_stock": true
     },
     {
-      "sku": "LWH0710AB",
+      "sku": "LWH0710DD",
       "product_name": "HYDE  No.6 President's Reserve Blended Reserve Sherry Cask Irish Whiskey (700 ml)",
       "brand": "HYDE",
       "category_name": "Whisky",
-      "b2c_price_thb": 3852.0,
-      "is_in_stock": false
+      "b2c_price_thb": 2566.93,
+      "is_in_stock": true
     },
     {
       "sku": "LWH0711AB",
