@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T08:08:57.378929+00:00",
-  "rows": 12271,
+  "generated_at": "2026-09-16T08:12:33.063703+00:00",
+  "rows": 12302,
   "data": [
     {
       "sku": "ABA0001BH",
@@ -76307,6 +76307,166 @@
       "is_in_stock": true
     },
     {
+      "sku": "WRW8019DJ",
+      "product_name": "Domaine Arnoux-Lachaux Vosne Romanee 1er Cru \"Aux Reignots\"",
+      "brand": "Domaine Arnoux-Lachaux",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 208436.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW8020DJ",
+      "product_name": "Domaine Mongeard-Mugneret Coteaux Bourguignons La Superbe",
+      "brand": "Domaine Mongeard-Mugneret",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 2247.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW8021DJ",
+      "product_name": "Domaine Mongeard-Mugneret Vosne-Romanee \"Les Maizieres Hautes\"",
+      "brand": "Domaine Mongeard-Mugneret",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 8239.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW8022DJ",
+      "product_name": "Domaine Nicole Lamarche Morey-Saint-Denis 1er Cru-Les Monts Luisants",
+      "brand": "Domaine Nicole Lamarche",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 11984.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW8023DJ",
+      "product_name": "Maxime Cheurlin Noellat Savigny-Les-Beaune \"Les Bas Liards\"",
+      "brand": "Domaine Maxime Cheurlin No\u00ebllat",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 3959.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW8024DJ",
+      "product_name": "Domaine Hubert Lignier Pommard Les Chanlins",
+      "brand": "Domaine Hubert Lignier",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 5992.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW8025DJ",
+      "product_name": "Domaine Arlaud Chambolle-Musigny",
+      "brand": "Domaine Arlaud",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 6634.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW8026DJ",
+      "product_name": "Domaine Arlaud Chambolle-Musigny 1er Cru Les Sentiers",
+      "brand": "Domaine Arlaud",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 13482.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW8027DJ",
+      "product_name": "Domaine Arlaud Clos De La Roche Grand Cru",
+      "brand": "Domaine Arlaud",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 31351.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW8028DJ",
+      "product_name": "Domaine Gilbert et Christine Felettig Vosne-Romanee Aux Jachees",
+      "brand": "Domaine Gilbert et Christine Felettig",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 7811.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW8029DJ",
+      "product_name": "Domaine Gilbert et Christine Felettig Chambolle-Musigny Clos le Village Monopole",
+      "brand": "Domaine Gilbert et Christine Felettig",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 5992.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW8030DJ",
+      "product_name": "Maison Nicolas Morin Beaune \"Les Epenottes\"",
+      "brand": "Maison Nicolas Morin",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 3959.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW8031DJ",
+      "product_name": "Maison Nicolas Morin Nuits-Saint-Georges \"Les Longecourts\"",
+      "brand": "Maison Nicolas Morin",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 4922.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW8032DJ",
+      "product_name": "Domaine Jean-Marc Millot Nuits-Saint-Georges 1er Cru -\"Les Chaignots\"",
+      "brand": "Domaine Jean-Marc Millot",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 8346.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW8033DJ",
+      "product_name": "Domaine Camille Thiriet C. Thiriet Cote De Nuits-Villages Cuvee Deslandes",
+      "brand": "Domaine Camille Thiriet",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 4815.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW8034DJ",
+      "product_name": "Le Hameau De Barboron Vosne-Romanee \"Aux Champs Perdix\"",
+      "brand": "Le Hameau De Barboron",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 6848.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW8035DJ",
+      "product_name": "Domaine de Mandelot Bourgogne Hautes Cotes de Beaune",
+      "brand": "Domaine de Mandelot",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 2461.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW8036DJ",
+      "product_name": "Domaine Jean-Claude Ramonet Chassagne-Montrachet \u2013 Rouge",
+      "brand": "Domaine Jean-Claude Ramonet",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 5136.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW8037DJ",
+      "product_name": "Domaine Jean-Claude Ramonet Chassagne-Montrachet 1er Cru \"Morgeot\" \u2013 Rouge",
+      "brand": "Domaine Jean-Claude Ramonet",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 7169.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW8038DJ",
+      "product_name": "Domaine Philippe Colin Chassagne Montrachet Champ de Morjots",
+      "brand": "Domaine  Philippe Colin",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 3745.0,
+      "is_in_stock": true
+    },
+    {
       "sku": "WSP0002AA",
       "product_name": "Delamotte  Brut (375 ml)",
       "brand": "Salon-Delamotte",
@@ -84048,6 +84208,14 @@
       "brand": "Champagne Vranken",
       "category_name": "Sparkling Wine",
       "b2c_price_thb": 2673.93,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WSP9059DJ",
+      "product_name": "Maison Nicolas Morin Intrabulleuse Aligote",
+      "brand": "Maison Nicolas Morin",
+      "category_name": "Sparkling Wine",
+      "b2c_price_thb": 2568.0,
       "is_in_stock": true
     },
     {
@@ -98168,6 +98336,86 @@
       "brand": "Barefoot",
       "category_name": "White Wine",
       "b2c_price_thb": 533.93,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WWW6353DJ",
+      "product_name": "Maison Nicolas Morin Pernand-Vergelesses",
+      "brand": "Maison Nicolas Morin",
+      "category_name": "White Wine",
+      "b2c_price_thb": 3959.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WWW6354DJ",
+      "product_name": "Domaine de Mandelot Bourgogne Aligote",
+      "brand": "Domaine de Mandelot",
+      "category_name": "White Wine",
+      "b2c_price_thb": 2782.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WWW6355DJ",
+      "product_name": "Marchand-Tawse Chassagne-Montrachet 1er Cru Abbaye de Morgeot",
+      "brand": "Marchand-Tawse",
+      "category_name": "White Wine",
+      "b2c_price_thb": 8239.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WWW6356DJ",
+      "product_name": "Domaine Pierre Girardin Chassagne-Montrachet Premier Cru Les Vignes Blanches",
+      "brand": "Domaine Pierre Girardin",
+      "category_name": "White Wine",
+      "b2c_price_thb": 10486.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WWW6357DJ",
+      "product_name": "Domaine Philippe Colin Chassagne-Montrachet",
+      "brand": "Domaine  Philippe Colin",
+      "category_name": "White Wine",
+      "b2c_price_thb": 5671.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WWW6358DJ",
+      "product_name": "Domaine Philippe Colin Chassagne-Montrachet 1er \"les Chenevottes\"",
+      "brand": "Domaine  Philippe Colin",
+      "category_name": "White Wine",
+      "b2c_price_thb": 7169.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WWW6359DJ",
+      "product_name": "Domaine Philippe Colin Chassagne-Montrachet 1er Cru \"En Remilly\"",
+      "brand": "Domaine  Philippe Colin",
+      "category_name": "White Wine",
+      "b2c_price_thb": 7490.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WWW6360DJ",
+      "product_name": "Domaine Vincent Dancer Chassagne-Montrachet \u2013 Blanc",
+      "brand": "Domaine Vincent Dancer",
+      "category_name": "White Wine",
+      "b2c_price_thb": 14659.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WWW6361DJ",
+      "product_name": "Domaine Jean-Claude Ramonet Chassagne Montrachet 1er cru \"Les Vergers\"",
+      "brand": "Domaine Jean-Claude Ramonet",
+      "category_name": "White Wine",
+      "b2c_price_thb": 19367.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WWW6362DJ",
+      "product_name": "Domaine Jean-Claude Ramonet Chassagne-Montrachet Premier Cru \"Morgeot\" \u2013 Blanc",
+      "brand": "Domaine Jean-Claude Ramonet",
+      "category_name": "White Wine",
+      "b2c_price_thb": 19367.0,
       "is_in_stock": true
     }
   ]
