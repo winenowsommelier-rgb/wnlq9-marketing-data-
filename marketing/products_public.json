@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T05:06:18.780042+00:00",
+  "generated_at": "2026-09-22T05:18:58.167732+00:00",
   "rows": 12302,
   "data": [
     {
@@ -59707,12 +59707,12 @@
       "is_in_stock": true
     },
     {
-      "sku": "WRW5466FJ",
+      "sku": "WRW5466HR",
       "product_name": "CUNE  Reserva",
       "brand": "Cune",
       "category_name": "Red Wine",
-      "b2c_price_thb": 1336.43,
-      "is_in_stock": false
+      "b2c_price_thb": 1284.0,
+      "is_in_stock": true
     },
     {
       "sku": "WRW5467FJ",
@@ -61795,12 +61795,12 @@
       "is_in_stock": true
     },
     {
-      "sku": "WRW5763FJ",
+      "sku": "WRW5763HR",
       "product_name": "CUNE  Gran Reserva",
       "brand": "Cune",
       "category_name": "Red Wine",
-      "b2c_price_thb": 1892.83,
-      "is_in_stock": false
+      "b2c_price_thb": 1712.0,
+      "is_in_stock": true
     },
     {
       "sku": "WRW5764CU",
@@ -65523,12 +65523,12 @@
       "is_in_stock": true
     },
     {
-      "sku": "WRW6251FJ",
+      "sku": "WRW6251HR",
       "product_name": "CUNE  Crianza",
       "brand": "Cune",
       "category_name": "Red Wine",
-      "b2c_price_thb": 897.73,
-      "is_in_stock": false
+      "b2c_price_thb": 963.0,
+      "is_in_stock": true
     },
     {
       "sku": "WRW6252GN",
