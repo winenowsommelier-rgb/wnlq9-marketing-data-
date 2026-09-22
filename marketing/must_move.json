@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T07:04:01.125175+00:00",
+  "generated_at": "2026-09-22T10:19:57.106785+00:00",
   "rows": 200,
   "data": [
     {
@@ -1339,12 +1339,12 @@
       "base_product_code": "LBD0008",
       "product_name": "Remy Martin  Louis XIII (700 ml)",
       "brand": "Remy Martin",
-      "is_in_stock": false,
+      "is_in_stock": true,
       "units_sold": 2.0,
       "revenue_thb": 344439.0,
       "margin_thb": 33563.3548,
       "last_sale_month": "2024-11-01T00:00:00",
-      "replenishment_signal": "out_of_stock_high_demand"
+      "replenishment_signal": "monitor"
     },
     {
       "sku": "LWH0329AA",

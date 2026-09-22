@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T07:04:01.125175+00:00",
+  "generated_at": "2026-09-22T10:19:57.106785+00:00",
   "rows": 12302,
   "data": [
     {
@@ -8463,8 +8463,8 @@
       "product_name": "Remy Martin  Louis XIII (700 ml)",
       "brand": "Remy Martin",
       "category_name": "Brandy",
-      "b2c_price_thb": 202228.93,
-      "is_in_stock": false
+      "b2c_price_thb": 202230.0,
+      "is_in_stock": true
     },
     {
       "sku": "LBD0009CN",
@@ -17240,7 +17240,7 @@
       "brand": "Dead Man's Finger",
       "category_name": "Liqueur",
       "b2c_price_thb": 801.43,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LLQ0439AE",
@@ -20128,7 +20128,7 @@
       "brand": "Dead Man's Finger",
       "category_name": "Rum",
       "b2c_price_thb": 801.43,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LRM0144CP",
@@ -20136,7 +20136,7 @@
       "brand": "Dead Man's Finger",
       "category_name": "Rum",
       "b2c_price_thb": 801.43,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LRM0145CP",
@@ -20144,7 +20144,7 @@
       "brand": "Dead Man's Finger",
       "category_name": "Rum",
       "b2c_price_thb": 801.43,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LRM0146AE",
@@ -20512,7 +20512,7 @@
       "brand": "Dead Man's Finger",
       "category_name": "Rum",
       "b2c_price_thb": 1026.13,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LRM0207CP",
@@ -20520,7 +20520,7 @@
       "brand": "Dead Man's Finger",
       "category_name": "Rum",
       "b2c_price_thb": 801.43,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LRM0208CP",
@@ -20528,7 +20528,7 @@
       "brand": "Dead Man's Finger",
       "category_name": "Rum",
       "b2c_price_thb": 801.43,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LRM0209CP",
@@ -20536,7 +20536,7 @@
       "brand": "Dead Man's Finger",
       "category_name": "Rum",
       "b2c_price_thb": 801.43,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LRM0210CP",
@@ -20544,7 +20544,7 @@
       "brand": "Dead Man's Finger",
       "category_name": "Rum",
       "b2c_price_thb": 801.43,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LRM0211CP",
@@ -20552,7 +20552,7 @@
       "brand": "Dead Man's Finger",
       "category_name": "Rum",
       "b2c_price_thb": 801.43,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LRM0212CP",
@@ -20560,7 +20560,7 @@
       "brand": "Dead Man's Finger",
       "category_name": "Rum",
       "b2c_price_thb": 801.43,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LRM0213CN",
@@ -20584,7 +20584,7 @@
       "brand": "Dead Man's Finger",
       "category_name": "Rum",
       "b2c_price_thb": 876.33,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LRM0216CB",
@@ -29907,11 +29907,11 @@
       "is_in_stock": true
     },
     {
-      "sku": "LWH0179BU",
+      "sku": "LWH0179AH",
       "product_name": "Buffalo Trace  Bourbon Whisky (750 ml)",
       "brand": "Buffalo Trace",
       "category_name": "Whisky",
-      "b2c_price_thb": 1518.33,
+      "b2c_price_thb": 1593.23,
       "is_in_stock": false
     },
     {
