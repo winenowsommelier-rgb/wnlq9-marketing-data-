@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T10:19:57.106785+00:00",
+  "generated_at": "2026-09-22T10:25:00.298921+00:00",
   "rows": 12302,
   "data": [
     {
@@ -12263,7 +12263,7 @@
       "product_name": "Whitley Neill  Quince Gin (700 ml)",
       "brand": "Whitley Neill",
       "category_name": "Gin",
-      "b2c_price_thb": 1068.93,
+      "b2c_price_thb": 1432.73,
       "is_in_stock": true
     },
     {
@@ -12271,7 +12271,7 @@
       "product_name": "Whitley Neill  Rhubarb & Ginger Gin (700 ml)",
       "brand": "Whitley Neill",
       "category_name": "Gin",
-      "b2c_price_thb": 1068.93,
+      "b2c_price_thb": 1047.53,
       "is_in_stock": true
     },
     {
@@ -12391,7 +12391,7 @@
       "product_name": "Whitley Neill  Raspberry Gin (700 ml)",
       "brand": "Whitley Neill",
       "category_name": "Gin",
-      "b2c_price_thb": 1068.93,
+      "b2c_price_thb": 1047.53,
       "is_in_stock": false
     },
     {
@@ -12879,7 +12879,7 @@
       "product_name": "Whitley Neill  Blood Orange Gin (700 ml)",
       "brand": "Whitley Neill",
       "category_name": "Gin",
-      "b2c_price_thb": 1068.93,
+      "b2c_price_thb": 1047.53,
       "is_in_stock": true
     },
     {
@@ -12887,7 +12887,7 @@
       "product_name": "Whitley Neill  Lemongrass & Ginger Gin (700 ml)",
       "brand": "Whitley Neill",
       "category_name": "Gin",
-      "b2c_price_thb": 1068.93,
+      "b2c_price_thb": 1047.53,
       "is_in_stock": true
     },
     {
@@ -12895,7 +12895,7 @@
       "product_name": "Whitley Neill  Aloe & Cucumber Gin (700 ml)",
       "brand": "Whitley Neill",
       "category_name": "Gin",
-      "b2c_price_thb": 1068.93,
+      "b2c_price_thb": 1047.53,
       "is_in_stock": true
     },
     {
@@ -12903,7 +12903,7 @@
       "product_name": "Whitley Neill  Blackberry Gin (700 ml)",
       "brand": "Whitley Neill",
       "category_name": "Gin",
-      "b2c_price_thb": 1068.93,
+      "b2c_price_thb": 1047.53,
       "is_in_stock": false
     },
     {
@@ -13519,7 +13519,7 @@
       "product_name": "Whitley Neill  Distiller's Cut Gin (700 ml)",
       "brand": "Whitley Neill",
       "category_name": "Gin",
-      "b2c_price_thb": 1068.93,
+      "b2c_price_thb": 1282.93,
       "is_in_stock": false
     },
     {
@@ -15719,7 +15719,7 @@
       "product_name": "Mr.Boston  Amaretto (1 L)",
       "brand": "Mr.Boston",
       "category_name": "Liqueur",
-      "b2c_price_thb": 636.65,
+      "b2c_price_thb": 561.75,
       "is_in_stock": false
     },
     {
@@ -15727,7 +15727,7 @@
       "product_name": "Mr.Boston  Blue Curacao (1 L)",
       "brand": "Mr.Boston",
       "category_name": "Liqueur",
-      "b2c_price_thb": 636.65,
+      "b2c_price_thb": 561.75,
       "is_in_stock": true
     },
     {
@@ -15751,7 +15751,7 @@
       "product_name": "Mr.Boston  Melon (1 L)",
       "brand": "Mr.Boston",
       "category_name": "Liqueur",
-      "b2c_price_thb": 636.65,
+      "b2c_price_thb": 561.75,
       "is_in_stock": true
     },
     {
@@ -28415,7 +28415,7 @@
       "product_name": "Svedka  Clementine Vodka (750 ml)",
       "brand": "Svedka",
       "category_name": "Vodka",
-      "b2c_price_thb": 807.85,
+      "b2c_price_thb": 957.65,
       "is_in_stock": true
     },
     {
@@ -28439,7 +28439,7 @@
       "product_name": "Svedka  Colada Vodka (750 ml)",
       "brand": "Svedka",
       "category_name": "Vodka",
-      "b2c_price_thb": 807.85,
+      "b2c_price_thb": 957.65,
       "is_in_stock": true
     },
     {
@@ -29903,7 +29903,7 @@
       "product_name": "Benchmark Bourbon Whisky (750 ml)",
       "brand": "Benchmark",
       "category_name": "Whisky",
-      "b2c_price_thb": 929.83,
+      "b2c_price_thb": 919.13,
       "is_in_stock": true
     },
     {
@@ -31191,7 +31191,7 @@
       "product_name": "Smokehead  Islay Single Malt Scotch Whisky (700 ml)",
       "brand": "Smokehead",
       "category_name": "Whisky",
-      "b2c_price_thb": 3557.75,
+      "b2c_price_thb": 3315.93,
       "is_in_stock": false
     },
     {
