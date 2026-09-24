@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T10:15:41.732447+00:00",
+  "generated_at": "2026-09-24T10:34:52.978064+00:00",
   "rows": 12302,
   "data": [
     {
@@ -8327,7 +8327,7 @@
       "product_name": "La Maison Fontaine  Absinthe Verte (700 ml)",
       "brand": "La Maison Fontaine",
       "category_name": null,
-      "b2c_price_thb": 3840.23,
+      "b2c_price_thb": 3957.93,
       "is_in_stock": true
     },
     {
@@ -8839,7 +8839,7 @@
       "product_name": "Demonio De Los Andes Pisco",
       "brand": "Tacama",
       "category_name": "Brandy",
-      "b2c_price_thb": 1700.23,
+      "b2c_price_thb": 1593.23,
       "is_in_stock": true
     },
     {
@@ -8871,7 +8871,7 @@
       "product_name": "Hine  Antique XO (700 ml)",
       "brand": "Hine",
       "category_name": "Brandy",
-      "b2c_price_thb": 13373.93,
+      "b2c_price_thb": 12303.93,
       "is_in_stock": true
     },
     {
@@ -8879,7 +8879,7 @@
       "product_name": "Hine  Rare VSOP (700 ml)",
       "brand": "Hine",
       "category_name": "Brandy",
-      "b2c_price_thb": 3743.93,
+      "b2c_price_thb": 3850.93,
       "is_in_stock": true
     },
     {
@@ -8943,7 +8943,7 @@
       "product_name": "Hine  Cigar Reserve (700 ml)",
       "brand": "Hine",
       "category_name": "Brandy",
-      "b2c_price_thb": 6408.23,
+      "b2c_price_thb": 5883.93,
       "is_in_stock": false
     },
     {
@@ -11743,7 +11743,7 @@
       "product_name": "Abelha  Gold Cachaca (750 ml)",
       "brand": "Abelha",
       "category_name": null,
-      "b2c_price_thb": 2267.33,
+      "b2c_price_thb": 2021.23,
       "is_in_stock": true
     },
     {
@@ -13783,7 +13783,7 @@
       "product_name": "Kosapan Gin (700 ml)",
       "brand": "Kosapan",
       "category_name": "Gin",
-      "b2c_price_thb": 1888.55,
+      "b2c_price_thb": 1892.83,
       "is_in_stock": true
     },
     {
@@ -13791,7 +13791,7 @@
       "product_name": "Kosapan  Kad Kokoa Cacao Spirit Gin (700 ml)",
       "brand": "Kosapan",
       "category_name": "Gin",
-      "b2c_price_thb": 1888.55,
+      "b2c_price_thb": 1892.83,
       "is_in_stock": true
     },
     {
@@ -13847,7 +13847,7 @@
       "product_name": "Short Story  Dry Gin (750 ml)",
       "brand": "Short Story",
       "category_name": "Gin",
-      "b2c_price_thb": 914.85,
+      "b2c_price_thb": 908.43,
       "is_in_stock": true
     },
     {
@@ -14231,7 +14231,7 @@
       "product_name": "Kosapan Jasmine (700 ml)",
       "brand": "Kosapan",
       "category_name": "Gin",
-      "b2c_price_thb": 1888.55,
+      "b2c_price_thb": 1892.83,
       "is_in_stock": true
     },
     {
@@ -14239,7 +14239,7 @@
       "product_name": "Kosapan Orange (700 ml)",
       "brand": "Kosapan",
       "category_name": "Gin",
-      "b2c_price_thb": 1888.55,
+      "b2c_price_thb": 1892.83,
       "is_in_stock": true
     },
     {
@@ -14247,7 +14247,7 @@
       "product_name": "Kosapan Pandan (700 ml)",
       "brand": "Kosapan",
       "category_name": "Gin",
-      "b2c_price_thb": 1888.55,
+      "b2c_price_thb": 1892.83,
       "is_in_stock": true
     },
     {
@@ -14263,7 +14263,7 @@
       "product_name": "Boatyard Old Tom (700 ml)",
       "brand": "Boatyard",
       "category_name": "Gin",
-      "b2c_price_thb": 2021.23,
+      "b2c_price_thb": 2138.93,
       "is_in_stock": true
     },
     {
@@ -14271,7 +14271,7 @@
       "product_name": "Boatyard Sloe Boat (700 ml)",
       "brand": "Boatyard",
       "category_name": "Gin",
-      "b2c_price_thb": 2138.93,
+      "b2c_price_thb": 2021.23,
       "is_in_stock": true
     },
     {
@@ -15839,7 +15839,7 @@
       "product_name": "Bitter Truth  Jerry Thomas Own Decanter (200 ml)",
       "brand": "Bitter Truth",
       "category_name": "Liqueur",
-      "b2c_price_thb": 1218.73,
+      "b2c_price_thb": 1229.43,
       "is_in_stock": true
     },
     {
@@ -15847,7 +15847,7 @@
       "product_name": "Bitter Truth  Lemon Bitters (200 ml)",
       "brand": "Bitter Truth",
       "category_name": "Liqueur",
-      "b2c_price_thb": 1218.73,
+      "b2c_price_thb": 1229.43,
       "is_in_stock": true
     },
     {
@@ -15855,7 +15855,7 @@
       "product_name": "Bitter Truth  Peach Bitters (200 ml)",
       "brand": "Bitter Truth",
       "category_name": "Liqueur",
-      "b2c_price_thb": 1218.73,
+      "b2c_price_thb": 1229.43,
       "is_in_stock": true
     },
     {
@@ -15863,7 +15863,7 @@
       "product_name": "Bitter Truth  Cacumber Bitters (200 ml)",
       "brand": "Bitter Truth",
       "category_name": "Liqueur",
-      "b2c_price_thb": 1218.73,
+      "b2c_price_thb": 1229.43,
       "is_in_stock": true
     },
     {
@@ -15871,7 +15871,7 @@
       "product_name": "Bitter Truth  Tonic Bitters (200 ml)",
       "brand": "Bitter Truth",
       "category_name": "Liqueur",
-      "b2c_price_thb": 1218.73,
+      "b2c_price_thb": 1229.43,
       "is_in_stock": false
     },
     {
@@ -15879,7 +15879,7 @@
       "product_name": "Bitter Truth  Chocolate Bitters (200 ml)",
       "brand": "Bitter Truth",
       "category_name": "Liqueur",
-      "b2c_price_thb": 1218.73,
+      "b2c_price_thb": 1229.43,
       "is_in_stock": true
     },
     {
@@ -15887,7 +15887,7 @@
       "product_name": "Bitter Truth  Grapefruit Bitter (200 ml)",
       "brand": "Bitter Truth",
       "category_name": "Liqueur",
-      "b2c_price_thb": 1218.73,
+      "b2c_price_thb": 1229.43,
       "is_in_stock": true
     },
     {
@@ -15895,7 +15895,7 @@
       "product_name": "Bitter Truth  Creole Bitters (200 ml)",
       "brand": "Bitter Truth",
       "category_name": "Liqueur",
-      "b2c_price_thb": 1218.73,
+      "b2c_price_thb": 1229.43,
       "is_in_stock": true
     },
     {
@@ -15903,7 +15903,7 @@
       "product_name": "Bitter Truth  Celery Bitters (200 ml)",
       "brand": "Bitter Truth",
       "category_name": "Liqueur",
-      "b2c_price_thb": 1218.73,
+      "b2c_price_thb": 1229.43,
       "is_in_stock": true
     },
     {
@@ -16167,7 +16167,7 @@
       "product_name": "Bitter Truth  Old Time Aromatic Bitters (200 ml)",
       "brand": "Bitter Truth",
       "category_name": "Liqueur",
-      "b2c_price_thb": 1218.73,
+      "b2c_price_thb": 1229.43,
       "is_in_stock": true
     },
     {
@@ -16191,7 +16191,7 @@
       "product_name": "Bitter Truth  Orange Bitters (200 ml)",
       "brand": "Bitter Truth",
       "category_name": "Liqueur",
-      "b2c_price_thb": 1218.73,
+      "b2c_price_thb": 1229.43,
       "is_in_stock": true
     },
     {
@@ -17103,7 +17103,7 @@
       "product_name": "Massenez  Liqueur de Pomme Verte ( Green Apple) (700 ml)",
       "brand": "Massenez",
       "category_name": "Liqueur",
-      "b2c_price_thb": 1175.93,
+      "b2c_price_thb": 1090.33,
       "is_in_stock": true
     },
     {
@@ -17119,7 +17119,7 @@
       "product_name": "Massenez  Liqueur De Litchi (Lychee) (700 ml)",
       "brand": "Massenez",
       "category_name": "Liqueur",
-      "b2c_price_thb": 1175.93,
+      "b2c_price_thb": 1090.33,
       "is_in_stock": true
     },
     {
@@ -17231,7 +17231,7 @@
       "product_name": "Massenez  Liqueur Creme A La Fraise Des Bois (Wild Strawberries) (700 ml)",
       "brand": "Massenez",
       "category_name": "Liqueur",
-      "b2c_price_thb": 1171.65,
+      "b2c_price_thb": 1090.33,
       "is_in_stock": true
     },
     {
@@ -17247,7 +17247,7 @@
       "product_name": "Massenez  Liqueur Creme de Cassis de Dijon (Blackcurrant) (700 ml)",
       "brand": "Massenez",
       "category_name": "Liqueur",
-      "b2c_price_thb": 1175.93,
+      "b2c_price_thb": 1090.33,
       "is_in_stock": true
     },
     {
@@ -17471,7 +17471,7 @@
       "product_name": "Massenez  Fleur de Sureau (Elderflower) (700 ml)",
       "brand": "Massenez",
       "category_name": "Liqueur",
-      "b2c_price_thb": 1171.65,
+      "b2c_price_thb": 1090.33,
       "is_in_stock": true
     },
     {
@@ -17479,7 +17479,7 @@
       "product_name": "Massenez  Creme De Framboise (Raspberry) (700 ml)",
       "brand": "Massenez",
       "category_name": "Liqueur",
-      "b2c_price_thb": 1171.65,
+      "b2c_price_thb": 1090.33,
       "is_in_stock": true
     },
     {
@@ -17487,7 +17487,7 @@
       "product_name": "Massenez  Liqueur De Pamplemousse (Pink Grapefruit) (700 ml)",
       "brand": "Massenez",
       "category_name": "Liqueur",
-      "b2c_price_thb": 1171.65,
+      "b2c_price_thb": 1090.33,
       "is_in_stock": true
     },
     {
@@ -18023,7 +18023,7 @@
       "product_name": "Flor de Ca\u00f1a Ultra Coco (700 ml)",
       "brand": "Flor de Ca\u00f1a Rum",
       "category_name": "Liqueur",
-      "b2c_price_thb": 1165.23,
+      "b2c_price_thb": 1122.43,
       "is_in_stock": true
     },
     {
@@ -18055,7 +18055,7 @@
       "product_name": "Cocchi Dopo Teatro Vermouth Amaro (750 ml)",
       "brand": "Cocchi",
       "category_name": "Liqueur",
-      "b2c_price_thb": 2021.23,
+      "b2c_price_thb": 1978.43,
       "is_in_stock": true
     },
     {
@@ -18087,7 +18087,7 @@
       "product_name": "L'Ermitage Green (700 ml)",
       "brand": "L'Ermitage",
       "category_name": "Liqueur",
-      "b2c_price_thb": 2021.23,
+      "b2c_price_thb": 1914.23,
       "is_in_stock": true
     },
     {
@@ -18119,7 +18119,7 @@
       "product_name": "Massenez Liqueur De Roquefort (Roquefort Liqueur) (700 ml)",
       "brand": "Massenez",
       "category_name": "Liqueur",
-      "b2c_price_thb": 1090.33,
+      "b2c_price_thb": 1603.93,
       "is_in_stock": true
     },
     {
@@ -18127,7 +18127,7 @@
       "product_name": "Massenez La Baguette  (Bread Liqueur) (700 ml)",
       "brand": "Massenez",
       "category_name": "Liqueur",
-      "b2c_price_thb": 1315.03,
+      "b2c_price_thb": 1282.93,
       "is_in_stock": true
     },
     {
@@ -18199,7 +18199,7 @@
       "product_name": "Giffard Cr\u00e8me De Violette (Violet) (700 ml)",
       "brand": "Giffard",
       "category_name": "Liqueur",
-      "b2c_price_thb": 1090.33,
+      "b2c_price_thb": 951.23,
       "is_in_stock": true
     },
     {
@@ -18207,7 +18207,7 @@
       "product_name": "Giffard Caf\u00e9 Du Honduras (700 ml)",
       "brand": "Giffard",
       "category_name": "Liqueur",
-      "b2c_price_thb": 1122.43,
+      "b2c_price_thb": 1282.93,
       "is_in_stock": true
     },
     {
@@ -19679,7 +19679,7 @@
       "product_name": "Flor de Ca\u00f1a  7 years Grand Reserve Rum (700 ml)",
       "brand": "Flor de Ca\u00f1a Rum",
       "category_name": "Rum",
-      "b2c_price_thb": 1700.23,
+      "b2c_price_thb": 1593.23,
       "is_in_stock": true
     },
     {
@@ -19695,7 +19695,7 @@
       "product_name": "Flor de Ca\u00f1a  18 years Centenario Rum (700 ml)",
       "brand": "Flor de Ca\u00f1a Rum",
       "category_name": "Rum",
-      "b2c_price_thb": 3626.23,
+      "b2c_price_thb": 3519.23,
       "is_in_stock": true
     },
     {
@@ -19703,7 +19703,7 @@
       "product_name": "Gosling  Black Seal Dark Bermuda Rum (750 ml)",
       "brand": "Gosling",
       "category_name": "Rum",
-      "b2c_price_thb": 1496.93,
+      "b2c_price_thb": 1700.23,
       "is_in_stock": true
     },
     {
@@ -19831,7 +19831,7 @@
       "product_name": "Flor de Ca\u00f1a  Extra Seco Imported Rum 4 Years (700 ml)",
       "brand": "Flor de Ca\u00f1a Rum",
       "category_name": "Rum",
-      "b2c_price_thb": 951.23,
+      "b2c_price_thb": 940.53,
       "is_in_stock": true
     },
     {
@@ -20367,7 +20367,7 @@
       "product_name": "Kosapan Rum (700 ml)",
       "brand": "Kosapan",
       "category_name": "Rum",
-      "b2c_price_thb": 1332.15,
+      "b2c_price_thb": 1336.43,
       "is_in_stock": true
     },
     {
@@ -20703,7 +20703,7 @@
       "product_name": "Short Story  White Rum (750 ml)",
       "brand": "Short Story",
       "category_name": "Rum",
-      "b2c_price_thb": 1043.25,
+      "b2c_price_thb": 1047.53,
       "is_in_stock": true
     },
     {
@@ -20943,7 +20943,7 @@
       "product_name": "Flor de Ca\u00f1a  25 years Centenario Rum Box Set",
       "brand": "Flor de Ca\u00f1a Rum",
       "category_name": "Rum",
-      "b2c_price_thb": 7328.43,
+      "b2c_price_thb": 6729.23,
       "is_in_stock": true
     },
     {
@@ -20951,7 +20951,7 @@
       "product_name": "Flor de Ca\u00f1a  30 years Centenario Rum (700 ml)",
       "brand": "Flor de Ca\u00f1a Rum",
       "category_name": "Rum",
-      "b2c_price_thb": 75669.33,
+      "b2c_price_thb": 84421.93,
       "is_in_stock": true
     },
     {
@@ -20975,7 +20975,7 @@
       "product_name": "Black Tot Finest Caribbean (700 ml)",
       "brand": "Black Tot",
       "category_name": "Rum",
-      "b2c_price_thb": 2267.33,
+      "b2c_price_thb": 2288.73,
       "is_in_stock": true
     },
     {
@@ -20983,7 +20983,7 @@
       "product_name": "Black Tot Historic Solera (700 ml)",
       "brand": "Black Tot",
       "category_name": "Rum",
-      "b2c_price_thb": 3808.13,
+      "b2c_price_thb": 3840.23,
       "is_in_stock": true
     },
     {
@@ -21015,7 +21015,7 @@
       "product_name": "Sampan Cognac-Porto Cask 2020 (700 ml)",
       "brand": "Sampan",
       "category_name": "Rum",
-      "b2c_price_thb": 2802.33,
+      "b2c_price_thb": 2994.93,
       "is_in_stock": true
     },
     {
@@ -21023,7 +21023,7 @@
       "product_name": "Sampan Cognac Cask 2020 (700 ml)",
       "brand": "Sampan",
       "category_name": "Rum",
-      "b2c_price_thb": 2802.33,
+      "b2c_price_thb": 2994.93,
       "is_in_stock": true
     },
     {
@@ -25767,7 +25767,7 @@
       "product_name": "Tapatio Reposado (500 ml)",
       "brand": "Tapatio",
       "category_name": "Tequila",
-      "b2c_price_thb": 1999.83,
+      "b2c_price_thb": 1978.43,
       "is_in_stock": true
     },
     {
@@ -27007,7 +27007,7 @@
       "product_name": "Corte Vetusto Espadin (750 ml)",
       "brand": "Corte Vetusto",
       "category_name": "Tequila",
-      "b2c_price_thb": 3369.43,
+      "b2c_price_thb": 3519.23,
       "is_in_stock": true
     },
     {
@@ -27015,7 +27015,7 @@
       "product_name": "Corte Vetusto Tobala (750 ml)",
       "brand": "Corte Vetusto",
       "category_name": "Tequila",
-      "b2c_price_thb": 5455.93,
+      "b2c_price_thb": 5124.23,
       "is_in_stock": true
     },
     {
@@ -28639,7 +28639,7 @@
       "product_name": "Short Story  Grain Vodka (750 ml)",
       "brand": "Short Story",
       "category_name": "Vodka",
-      "b2c_price_thb": 807.85,
+      "b2c_price_thb": 812.13,
       "is_in_stock": true
     },
     {
@@ -28727,7 +28727,7 @@
       "product_name": "Boatyard Organic Vodka (700 ml)",
       "brand": "Boatyard",
       "category_name": "Vodka",
-      "b2c_price_thb": 2138.93,
+      "b2c_price_thb": 2021.23,
       "is_in_stock": true
     },
     {
@@ -29671,7 +29671,7 @@
       "product_name": "Glenfarclas  Single Highland Malt Whisky 25 Years (700 ml)",
       "brand": "Glenfarclas",
       "category_name": "Whisky",
-      "b2c_price_thb": 11753.95,
+      "b2c_price_thb": 11758.23,
       "is_in_stock": true
     },
     {
@@ -29679,7 +29679,7 @@
       "product_name": "Glenfarclas  Single Highland Malt Whisky 30 Years (700 ml)",
       "brand": "Glenfarclas",
       "category_name": "Whisky",
-      "b2c_price_thb": 32066.83,
+      "b2c_price_thb": 35843.93,
       "is_in_stock": true
     },
     {
@@ -34343,7 +34343,7 @@
       "product_name": "Arran  Quarter Cask (Bothy 4) (700 ml)",
       "brand": "Arran",
       "category_name": "Whisky",
-      "b2c_price_thb": 3407.95,
+      "b2c_price_thb": 3412.23,
       "is_in_stock": true
     },
     {
@@ -34495,7 +34495,7 @@
       "product_name": "Arran  Barrel Reserve Single Malt Whisky  (700 ml)",
       "brand": "Arran",
       "category_name": "Whisky",
-      "b2c_price_thb": 2444.95,
+      "b2c_price_thb": 2449.23,
       "is_in_stock": true
     },
     {
@@ -35935,7 +35935,7 @@
       "product_name": "Fever-Tree  Premium Indian Tonic Water (200 ml) (Pack 24 Bottles)",
       "brand": "Fever-Tree",
       "category_name": "Mineral Water",
-      "b2c_price_thb": 1850.03,
+      "b2c_price_thb": 1539.73,
       "is_in_stock": true
     },
     {
@@ -35943,7 +35943,7 @@
       "product_name": "Fever-Tree  Premium Natural Soda Water (200 ml) (Pack 24 Bottles)",
       "brand": "Fever-Tree",
       "category_name": "Mineral Water",
-      "b2c_price_thb": 1850.03,
+      "b2c_price_thb": 1539.73,
       "is_in_stock": true
     },
     {
@@ -35951,7 +35951,7 @@
       "product_name": "Fever-Tree  Premium Ginger Ale (200 ml) (Pack 24 Bottles)",
       "brand": "Fever-Tree",
       "category_name": "Mineral Water",
-      "b2c_price_thb": 1850.03,
+      "b2c_price_thb": 1539.73,
       "is_in_stock": true
     },
     {
@@ -35959,7 +35959,7 @@
       "product_name": "Fever-Tree  Premium Mediterranean Tonic Water (200 ml) (Pack 24 Bottles)",
       "brand": "Fever-Tree",
       "category_name": "Mineral Water",
-      "b2c_price_thb": 1850.03,
+      "b2c_price_thb": 1539.73,
       "is_in_stock": true
     },
     {
@@ -35975,7 +35975,7 @@
       "product_name": "Fever-Tree  Premium Elderflower (200 ml) (Pack 24 Bottles)",
       "brand": "Fever-Tree",
       "category_name": "Mineral Water",
-      "b2c_price_thb": 1850.03,
+      "b2c_price_thb": 1539.73,
       "is_in_stock": true
     },
     {
@@ -35983,7 +35983,7 @@
       "product_name": "Fever-Tree  Premium Ginger Beer (200 ml) (Pack 24 Bottles)",
       "brand": "Fever-Tree",
       "category_name": "Mineral Water",
-      "b2c_price_thb": 1850.03,
+      "b2c_price_thb": 1539.73,
       "is_in_stock": true
     },
     {
@@ -35991,7 +35991,7 @@
       "product_name": "Fever-Tree  Premium Refreshingly Light Indian Tonic Water (200 ml) (Pack 24 Bottles)",
       "brand": "Fever-Tree",
       "category_name": "Mineral Water",
-      "b2c_price_thb": 1850.03,
+      "b2c_price_thb": 1539.73,
       "is_in_stock": true
     },
     {
@@ -35999,7 +35999,7 @@
       "product_name": "Fever-Tree  Premium Pink Grapefruit Soda Water (200 ml) (Pack 24 Bottles)",
       "brand": "Fever-Tree",
       "category_name": "Mineral Water",
-      "b2c_price_thb": 1850.03,
+      "b2c_price_thb": 1539.73,
       "is_in_stock": true
     },
     {
