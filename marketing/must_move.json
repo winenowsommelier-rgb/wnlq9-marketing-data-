@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T07:21:38.893541+00:00",
+  "generated_at": "2026-09-28T05:00:33.042554+00:00",
   "rows": 200,
   "data": [
     {
@@ -264,7 +264,7 @@
       "revenue_thb": 920290.0,
       "margin_thb": 91427.38070000001,
       "last_sale_month": "2026-09-01T00:00:00",
-      "replenishment_signal": "low_margin_watch"
+      "replenishment_signal": "monitor"
     },
     {
       "sku": "LWH0668CN",
@@ -1284,7 +1284,7 @@
       "revenue_thb": 351160.0,
       "margin_thb": 32771.349899999994,
       "last_sale_month": "2026-09-01T00:00:00",
-      "replenishment_signal": "low_margin_watch"
+      "replenishment_signal": "monitor"
     },
     {
       "sku": "LVK0179AE",
