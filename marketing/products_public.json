@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-28T07:10:55.285649+00:00",
-  "rows": 12302,
+  "generated_at": "2026-09-28T07:28:30.726600+00:00",
+  "rows": 12317,
   "data": [
     {
       "sku": "ABA0001BH",
@@ -35824,6 +35824,94 @@
       "brand": "Jack Daniel's",
       "category_name": "Whisky",
       "b2c_price_thb": 4492.93,
+      "is_in_stock": true
+    },
+    {
+      "sku": "LWH1307AH",
+      "product_name": "Eagle Rare Bourbon (750 ml)",
+      "brand": "Eagle Rare",
+      "category_name": "Whisky",
+      "b2c_price_thb": 2770.23,
+      "is_in_stock": true
+    },
+    {
+      "sku": "LWH1308AH",
+      "product_name": "Smokehead Tequila Cask Single Malt (700 ml)",
+      "brand": "Smokehead",
+      "category_name": "Whisky",
+      "b2c_price_thb": 3315.93,
+      "is_in_stock": true
+    },
+    {
+      "sku": "LWH1309AH",
+      "product_name": "Smokehead Sherry Blast (700 ml)",
+      "brand": "Smokehead",
+      "category_name": "Whisky",
+      "b2c_price_thb": 3315.93,
+      "is_in_stock": true
+    },
+    {
+      "sku": "LWH1310AH",
+      "product_name": "Sheep Dip Blended Malt Scotch Whisky (700 ml)",
+      "brand": "Sheep Dip",
+      "category_name": "Whisky",
+      "b2c_price_thb": 2021.23,
+      "is_in_stock": true
+    },
+    {
+      "sku": "LWH1311AH",
+      "product_name": "Tamdhu 18 Year Old Single Malt Scotch Whisky (700 ml)",
+      "brand": "Tamdhu",
+      "category_name": "Whisky",
+      "b2c_price_thb": 14647.23,
+      "is_in_stock": true
+    },
+    {
+      "sku": "LWH1312AH",
+      "product_name": "Early Times American Blended Whisky (700 ml)",
+      "brand": "Early Times",
+      "category_name": "Whisky",
+      "b2c_price_thb": 747.93,
+      "is_in_stock": true
+    },
+    {
+      "sku": "LWH1313AH",
+      "product_name": "1792 Small Batch Bourbon (750 ml)",
+      "brand": "1792 Bourbon",
+      "category_name": "Whisky",
+      "b2c_price_thb": 2085.43,
+      "is_in_stock": true
+    },
+    {
+      "sku": "LWH1314AH",
+      "product_name": "Jura 10 Year Old Single Malt Scotch Whisky (700 ml)",
+      "brand": "Jura",
+      "category_name": "Whisky",
+      "b2c_price_thb": 3733.23,
+      "is_in_stock": true
+    },
+    {
+      "sku": "LWH1315AH",
+      "product_name": "Jura 12 Year Old Sherry Single Malt Scotch Whisky (700 ml)",
+      "brand": "Jura",
+      "category_name": "Whisky",
+      "b2c_price_thb": 4268.23,
+      "is_in_stock": true
+    },
+    {
+      "sku": "LWH1316AH",
+      "product_name": "Jura 15 Year Old Sherry Single Malt Scotch Whisky (700 ml)",
+      "brand": "Jura",
+      "category_name": "Whisky",
+      "b2c_price_thb": 5766.23,
+      "is_in_stock": true
+    },
+    {
+      "sku": "LWH1317AH",
+      "product_name": "Jura Red Wine Cask Finish Single Malt Scotch Whisky (700 ml)",
+      "brand": "Jura",
+      "category_name": "Whisky",
+      "b2c_price_thb": 3412.23,
       "is_in_stock": true
     },
     {
@@ -76467,6 +76555,22 @@
       "is_in_stock": true
     },
     {
+      "sku": "WRW8039HR",
+      "product_name": "Codex Grande Reserve Cabernet Sauvignon Pays d\u2019Oc IGP",
+      "brand": "Codex",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 856.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW8040BS",
+      "product_name": "Velenosi Prope Montepulciano d'Abruzzo",
+      "brand": "Velenosi",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 1070.0,
+      "is_in_stock": true
+    },
+    {
       "sku": "WSP0002AA",
       "product_name": "Delamotte  Brut (375 ml)",
       "brand": "Salon-Delamotte",
@@ -84216,6 +84320,14 @@
       "brand": "Maison Nicolas Morin",
       "category_name": "Sparkling Wine",
       "b2c_price_thb": 2568.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WSP9060HR",
+      "product_name": "Montelliana Prosecco Treviso Extra Dry",
+      "brand": "Montelliana",
+      "category_name": "Sparkling Wine",
+      "b2c_price_thb": 749.0,
       "is_in_stock": true
     },
     {
@@ -98416,6 +98528,14 @@
       "brand": "Domaine Jean-Claude Ramonet",
       "category_name": "White Wine",
       "b2c_price_thb": 19367.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WWW6363HR",
+      "product_name": "Tenuta Ulisse Premium Pinot Grigio Terre di Chieti IGP",
+      "brand": "Tenuta Ulisse",
+      "category_name": "White Wine",
+      "b2c_price_thb": 963.0,
       "is_in_stock": true
     }
   ]
