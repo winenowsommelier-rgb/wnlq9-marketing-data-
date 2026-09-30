@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-30T08:20:51.231596+00:00",
-  "rows": 12316,
+  "generated_at": "2026-09-30T08:38:13.655385+00:00",
+  "rows": 12306,
   "data": [
     {
       "sku": "ABA0001BH",
@@ -13304,30 +13304,6 @@
       "brand": "Komasa",
       "category_name": "Gin",
       "b2c_price_thb": 3690.43,
-      "is_in_stock": false
-    },
-    {
-      "sku": "LGN0248FO",
-      "product_name": "Haymans  London Dry Gin (700 ml)",
-      "brand": "Haymans",
-      "category_name": "Gin",
-      "b2c_price_thb": 1284.0,
-      "is_in_stock": false
-    },
-    {
-      "sku": "LGN0249FO",
-      "product_name": "Haymans  Old Tom Gin (700 ml)",
-      "brand": "Haymans",
-      "category_name": "Gin",
-      "b2c_price_thb": 1284.0,
-      "is_in_stock": false
-    },
-    {
-      "sku": "LGN0250FO",
-      "product_name": "Haymans  Sloe Gin (700 ml)",
-      "brand": "Haymans",
-      "category_name": "Gin",
-      "b2c_price_thb": 1284.0,
       "is_in_stock": false
     },
     {
@@ -29131,14 +29107,6 @@
       "is_in_stock": true
     },
     {
-      "sku": "LWH0033BU",
-      "product_name": "Chivas Regal  Extra (700 ml)",
-      "brand": "Chivas Regal",
-      "category_name": "Whisky",
-      "b2c_price_thb": 1792.25,
-      "is_in_stock": false
-    },
-    {
       "sku": "LWH0034BU",
       "product_name": "Jack Daniel's  Old No.7 (700 ml)",
       "brand": "Jack Daniel's",
@@ -29937,14 +29905,6 @@
       "category_name": "Whisky",
       "b2c_price_thb": 2663.23,
       "is_in_stock": true
-    },
-    {
-      "sku": "LWH0183CE",
-      "product_name": "Arran  14 Year Single Malt Whisky  (700 ml)",
-      "brand": "Arran",
-      "category_name": "Whisky",
-      "b2c_price_thb": 2749.9,
-      "is_in_stock": false
     },
     {
       "sku": "LWH0184CE",
@@ -31899,22 +31859,6 @@
       "is_in_stock": true
     },
     {
-      "sku": "LWH0509BU",
-      "product_name": "Johnnie Walker  Walk Festival Limited Edition Red Label (1 L) (Set 3 Bottles) (No Box)",
-      "brand": "Johnnie Walker",
-      "category_name": "Whisky",
-      "b2c_price_thb": 2883.65,
-      "is_in_stock": false
-    },
-    {
-      "sku": "LWH0510BU",
-      "product_name": "Johnnie Walker  Walk Festival Limited Edition Black Label (1 L) (Set 3 Bottles) (No Box)",
-      "brand": "Johnnie Walker",
-      "category_name": "Whisky",
-      "b2c_price_thb": 5612.15,
-      "is_in_stock": false
-    },
-    {
       "sku": "LWH0511ER",
       "product_name": "Wolfburn  Northland Single Malt Whisky (700 ml)",
       "brand": "Wolfburn",
@@ -32856,22 +32800,6 @@
       "brand": "Benriach",
       "category_name": "Whisky",
       "b2c_price_thb": 2994.93,
-      "is_in_stock": false
-    },
-    {
-      "sku": "LWH0654BU",
-      "product_name": "Glendronach  Original Aged 12 Years (700 ml)",
-      "brand": "Glendronach",
-      "category_name": "Whisky",
-      "b2c_price_thb": 3422.93,
-      "is_in_stock": false
-    },
-    {
-      "sku": "LWH0655BU",
-      "product_name": "Glendronach  Tradititionally Peated (700 ml)",
-      "brand": "Glendronach",
-      "category_name": "Whisky",
-      "b2c_price_thb": 3422.93,
       "is_in_stock": false
     },
     {
@@ -38627,14 +38555,6 @@
       "is_in_stock": false
     },
     {
-      "sku": "WRS0127BU",
-      "product_name": "Jacob's Creek  Classic Shiraz Rose (750 ml)",
-      "brand": "Jacob's Creek",
-      "category_name": "Rose Wine",
-      "b2c_price_thb": 583.15,
-      "is_in_stock": false
-    },
-    {
       "sku": "WRS0131AA",
       "product_name": "Ca\u2019Dei Frati Rosa Dei Frati Riviera Del Garda Classico",
       "brand": "Ca Dei Frati",
@@ -39983,7 +39903,7 @@
       "product_name": "Baron de Brane  Margaux",
       "brand": "Chateau Brane Cantenac",
       "category_name": "Red Wine",
-      "b2c_price_thb": 2889.0,
+      "b2c_price_thb": 2461.0,
       "is_in_stock": true
     },
     {
@@ -42343,7 +42263,7 @@
       "product_name": "Luce Della Vite  La Vite Lucente Toscana IGT",
       "brand": "Luce Della Vite",
       "category_name": "Red Wine",
-      "b2c_price_thb": 1990.2,
+      "b2c_price_thb": 1819.0,
       "is_in_stock": true
     },
     {
@@ -49735,7 +49655,7 @@
       "product_name": "Luce Della Vite  Luce Brunello di Montalcino DOCG",
       "brand": "Luce Della Vite",
       "category_name": "Red Wine",
-      "b2c_price_thb": 7190.4,
+      "b2c_price_thb": 6420.0,
       "is_in_stock": true
     },
     {
@@ -75527,7 +75447,7 @@
       "product_name": "Chateau Pavie Aromes De Pavie 2015",
       "brand": "Chateau Pavie",
       "category_name": "Red Wine",
-      "b2c_price_thb": 5671.0,
+      "b2c_price_thb": 5029.0,
       "is_in_stock": true
     },
     {
@@ -76279,7 +76199,7 @@
       "product_name": "Cantina Sava Campo V Primitivo di Manduria DOP",
       "brand": "Cantina Sava",
       "category_name": "Red Wine",
-      "b2c_price_thb": 1785.83,
+      "b2c_price_thb": 1498.0,
       "is_in_stock": true
     },
     {
@@ -76351,7 +76271,7 @@
       "product_name": "Ch\u00e2teau Croizet-Bages 2016",
       "brand": "Ch\u00e2teau Croizet-Bages",
       "category_name": "Red Wine",
-      "b2c_price_thb": 3210.0,
+      "b2c_price_thb": 2996.0,
       "is_in_stock": true
     },
     {
@@ -76375,7 +76295,7 @@
       "product_name": "Ch\u00e2teau Pavie Premier Grand Cru Class\u00e9 \"A\" Saint-\u00c9milion Grand Cru AOC 2019",
       "brand": "Chateau Pavie",
       "category_name": "Red Wine",
-      "b2c_price_thb": 18190.0,
+      "b2c_price_thb": 15729.0,
       "is_in_stock": true
     },
     {
