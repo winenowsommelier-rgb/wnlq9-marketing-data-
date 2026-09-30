@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-29T10:42:13.312960+00:00",
-  "rows": 12317,
+  "generated_at": "2026-09-30T05:16:58.876416+00:00",
+  "rows": 12316,
   "data": [
     {
       "sku": "ABA0001BH",
@@ -75528,14 +75528,6 @@
       "brand": "Chateau Pavie",
       "category_name": "Red Wine",
       "b2c_price_thb": 5671.0,
-      "is_in_stock": true
-    },
-    {
-      "sku": "WRW7911HR",
-      "product_name": "Chateau Segur de Cabanac, Saint-Est\u00e8phe AOC",
-      "brand": "Chateau Segur de Cabanac",
-      "category_name": "Red Wine",
-      "b2c_price_thb": 1498.0,
       "is_in_stock": true
     },
     {
