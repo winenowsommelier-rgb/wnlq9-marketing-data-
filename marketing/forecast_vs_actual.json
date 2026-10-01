@@ -1,19 +1,7 @@
 {
-  "generated_at": "2026-09-30T08:38:13.655385+00:00",
-  "months": 16,
+  "generated_at": "2026-10-01T08:02:35.089309+00:00",
+  "months": 15,
   "data": [
-    {
-      "month_start": "2025-09-01T00:00:00",
-      "actual_revenue_thb": 6026653.0,
-      "forecast_revenue_thb": null,
-      "forecast_lower_thb": null,
-      "forecast_upper_thb": null,
-      "actual_orders": 606.0,
-      "forecast_total_orders": null,
-      "actual_aov_thb": 9944.97194719472,
-      "forecast_aov_thb": null,
-      "revenue_variance_pct": null
-    },
     {
       "month_start": "2025-10-01T00:00:00",
       "actual_revenue_thb": 5619456.0,
