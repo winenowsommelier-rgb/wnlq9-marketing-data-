@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T05:33:41.895450+00:00",
+  "generated_at": "2026-10-02T05:50:43.405619+00:00",
   "rows": 12306,
   "data": [
     {
@@ -15795,20 +15795,20 @@
       "is_in_stock": false
     },
     {
-      "sku": "LLQ0199AA",
+      "sku": "LLQ0199CN",
       "product_name": "Carpano  Bianco Vermouth (750 ml)",
       "brand": "Carpano",
       "category_name": "Liqueur",
-      "b2c_price_thb": 908.43,
-      "is_in_stock": false
+      "b2c_price_thb": 1058.23,
+      "is_in_stock": true
     },
     {
-      "sku": "LLQ0200AA",
+      "sku": "LLQ0200CN",
       "product_name": "Carpano  Dry Vermouth (750 ml)",
       "brand": "Carpano",
       "category_name": "Liqueur",
-      "b2c_price_thb": 908.43,
-      "is_in_stock": false
+      "b2c_price_thb": 1058.23,
+      "is_in_stock": true
     },
     {
       "sku": "LLQ0205AE",
@@ -17243,11 +17243,11 @@
       "is_in_stock": false
     },
     {
-      "sku": "LLQ0442AA",
+      "sku": "LLQ0442CN",
       "product_name": "Carpano  Classico Vermouth (750 ml)",
       "brand": "Carpano",
       "category_name": "Liqueur",
-      "b2c_price_thb": 908.43,
+      "b2c_price_thb": 1058.23,
       "is_in_stock": false
     },
     {
@@ -26423,7 +26423,7 @@
       "product_name": "Clase Azul  Tequila Reposado (750 ml)",
       "brand": "Clase Azul",
       "category_name": "Tequila",
-      "b2c_price_thb": 14122.93,
+      "b2c_price_thb": 16038.23,
       "is_in_stock": true
     },
     {
@@ -26447,7 +26447,7 @@
       "product_name": "Clase Azul  Tequila Anejo (750 ml)",
       "brand": "Clase Azul",
       "category_name": "Tequila",
-      "b2c_price_thb": 52749.93,
+      "b2c_price_thb": 47078.93,
       "is_in_stock": true
     },
     {
@@ -26503,7 +26503,7 @@
       "product_name": "Clase Azul  Tequila Plata (750 ml)",
       "brand": "Clase Azul",
       "category_name": "Tequila",
-      "b2c_price_thb": 11661.93,
+      "b2c_price_thb": 12293.23,
       "is_in_stock": true
     },
     {
@@ -26911,7 +26911,7 @@
       "product_name": "Clase Azul  Tequila Mezcal Ultra (750 ml)",
       "brand": "Clase Azul",
       "category_name": "Tequila",
-      "b2c_price_thb": 148728.93,
+      "b2c_price_thb": 116628.93,
       "is_in_stock": true
     },
     {
@@ -27135,7 +27135,7 @@
       "product_name": "Clase Azul  Tequila Reposado (200 ml)",
       "brand": "Clase Azul",
       "category_name": "Tequila",
-      "b2c_price_thb": 5348.93,
+      "b2c_price_thb": 4813.93,
       "is_in_stock": true
     },
     {
