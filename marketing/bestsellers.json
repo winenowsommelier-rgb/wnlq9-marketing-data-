@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-10-06T04:41:04.550308+00:00",
+  "generated_at": "2026-10-06T06:48:11.716375+00:00",
   "window_days": 90,
   "rows": 100,
   "data": [
+    {
+      "sku": "LLQ0426CN",
+      "product_name": "Aperol  (1 L)",
+      "brand": "Aperol",
+      "category": "Liqueur",
+      "country": "Italy",
+      "region": "Veneto",
+      "units_sold": 336.0,
+      "revenue_thb": 423926.0,
+      "margin_thb": 31794.449999999997,
+      "margin_pct": 7.5,
+      "avg_unit_price_thb": 1261.6848958333335,
+      "in_stock": true
+    },
     {
       "sku": "LWH0555AA",
       "product_name": "Suntory  Hibiki 30 Years Old Whisky (700 ml)",
@@ -32,20 +46,6 @@
       "in_stock": true
     },
     {
-      "sku": "LLQ0426CN",
-      "product_name": "Aperol  (1 L)",
-      "brand": "Aperol",
-      "category": "Liqueur",
-      "country": "Italy",
-      "region": "Veneto",
-      "units_sold": 240.0,
-      "revenue_thb": 302804.0,
-      "margin_thb": 22710.3,
-      "margin_pct": 7.5,
-      "avg_unit_price_thb": 1261.6848958333335,
-      "in_stock": true
-    },
-    {
       "sku": "LWH1299AA",
       "product_name": "Suntory Hibiki 21 Year Old (100th Anniversary Limited Edition) (700 ml)",
       "brand": "Suntory",
@@ -57,6 +57,20 @@
       "margin_thb": 28000.0,
       "margin_pct": 10.0,
       "avg_unit_price_thb": 280000.0,
+      "in_stock": true
+    },
+    {
+      "sku": "LTQ0034CN",
+      "product_name": "Jose Cuervo  Especial Silver (700 ml)",
+      "brand": "Jose Cuervo",
+      "category": "Tequila",
+      "country": "Mexico",
+      "region": "Jalisco",
+      "units_sold": 233.0,
+      "revenue_thb": 183027.0,
+      "margin_thb": 16006.2204,
+      "margin_pct": 8.7,
+      "avg_unit_price_thb": 797.263247318679,
       "in_stock": true
     },
     {
@@ -85,20 +99,6 @@
       "margin_thb": 9336.3765,
       "margin_pct": 5.6,
       "avg_unit_price_thb": 168223.0,
-      "in_stock": true
-    },
-    {
-      "sku": "LTQ0034CN",
-      "product_name": "Jose Cuervo  Especial Silver (700 ml)",
-      "brand": "Jose Cuervo",
-      "category": "Tequila",
-      "country": "Mexico",
-      "region": "Jalisco",
-      "units_sold": 195.0,
-      "revenue_thb": 153159.0,
-      "margin_thb": 13712.680199999999,
-      "margin_pct": 9.0,
-      "avg_unit_price_thb": 785.4368465969703,
       "in_stock": true
     },
     {
@@ -144,6 +144,20 @@
       "in_stock": true
     },
     {
+      "sku": "LWH0195CN",
+      "product_name": "The Macallan  12 Year Old Sherry Oak (700 ml)",
+      "brand": "The Macallan",
+      "category": "Whisky",
+      "country": "Scotland",
+      "region": "Speyside",
+      "units_sold": 23.0,
+      "revenue_thb": 116978.0,
+      "margin_thb": 11132.317,
+      "margin_pct": 9.5,
+      "avg_unit_price_thb": 5062.608333333334,
+      "in_stock": true
+    },
+    {
       "sku": "WSP2519FC",
       "product_name": "Juv\u00e9 & Camps  Cava Brut Nature Gran Reserva",
       "brand": "Juv\u00e9 & Camps",
@@ -158,17 +172,17 @@
       "in_stock": true
     },
     {
-      "sku": "LWH0195CN",
-      "product_name": "The Macallan  12 Year Old Sherry Oak (700 ml)",
-      "brand": "The Macallan",
-      "category": "Whisky",
-      "country": "Scotland",
-      "region": "Speyside",
-      "units_sold": 20.0,
-      "revenue_thb": 102230.0,
-      "margin_thb": 9940.9414,
-      "margin_pct": 9.7,
-      "avg_unit_price_thb": 5083.533333333333,
+      "sku": "LLQ0014CN",
+      "product_name": "Aperol  (700 ml)",
+      "brand": "Aperol",
+      "category": "Liqueur",
+      "country": "Italy",
+      "region": "Veneto",
+      "units_sold": 124.0,
+      "revenue_thb": 109116.0,
+      "margin_thb": 10321.2396,
+      "margin_pct": 9.5,
+      "avg_unit_price_thb": 880.5176470588235,
       "in_stock": true
     },
     {
@@ -200,6 +214,20 @@
       "in_stock": true
     },
     {
+      "sku": "LLQ0427CN",
+      "product_name": "Campari  Liqueur (1 L)",
+      "brand": "Campari",
+      "category": "Liqueur",
+      "country": "Italy",
+      "region": null,
+      "units_sold": 65.0,
+      "revenue_thb": 99131.0,
+      "margin_thb": 7699.8827,
+      "margin_pct": 7.8,
+      "avg_unit_price_thb": 1525.2896825396824,
+      "in_stock": true
+    },
+    {
       "sku": "LWH1298AA",
       "product_name": "Suntory Yamazaki 18 Year Old Mizunara (Tsukuriwake 2024) (700 ml)",
       "brand": "Suntory",
@@ -211,6 +239,20 @@
       "margin_thb": 9500.0,
       "margin_pct": 10.0,
       "avg_unit_price_thb": 95000.0,
+      "in_stock": true
+    },
+    {
+      "sku": "LWH0318CN",
+      "product_name": "The Macallan  12 Year Old Double Cask (700 ml)",
+      "brand": "The Macallan",
+      "category": "Whisky",
+      "country": "Scotland",
+      "region": "Speyside",
+      "units_sold": 21.0,
+      "revenue_thb": 93082.0,
+      "margin_thb": 7701.106,
+      "margin_pct": 8.3,
+      "avg_unit_price_thb": 4428.325,
       "in_stock": true
     },
     {
@@ -281,34 +323,6 @@
       "margin_thb": 10485.676,
       "margin_pct": 12.6,
       "avg_unit_price_thb": 1606.474598930481,
-      "in_stock": true
-    },
-    {
-      "sku": "LWH0318CN",
-      "product_name": "The Macallan  12 Year Old Double Cask (700 ml)",
-      "brand": "The Macallan",
-      "category": "Whisky",
-      "country": "Scotland",
-      "region": "Speyside",
-      "units_sold": 18.0,
-      "revenue_thb": 79821.0,
-      "margin_thb": 7036.216899999999,
-      "margin_pct": 8.8,
-      "avg_unit_price_thb": 4430.161538461538,
-      "in_stock": true
-    },
-    {
-      "sku": "LLQ0014CN",
-      "product_name": "Aperol  (700 ml)",
-      "brand": "Aperol",
-      "category": "Liqueur",
-      "country": "Italy",
-      "region": "Veneto",
-      "units_sold": 88.0,
-      "revenue_thb": 77490.0,
-      "margin_thb": 7846.6752,
-      "margin_pct": 10.1,
-      "avg_unit_price_thb": 880.7142857142858,
       "in_stock": true
     },
     {
@@ -393,20 +407,6 @@
       "margin_thb": 8357.418599999999,
       "margin_pct": 13.2,
       "avg_unit_price_thb": 63458.0,
-      "in_stock": true
-    },
-    {
-      "sku": "LLQ0427CN",
-      "product_name": "Campari  Liqueur (1 L)",
-      "brand": "Campari",
-      "category": "Liqueur",
-      "country": "Italy",
-      "region": null,
-      "units_sold": 41.0,
-      "revenue_thb": 62570.0,
-      "margin_thb": 4956.6192,
-      "margin_pct": 7.9,
-      "avg_unit_price_thb": 1525.8141025641025,
       "in_stock": true
     },
     {
@@ -522,6 +522,20 @@
       "in_stock": true
     },
     {
+      "sku": "LTQ0171CN",
+      "product_name": "Creyente Mezcal  Joven (750 ml)",
+      "brand": "Creyente Mezcal",
+      "category": "Tequila",
+      "country": "Mexico",
+      "region": "Oaxaca",
+      "units_sold": 28.0,
+      "revenue_thb": 53748.0,
+      "margin_thb": 4256.3243999999995,
+      "margin_pct": 7.9,
+      "avg_unit_price_thb": 1921.0222222222221,
+      "in_stock": true
+    },
+    {
       "sku": "WSP5782BN",
       "product_name": "Louis Roederer  Cristal Brut 2016",
       "brand": "Louis Roederer",
@@ -547,6 +561,20 @@
       "margin_thb": 9037.176000000001,
       "margin_pct": 17.8,
       "avg_unit_price_thb": 16961.666666666668,
+      "in_stock": true
+    },
+    {
+      "sku": "WSP9052EG",
+      "product_name": "Krug Grande Cuvee 171 eme Edition (750 ml)",
+      "brand": "Krug",
+      "category": null,
+      "country": null,
+      "region": null,
+      "units_sold": 4.0,
+      "revenue_thb": 50837.0,
+      "margin_thb": 3238.3169,
+      "margin_pct": 6.4,
+      "avg_unit_price_thb": 12709.166666666668,
       "in_stock": true
     },
     {
@@ -589,20 +617,6 @@
       "margin_thb": 10434.634300000002,
       "margin_pct": 21.4,
       "avg_unit_price_thb": 9733.875,
-      "in_stock": true
-    },
-    {
-      "sku": "LTQ0171CN",
-      "product_name": "Creyente Mezcal  Joven (750 ml)",
-      "brand": "Creyente Mezcal",
-      "category": "Tequila",
-      "country": "Mexico",
-      "region": "Oaxaca",
-      "units_sold": 25.0,
-      "revenue_thb": 48000.0,
-      "margin_thb": 3849.0041999999994,
-      "margin_pct": 8.0,
-      "avg_unit_price_thb": 1923.186507936508,
       "in_stock": true
     },
     {
@@ -746,20 +760,6 @@
       "in_stock": true
     },
     {
-      "sku": "WSP9052EG",
-      "product_name": "Krug Grande Cuvee 171 eme Edition (750 ml)",
-      "brand": "Krug",
-      "category": null,
-      "country": null,
-      "region": null,
-      "units_sold": 3.0,
-      "revenue_thb": 38128.0,
-      "margin_thb": 2428.7536,
-      "margin_pct": 6.4,
-      "avg_unit_price_thb": 12709.333333333334,
-      "in_stock": true
-    },
-    {
       "sku": "LBD0256HK",
       "product_name": "Baron De Sigognac CARAFE 50 ans (700 ml)",
       "brand": "Baron De Sigognac",
@@ -858,6 +858,20 @@
       "in_stock": true
     },
     {
+      "sku": "WWW2246BN",
+      "product_name": "Greywacke  Sauvignon Blanc",
+      "brand": "Greywacke",
+      "category": "White Wine",
+      "country": "New Zealand",
+      "region": "Marlborough",
+      "units_sold": 38.0,
+      "revenue_thb": 35515.0,
+      "margin_thb": 8993.8335,
+      "margin_pct": 25.3,
+      "avg_unit_price_thb": 934.8611111111112,
+      "in_stock": true
+    },
+    {
       "sku": "LTQ0245CN",
       "product_name": "Clase Azul  Tequila Mezcal Guerrero (750 ml)",
       "brand": "Clase Azul",
@@ -925,6 +939,20 @@
       "margin_thb": 7104.3939,
       "margin_pct": 22.1,
       "avg_unit_price_thb": 32103.0,
+      "in_stock": true
+    },
+    {
+      "sku": "WRW0380AD",
+      "product_name": "Concha Y Toro  Don Melchor",
+      "brand": "Concha Y Toro",
+      "category": "Red Wine",
+      "country": "Chile",
+      "region": "Central Valley",
+      "units_sold": 6.0,
+      "revenue_thb": 30836.0,
+      "margin_thb": 6235.039199999999,
+      "margin_pct": 20.2,
+      "avg_unit_price_thb": 5139.333333333333,
       "in_stock": true
     },
     {
@@ -1009,6 +1037,20 @@
       "margin_thb": 5822.8,
       "margin_pct": 20.0,
       "avg_unit_price_thb": 606.5416666666666,
+      "in_stock": true
+    },
+    {
+      "sku": "WSP9005BN",
+      "product_name": "Louis Roederer  Blanc de Blancs 2017",
+      "brand": "Louis Roederer",
+      "category": "Champagne",
+      "country": "France",
+      "region": "Champagne",
+      "units_sold": 8.0,
+      "revenue_thb": 28973.0,
+      "margin_thb": 6768.3185,
+      "margin_pct": 23.4,
+      "avg_unit_price_thb": 3663.7,
       "in_stock": true
     },
     {
@@ -1124,6 +1166,20 @@
       "in_stock": true
     },
     {
+      "sku": "WRW3305DD",
+      "product_name": "Viu Manent  Estate Collection Reserva Merlot",
+      "brand": "Viu Manent",
+      "category": "Red Wine",
+      "country": "Chile",
+      "region": "Central Valley",
+      "units_sold": 50.0,
+      "revenue_thb": 27807.0,
+      "margin_thb": 4900.873,
+      "margin_pct": 17.6,
+      "avg_unit_price_thb": 556.0991902834008,
+      "in_stock": true
+    },
+    {
       "sku": "WRW5836AA",
       "product_name": "Velenosi  Ninfa Marche Rosso IGT",
       "brand": "Velenosi",
@@ -1138,6 +1194,20 @@
       "in_stock": true
     },
     {
+      "sku": "WRW6217FS",
+      "product_name": "Pastourelle De Clerc Milon  \"Le 2nd Vin De Chateau Clerc Milon\" 2016",
+      "brand": "Ch\u00e2teau Clerc Milon",
+      "category": "Red Wine",
+      "country": "France",
+      "region": "Bordeaux",
+      "units_sold": 12.0,
+      "revenue_thb": 26838.0,
+      "margin_thb": 5277.9457,
+      "margin_pct": 19.7,
+      "avg_unit_price_thb": 2238.7000000000003,
+      "in_stock": true
+    },
+    {
       "sku": "LWH0424BT",
       "product_name": "Tomintoul  21 Years Old (700 ml)",
       "brand": "Tomintoul",
@@ -1149,6 +1219,20 @@
       "margin_thb": 6708.728,
       "margin_pct": 25.1,
       "avg_unit_price_thb": 26728.0,
+      "in_stock": true
+    },
+    {
+      "sku": "WRW0203AH",
+      "product_name": "Hardys  Varietal Range Cabernet Sauvignon",
+      "brand": "Hardys",
+      "category": "Red Wine",
+      "country": "Australia",
+      "region": "South Eastern Australia",
+      "units_sold": 71.0,
+      "revenue_thb": 26479.0,
+      "margin_thb": 3757.3700999999996,
+      "margin_pct": 14.2,
+      "avg_unit_price_thb": 372.9392810457516,
       "in_stock": true
     },
     {
@@ -1205,20 +1289,6 @@
       "margin_thb": 1536.86,
       "margin_pct": 6.0,
       "avg_unit_price_thb": 25700.0,
-      "in_stock": true
-    },
-    {
-      "sku": "WSP9005BN",
-      "product_name": "Louis Roederer  Blanc de Blancs 2017",
-      "brand": "Louis Roederer",
-      "category": "Champagne",
-      "country": "France",
-      "region": "Champagne",
-      "units_sold": 7.0,
-      "revenue_thb": 25141.0,
-      "margin_thb": 5811.8513,
-      "margin_pct": 23.1,
-      "avg_unit_price_thb": 3663.7,
       "in_stock": true
     },
     {
@@ -1331,76 +1401,6 @@
       "margin_thb": 2005.6344,
       "margin_pct": 8.4,
       "avg_unit_price_thb": 1829.6666666666665,
-      "in_stock": true
-    },
-    {
-      "sku": "WRW6579FO",
-      "product_name": "Chateau Margaux  2021",
-      "brand": "Chateau Margaux",
-      "category": "Red Wine",
-      "country": "France",
-      "region": "Bordeaux",
-      "units_sold": 1.0,
-      "revenue_thb": 23556.0,
-      "margin_thb": 2153.0184000000004,
-      "margin_pct": 9.1,
-      "avg_unit_price_thb": 23556.0,
-      "in_stock": true
-    },
-    {
-      "sku": "LWH0150BU",
-      "product_name": "Johnnie Walker & Son  King George V (750 ml)",
-      "brand": "Johnnie Walker",
-      "category": "Wine product",
-      "country": "Scotland",
-      "region": "Other Scotland",
-      "units_sold": 1.0,
-      "revenue_thb": 23363.0,
-      "margin_thb": 471.93260000000004,
-      "margin_pct": 2.0,
-      "avg_unit_price_thb": 23363.0,
-      "in_stock": true
-    },
-    {
-      "sku": "WRW3608AD",
-      "product_name": "Pio Cesare  Barbaresco DOCG",
-      "brand": "Pio Cesare",
-      "category": "Red Wine",
-      "country": "Italy",
-      "region": "Piedmont",
-      "units_sold": 10.0,
-      "revenue_thb": 23355.0,
-      "margin_thb": 5355.3015000000005,
-      "margin_pct": 22.9,
-      "avg_unit_price_thb": 2335.5,
-      "in_stock": true
-    },
-    {
-      "sku": "LWH0526ES",
-      "product_name": "Balblair  25 Year (700 ml)",
-      "brand": "Balblair",
-      "category": "Wine product",
-      "country": "Scotland",
-      "region": "Highlands",
-      "units_sold": 1.0,
-      "revenue_thb": 23266.0,
-      "margin_thb": 4183.2268,
-      "margin_pct": 18.0,
-      "avg_unit_price_thb": 23266.0,
-      "in_stock": true
-    },
-    {
-      "sku": "LWH0173CN",
-      "product_name": "The Macallan  The Harmony Collection Intense Arabica (700 ml)",
-      "brand": "The Macallan",
-      "category": null,
-      "country": null,
-      "region": null,
-      "units_sold": 2.0,
-      "revenue_thb": 23252.0,
-      "margin_thb": 2034.4424999999999,
-      "margin_pct": 8.7,
-      "avg_unit_price_thb": 11626.0,
       "in_stock": true
     }
   ]
