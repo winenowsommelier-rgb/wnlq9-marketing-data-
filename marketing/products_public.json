@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-06T08:19:41.290603+00:00",
-  "rows": 12306,
+  "generated_at": "2026-10-06T08:33:55.459540+00:00",
+  "rows": 12315,
   "data": [
     {
       "sku": "ABA0001BH",
@@ -84240,6 +84240,78 @@
       "brand": "Montelliana",
       "category_name": "Sparkling Wine",
       "b2c_price_thb": 749.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WSP9061HR",
+      "product_name": "Champagne Cattier Brut Ic\u00f4ne (Gifted box)",
+      "brand": "Champagne Cattier",
+      "category_name": "Sparkling Wine",
+      "b2c_price_thb": 2675.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WSP9062HR",
+      "product_name": "Champagne Cattier Brut Premier Cru (Gifted box)",
+      "brand": "Champagne Cattier",
+      "category_name": "Sparkling Wine",
+      "b2c_price_thb": 2889.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WSP9063HR",
+      "product_name": "Champagne Cattier Brut Ros\u00e9 Premier Cru (Gifted box)",
+      "brand": "Champagne Cattier",
+      "category_name": "Sparkling Wine",
+      "b2c_price_thb": 3531.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WSP9064HR",
+      "product_name": "Champagne Cattier Brut Blanc de Blancs Premier Cru (Gifted box)",
+      "brand": "Champagne Cattier",
+      "category_name": "Sparkling Wine",
+      "b2c_price_thb": 3852.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WSP9065HR",
+      "product_name": "Champagne Paul Dangin & Fils Cuv\u00e9e Carte Or Brut",
+      "brand": "Champagne Paul Dangin & Fils",
+      "category_name": "Sparkling Wine",
+      "b2c_price_thb": 1926.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WSP9066HR",
+      "product_name": "Champagne Paul Dangin & Fils Cuv\u00e9e Ros\u00e9 Brut",
+      "brand": "Champagne Paul Dangin & Fils",
+      "category_name": "Sparkling Wine",
+      "b2c_price_thb": 2247.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WSP9067HR",
+      "product_name": "Champagne Paul Dangin & Fils Cuv\u00e9e Carte Blanche Brut",
+      "brand": "Champagne Paul Dangin & Fils",
+      "category_name": "Sparkling Wine",
+      "b2c_price_thb": 2889.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WSP9068HR",
+      "product_name": "Marcel Pierre Champagne Brut",
+      "brand": "Champagne  Marcel Pierre",
+      "category_name": "Sparkling Wine",
+      "b2c_price_thb": 1926.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WSP9069HR",
+      "product_name": "Champagne Delot Blanc de Noirs Brut",
+      "brand": "Champagne Delot",
+      "category_name": "Sparkling Wine",
+      "b2c_price_thb": 2033.0,
       "is_in_stock": true
     },
     {
