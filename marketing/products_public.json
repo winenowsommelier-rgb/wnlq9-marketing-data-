@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T05:54:19.682518+00:00",
+  "generated_at": "2026-10-07T05:59:17.849134+00:00",
   "rows": 12315,
   "data": [
     {
@@ -56735,7 +56735,7 @@
       "product_name": "Connetable Talbot  \"Le 2nd Vin De Chateau Talbot\"",
       "brand": "Chateau Talbot",
       "category_name": "Red Wine",
-      "b2c_price_thb": 4173.0,
+      "b2c_price_thb": 2782.0,
       "is_in_stock": true
     },
     {
