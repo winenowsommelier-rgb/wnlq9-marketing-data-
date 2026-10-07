@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T05:40:04.497803+00:00",
+  "generated_at": "2026-10-07T05:54:19.682518+00:00",
   "rows": 12315,
   "data": [
     {
@@ -56731,7 +56731,7 @@
       "is_in_stock": false
     },
     {
-      "sku": "WRW4981AF",
+      "sku": "WRW4981HR",
       "product_name": "Connetable Talbot  \"Le 2nd Vin De Chateau Talbot\"",
       "brand": "Chateau Talbot",
       "category_name": "Red Wine",
@@ -79535,8 +79535,8 @@
       "product_name": "G.H. Mumm  Cordon Rouge Brut (1.5 L)",
       "brand": "Mumm",
       "category_name": "Sparkling Wine",
-      "b2c_price_thb": 7039.53,
-      "is_in_stock": false
+      "b2c_price_thb": 5241.93,
+      "is_in_stock": true
     },
     {
       "sku": "WSP1516BU",
