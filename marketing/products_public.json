@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T08:33:55.459540+00:00",
+  "generated_at": "2026-10-07T05:40:04.497803+00:00",
   "rows": 12315,
   "data": [
     {
@@ -56675,11 +56675,11 @@
       "is_in_stock": true
     },
     {
-      "sku": "WRW4973AF",
+      "sku": "WRW4973HR",
       "product_name": "Chateau De Camensac  Haut Medoc Grand Cru Classe",
       "brand": "Chateau De Camensac",
       "category_name": "Red Wine",
-      "b2c_price_thb": 2889.0,
+      "b2c_price_thb": 2568.0,
       "is_in_stock": true
     },
     {
