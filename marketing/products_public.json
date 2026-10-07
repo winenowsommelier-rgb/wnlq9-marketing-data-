@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T05:59:17.849134+00:00",
+  "generated_at": "2026-10-07T06:30:08.925685+00:00",
   "rows": 12315,
   "data": [
     {
@@ -75299,11 +75299,11 @@
       "is_in_stock": true
     },
     {
-      "sku": "WRW7892AF",
+      "sku": "WRW7892HR",
       "product_name": "Chateau Latour-Martillac 2021",
       "brand": "Chateau Latour Martillac",
       "category_name": "Red Wine",
-      "b2c_price_thb": 2889.0,
+      "b2c_price_thb": 2675.0,
       "is_in_stock": true
     },
     {
