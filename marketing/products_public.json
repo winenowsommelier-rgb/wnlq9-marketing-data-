@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T07:56:55.041033+00:00",
+  "generated_at": "2026-10-08T07:12:52.992048+00:00",
   "rows": 12315,
   "data": [
     {
@@ -56739,12 +56739,12 @@
       "is_in_stock": true
     },
     {
-      "sku": "WRW4983AA",
+      "sku": "WRW4983HR",
       "product_name": "Fluer De Pedesclaux  \"Le 2nd Vin De Chateau Pedesclaux\"",
       "brand": "Chateau Pedesclaux",
       "category_name": "Red Wine",
       "b2c_price_thb": 2145.35,
-      "is_in_stock": false
+      "is_in_stock": true
     },
     {
       "sku": "WRW4986AF",
