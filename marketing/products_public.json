@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T09:16:51.627537+00:00",
+  "generated_at": "2026-10-09T10:47:04.095783+00:00",
   "rows": 12315,
   "data": [
     {
@@ -52995,12 +52995,12 @@
       "is_in_stock": false
     },
     {
-      "sku": "WRW4257AF",
-      "product_name": "Chateau Pavie  1er Grand Cru Classe A",
+      "sku": "WRW4257HR",
+      "product_name": "Ch\u00e2teau Pavie Premier Grand Cru Class\u00e9 A Saint-\u00c9milion Grand Cru 2015",
       "brand": "Chateau Pavie",
       "category_name": "Red Wine",
-      "b2c_price_thb": 34668.0,
-      "is_in_stock": false
+      "b2c_price_thb": 19795.0,
+      "is_in_stock": true
     },
     {
       "sku": "WRW4258AF",
