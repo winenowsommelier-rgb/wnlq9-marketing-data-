@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T14:45:46.107853+00:00",
+  "generated_at": "2026-10-09T05:26:50.957211+00:00",
   "window_days": 90,
   "rows": 100,
   "data": [
@@ -561,20 +561,6 @@
       "margin_thb": 9037.176000000001,
       "margin_pct": 17.8,
       "avg_unit_price_thb": 16961.666666666668,
-      "in_stock": true
-    },
-    {
-      "sku": "WSP9052EG",
-      "product_name": "Krug Grande Cuvee 171 eme Edition (750 ml)",
-      "brand": "Krug",
-      "category": null,
-      "country": null,
-      "region": null,
-      "units_sold": 4.0,
-      "revenue_thb": 50837.0,
-      "margin_thb": 3238.3169,
-      "margin_pct": 6.4,
-      "avg_unit_price_thb": 12709.166666666668,
       "in_stock": true
     },
     {
@@ -1166,6 +1152,20 @@
       "in_stock": true
     },
     {
+      "sku": "WRW4874FS",
+      "product_name": "Chateau Clerc Milon  2015",
+      "brand": "Ch\u00e2teau Clerc Milon",
+      "category": "Red Wine",
+      "country": "France",
+      "region": "Bordeaux",
+      "units_sold": 5.0,
+      "revenue_thb": 27875.0,
+      "margin_thb": 3718.525,
+      "margin_pct": 13.3,
+      "avg_unit_price_thb": 5575.0,
+      "in_stock": true
+    },
+    {
       "sku": "WRW3305DD",
       "product_name": "Viu Manent  Estate Collection Reserva Merlot",
       "brand": "Viu Manent",
@@ -1334,20 +1334,6 @@
       "in_stock": true
     },
     {
-      "sku": "WSP5718CN",
-      "product_name": "Champagne Telmont  Reserve Rose",
-      "brand": "Champagne Telmont",
-      "category": "Champagne",
-      "country": "France",
-      "region": "Champagne",
-      "units_sold": 9.0,
-      "revenue_thb": 24383.0,
-      "margin_thb": 2918.6451,
-      "margin_pct": 12.0,
-      "avg_unit_price_thb": 2709.222222222222,
-      "in_stock": true
-    },
-    {
       "sku": "WRW0255AA",
       "product_name": "Baron Philippe de Rothschild  Mouton Cadet Bordeaux Rouge",
       "brand": "Baron Philippe de Rothschild",
@@ -1401,6 +1387,20 @@
       "margin_thb": 2005.6344,
       "margin_pct": 8.4,
       "avg_unit_price_thb": 1829.6666666666665,
+      "in_stock": true
+    },
+    {
+      "sku": "LGN0063CN",
+      "product_name": "Bulldog  London Dry Gin (750 ml)",
+      "brand": "Bulldog",
+      "category": "Gin",
+      "country": "England",
+      "region": "London",
+      "units_sold": 34.0,
+      "revenue_thb": 23656.0,
+      "margin_thb": 2177.4808999999996,
+      "margin_pct": 9.2,
+      "avg_unit_price_thb": 702.5079365079365,
       "in_stock": true
     }
   ]

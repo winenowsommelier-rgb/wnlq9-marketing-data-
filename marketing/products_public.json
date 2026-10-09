@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T14:45:46.107853+00:00",
+  "generated_at": "2026-10-09T05:26:50.957211+00:00",
   "rows": 12315,
   "data": [
     {
@@ -8496,7 +8496,7 @@
       "brand": "Camus",
       "category_name": "Brandy",
       "b2c_price_thb": 21400.0,
-      "is_in_stock": false
+      "is_in_stock": true
     },
     {
       "sku": "LBD0024BU",
@@ -8648,7 +8648,7 @@
       "brand": "Hennessy",
       "category_name": "Brandy",
       "b2c_price_thb": 1089.26,
-      "is_in_stock": false
+      "is_in_stock": true
     },
     {
       "sku": "LBD0050BU",
@@ -13712,7 +13712,7 @@
       "brand": "Hendrick's",
       "category_name": "Gin",
       "b2c_price_thb": 2459.93,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LGN0309DG",
@@ -19536,7 +19536,7 @@
       "brand": "Appleton Estate",
       "category_name": "Rum",
       "b2c_price_thb": 2342.23,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LRM0008CN",
@@ -19856,7 +19856,7 @@
       "brand": "Plantation",
       "category_name": "Rum",
       "b2c_price_thb": 1486.23,
-      "is_in_stock": false
+      "is_in_stock": true
     },
     {
       "sku": "LRM0099DG",
@@ -19992,7 +19992,7 @@
       "brand": "Bacardi",
       "category_name": "Rum",
       "b2c_price_thb": 854.93,
-      "is_in_stock": false
+      "is_in_stock": true
     },
     {
       "sku": "LRM0130AD",
@@ -20640,7 +20640,7 @@
       "brand": "Captain Morgan",
       "category_name": "Rum",
       "b2c_price_thb": 747.93,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LRM0227DR",
@@ -26480,7 +26480,7 @@
       "brand": "Montelobos",
       "category_name": "Tequila",
       "b2c_price_thb": 4482.23,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LTQ0184CN",
@@ -26488,7 +26488,7 @@
       "brand": "Montelobos",
       "category_name": "Tequila",
       "b2c_price_thb": 5445.23,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LTQ0185CN",
@@ -26496,7 +26496,7 @@
       "brand": "Montelobos",
       "category_name": "Tequila",
       "b2c_price_thb": 7692.23,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LTQ0186CN",
@@ -30832,7 +30832,7 @@
       "brand": "Suntory",
       "category_name": "Whisky",
       "b2c_price_thb": 4920.93,
-      "is_in_stock": false
+      "is_in_stock": true
     },
     {
       "sku": "LWH0345AA",
@@ -34360,7 +34360,7 @@
       "brand": "Woodford Reserve",
       "category_name": "Whisky",
       "b2c_price_thb": 3208.93,
-      "is_in_stock": false
+      "is_in_stock": true
     },
     {
       "sku": "LWH1131BU",
@@ -38792,7 +38792,7 @@
       "brand": "Mirabeau",
       "category_name": "Rose Wine",
       "b2c_price_thb": 1391.0,
-      "is_in_stock": false
+      "is_in_stock": true
     },
     {
       "sku": "WRS0176FC",
@@ -38800,7 +38800,7 @@
       "brand": "Mirabeau",
       "category_name": "Rose Wine",
       "b2c_price_thb": 2140.0,
-      "is_in_stock": false
+      "is_in_stock": true
     },
     {
       "sku": "WRS0177CU",
@@ -44800,7 +44800,7 @@
       "brand": "Echeverria",
       "category_name": "Red Wine",
       "b2c_price_thb": 749.0,
-      "is_in_stock": false
+      "is_in_stock": true
     },
     {
       "sku": "WRW1643BN",
@@ -48680,7 +48680,7 @@
       "brand": "Tenuta San Guido",
       "category_name": "Red Wine",
       "b2c_price_thb": 4237.2,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "WRW3197AD",
@@ -49088,7 +49088,7 @@
       "brand": "San Marzano",
       "category_name": "Red Wine",
       "b2c_price_thb": 556.4,
-      "is_in_stock": false
+      "is_in_stock": true
     },
     {
       "sku": "WRW3273AB",
@@ -55984,7 +55984,7 @@
       "brand": "Chateau Clinet",
       "category_name": "Red Wine",
       "b2c_price_thb": 963.0,
-      "is_in_stock": false
+      "is_in_stock": true
     },
     {
       "sku": "WRW4862BN",
@@ -56080,7 +56080,7 @@
       "brand": "Ch\u00e2teau Clerc Milon",
       "category_name": "Red Wine",
       "b2c_price_thb": 7704.0,
-      "is_in_stock": false
+      "is_in_stock": true
     },
     {
       "sku": "WRW4875BL",
@@ -56744,7 +56744,7 @@
       "brand": "Chateau Pedesclaux",
       "category_name": "Red Wine",
       "b2c_price_thb": 2145.35,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "WRW4986AF",
@@ -58400,7 +58400,7 @@
       "brand": "Brancaia",
       "category_name": "Red Wine",
       "b2c_price_thb": 1300.05,
-      "is_in_stock": false
+      "is_in_stock": true
     },
     {
       "sku": "WRW5286AA",
@@ -59511,15 +59511,15 @@
       "product_name": "Rochester  Cabernet Sauvignon",
       "brand": "Rochester",
       "category_name": "Red Wine",
-      "b2c_price_thb": 791.8,
-      "is_in_stock": false
+      "b2c_price_thb": 845.3,
+      "is_in_stock": true
     },
     {
       "sku": "WRW5440GC",
       "product_name": "Rochester  Shiraz",
       "brand": "Rochester",
       "category_name": "Red Wine",
-      "b2c_price_thb": 791.8,
+      "b2c_price_thb": 845.3,
       "is_in_stock": true
     },
     {
@@ -59527,8 +59527,8 @@
       "product_name": "Rochester  Reserve Shiraz Viognier",
       "brand": "Rochester",
       "category_name": "Red Wine",
-      "b2c_price_thb": 866.7,
-      "is_in_stock": true
+      "b2c_price_thb": 845.3,
+      "is_in_stock": false
     },
     {
       "sku": "WRW5442DW",
@@ -63263,7 +63263,7 @@
       "product_name": "Rochester  Merlot",
       "brand": "Rochester",
       "category_name": "Red Wine",
-      "b2c_price_thb": 791.8,
+      "b2c_price_thb": 845.3,
       "is_in_stock": false
     },
     {
@@ -63271,7 +63271,7 @@
       "product_name": "Rochester  Pinotage",
       "brand": "Rochester",
       "category_name": "Red Wine",
-      "b2c_price_thb": 791.8,
+      "b2c_price_thb": 845.3,
       "is_in_stock": false
     },
     {
@@ -65824,7 +65824,7 @@
       "brand": "Domaine Jaume",
       "category_name": "Red Wine",
       "b2c_price_thb": 1177.0,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "WRW6288CB",
@@ -66280,7 +66280,7 @@
       "brand": "Domaine Thibault Liger-Belair",
       "category_name": "Red Wine",
       "b2c_price_thb": 6313.0,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "WRW6352FC",
@@ -67568,7 +67568,7 @@
       "brand": "Chateau Lafleur Du Roy",
       "category_name": "Red Wine",
       "b2c_price_thb": 2140.0,
-      "is_in_stock": false
+      "is_in_stock": true
     },
     {
       "sku": "WRW6520GT",
@@ -69040,7 +69040,7 @@
       "brand": "Domaine Georges Noellat",
       "category_name": "Red Wine",
       "b2c_price_thb": 6634.0,
-      "is_in_stock": false
+      "is_in_stock": true
     },
     {
       "sku": "WRW6705DJ",
@@ -70504,7 +70504,7 @@
       "brand": "Feudi Bizantini",
       "category_name": "Red Wine",
       "b2c_price_thb": 909.5,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "WRW6893GW",
@@ -70784,7 +70784,7 @@
       "brand": "Cantine Paolini",
       "category_name": "Red Wine",
       "b2c_price_thb": 695.5,
-      "is_in_stock": false
+      "is_in_stock": true
     },
     {
       "sku": "WRW6930GW",
@@ -71432,7 +71432,7 @@
       "brand": "Zuccardi",
       "category_name": "Red Wine",
       "b2c_price_thb": 15943.0,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "WRW7071AB",
@@ -74752,7 +74752,7 @@
       "brand": "Georges Duboeuf",
       "category_name": "Red Wine",
       "b2c_price_thb": 1284.0,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "WRW7821HI",
@@ -74800,7 +74800,7 @@
       "brand": "Ch\u00e2teau Troplong Mondot",
       "category_name": "Red Wine",
       "b2c_price_thb": 6313.0,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "WRW7827GE",
@@ -75944,7 +75944,7 @@
       "brand": "Ch\u00e2teau L\u2019Heyrisson",
       "category_name": "Red Wine",
       "b2c_price_thb": 856.0,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "WRW7974AU",
@@ -81960,7 +81960,7 @@
       "brand": "Champagne Telmont",
       "category_name": "Sparkling Wine",
       "b2c_price_thb": 3101.93,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "WSP5719AD",
@@ -83792,7 +83792,7 @@
       "brand": "Oddbird",
       "category_name": "Sparkling Wine",
       "b2c_price_thb": 1203.75,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "WSP9004AA",
@@ -84176,7 +84176,7 @@
       "brand": "Krug",
       "category_name": "Sparkling Wine",
       "b2c_price_thb": 14550.93,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "WSP9053EG",
@@ -90584,7 +90584,7 @@
       "brand": "Elena Walch",
       "category_name": "White Wine",
       "b2c_price_thb": 1498.0,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "WWW2275FC",
@@ -92743,7 +92743,7 @@
       "product_name": "Rochester  Chardonnay",
       "brand": "Rochester",
       "category_name": "White Wine",
-      "b2c_price_thb": 791.8,
+      "b2c_price_thb": 845.3,
       "is_in_stock": false
     },
     {
@@ -94175,8 +94175,8 @@
       "product_name": "Rochester  Sauvignon Blanc",
       "brand": "Rochester",
       "category_name": "White Wine",
-      "b2c_price_thb": 791.8,
-      "is_in_stock": false
+      "b2c_price_thb": 845.3,
+      "is_in_stock": true
     },
     {
       "sku": "WWW5296AD",
@@ -95096,7 +95096,7 @@
       "brand": "Chateau Maris",
       "category_name": "White Wine",
       "b2c_price_thb": 908.43,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "WWW5413FJ",
@@ -97592,7 +97592,7 @@
       "brand": "Selbach",
       "category_name": "White Wine",
       "b2c_price_thb": 995.1,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "WWW6246AA",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T14:45:46.107853+00:00",
+  "generated_at": "2026-10-09T05:26:50.957211+00:00",
   "rows": 200,
   "data": [
     {
@@ -799,12 +799,12 @@
       "base_product_code": "LWH0343",
       "product_name": "Suntory  Hibiki Japanese Harmony (700 ml)",
       "brand": "Suntory",
-      "is_in_stock": false,
+      "is_in_stock": true,
       "units_sold": 99.0,
       "revenue_thb": 491281.0,
       "margin_thb": 68132.4486,
       "last_sale_month": "2026-09-01T00:00:00",
-      "replenishment_signal": "out_of_stock_high_demand"
+      "replenishment_signal": "monitor"
     },
     {
       "sku": "WSP1089BS",
@@ -907,12 +907,12 @@
       "base_product_code": "WRW4874",
       "product_name": "Chateau Clerc Milon  2015",
       "brand": "Ch\u00e2teau Clerc Milon",
-      "is_in_stock": false,
+      "is_in_stock": true,
       "units_sold": 74.0,
       "revenue_thb": 439963.0,
       "margin_thb": 50499.83180000001,
       "last_sale_month": "2026-08-01T00:00:00",
-      "replenishment_signal": "out_of_stock_high_demand"
+      "replenishment_signal": "monitor"
     },
     {
       "sku": "LGN0081BU",
@@ -1639,12 +1639,12 @@
       "base_product_code": "WRW1642",
       "product_name": "Echeverria  Reserva Cabernet Sauvignon",
       "brand": "Echeverria",
-      "is_in_stock": false,
+      "is_in_stock": true,
       "units_sold": 464.0,
       "revenue_thb": 291247.0,
       "margin_thb": 68113.2807,
       "last_sale_month": "2026-06-01T00:00:00",
-      "replenishment_signal": "out_of_stock_high_demand"
+      "replenishment_signal": "monitor"
     },
     {
       "sku": "WSP1138AE",
