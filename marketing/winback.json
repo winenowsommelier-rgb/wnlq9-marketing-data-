@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T10:47:04.095783+00:00",
+  "generated_at": "2026-10-10T07:55:13.049796+00:00",
   "segments": {
     "At Risk": {
       "rows": 200,
@@ -958,7 +958,7 @@
           "order_count": 3,
           "total_spend_thb": 125934.0,
           "r_score": 5,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -1002,7 +1002,7 @@
           "order_count": 3,
           "total_spend_thb": 118451.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -1178,7 +1178,7 @@
           "order_count": 3,
           "total_spend_thb": 103706.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -1288,7 +1288,7 @@
           "order_count": 3,
           "total_spend_thb": 96890.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -1739,7 +1739,7 @@
           "order_count": 3,
           "total_spend_thb": 73707.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -1893,7 +1893,7 @@
           "order_count": 3,
           "total_spend_thb": 67318.0,
           "r_score": 5,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -1992,7 +1992,7 @@
           "order_count": 3,
           "total_spend_thb": 61440.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -2135,7 +2135,7 @@
           "order_count": 3,
           "total_spend_thb": 56721.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -2201,7 +2201,7 @@
           "order_count": 3,
           "total_spend_thb": 54982.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 5
         }
       ]
@@ -2426,7 +2426,7 @@
           "order_count": 3,
           "total_spend_thb": 107354.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -2459,7 +2459,7 @@
           "order_count": 3,
           "total_spend_thb": 95975.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -2514,7 +2514,7 @@
           "order_count": 1,
           "total_spend_thb": 71004.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 5
         },
         {
@@ -2536,7 +2536,7 @@
           "order_count": 3,
           "total_spend_thb": 64412.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -2591,7 +2591,7 @@
           "order_count": 3,
           "total_spend_thb": 59446.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -2668,7 +2668,7 @@
           "order_count": 3,
           "total_spend_thb": 49818.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -2701,7 +2701,7 @@
           "order_count": 3,
           "total_spend_thb": 47382.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -2756,7 +2756,7 @@
           "order_count": 3,
           "total_spend_thb": 43656.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -2767,7 +2767,7 @@
           "order_count": 1,
           "total_spend_thb": 43464.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 5
         },
         {
@@ -2844,7 +2844,7 @@
           "order_count": 1,
           "total_spend_thb": 41022.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 5
         },
         {
@@ -2943,7 +2943,7 @@
           "order_count": 1,
           "total_spend_thb": 34200.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 5
         },
         {
@@ -2954,7 +2954,7 @@
           "order_count": 3,
           "total_spend_thb": 31464.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -2976,7 +2976,7 @@
           "order_count": 1,
           "total_spend_thb": 30000.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 5
         },
         {
@@ -2987,7 +2987,7 @@
           "order_count": 1,
           "total_spend_thb": 30000.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 5
         },
         {
@@ -3020,7 +3020,7 @@
           "order_count": 3,
           "total_spend_thb": 29357.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -3097,7 +3097,7 @@
           "order_count": 3,
           "total_spend_thb": 27020.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -3108,7 +3108,7 @@
           "order_count": 1,
           "total_spend_thb": 26667.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 5
         },
         {
@@ -3119,7 +3119,7 @@
           "order_count": 1,
           "total_spend_thb": 26398.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 5
         },
         {
@@ -3152,7 +3152,7 @@
           "order_count": 1,
           "total_spend_thb": 23590.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 5
         },
         {
@@ -3174,7 +3174,7 @@
           "order_count": 1,
           "total_spend_thb": 22680.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 5
         },
         {
@@ -3207,7 +3207,7 @@
           "order_count": 3,
           "total_spend_thb": 21870.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -3218,7 +3218,7 @@
           "order_count": 1,
           "total_spend_thb": 21654.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 5
         },
         {
@@ -3262,7 +3262,7 @@
           "order_count": 1,
           "total_spend_thb": 20990.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 5
         },
         {
@@ -3295,7 +3295,7 @@
           "order_count": 3,
           "total_spend_thb": 20310.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -3306,7 +3306,7 @@
           "order_count": 3,
           "total_spend_thb": 20134.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -3328,7 +3328,7 @@
           "order_count": 1,
           "total_spend_thb": 19800.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -3339,7 +3339,7 @@
           "order_count": 3,
           "total_spend_thb": 18430.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -3350,7 +3350,7 @@
           "order_count": 1,
           "total_spend_thb": 18396.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -3361,7 +3361,7 @@
           "order_count": 1,
           "total_spend_thb": 18208.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -3383,7 +3383,7 @@
           "order_count": 1,
           "total_spend_thb": 17960.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -3394,7 +3394,7 @@
           "order_count": 1,
           "total_spend_thb": 17868.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -3416,7 +3416,7 @@
           "order_count": 1,
           "total_spend_thb": 17420.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -3438,7 +3438,7 @@
           "order_count": 1,
           "total_spend_thb": 16939.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -3482,7 +3482,7 @@
           "order_count": 1,
           "total_spend_thb": 16177.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -3526,7 +3526,7 @@
           "order_count": 1,
           "total_spend_thb": 15600.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -3559,7 +3559,7 @@
           "order_count": 1,
           "total_spend_thb": 15000.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -3570,7 +3570,7 @@
           "order_count": 1,
           "total_spend_thb": 15000.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -3581,7 +3581,7 @@
           "order_count": 1,
           "total_spend_thb": 15000.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -3592,7 +3592,7 @@
           "order_count": 3,
           "total_spend_thb": 14980.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -3603,7 +3603,7 @@
           "order_count": 1,
           "total_spend_thb": 14980.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -3614,7 +3614,7 @@
           "order_count": 1,
           "total_spend_thb": 14735.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -3647,7 +3647,7 @@
           "order_count": 1,
           "total_spend_thb": 14430.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -3658,7 +3658,7 @@
           "order_count": 3,
           "total_spend_thb": 14338.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -3669,7 +3669,7 @@
           "order_count": 3,
           "total_spend_thb": 14328.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -3691,7 +3691,7 @@
           "order_count": 1,
           "total_spend_thb": 14271.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -3724,7 +3724,7 @@
           "order_count": 1,
           "total_spend_thb": 13899.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -3735,7 +3735,7 @@
           "order_count": 3,
           "total_spend_thb": 13713.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -3746,7 +3746,7 @@
           "order_count": 1,
           "total_spend_thb": 13482.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -3768,7 +3768,7 @@
           "order_count": 1,
           "total_spend_thb": 13363.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -3790,7 +3790,7 @@
           "order_count": 1,
           "total_spend_thb": 13199.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -3812,7 +3812,7 @@
           "order_count": 1,
           "total_spend_thb": 13128.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -3823,7 +3823,7 @@
           "order_count": 3,
           "total_spend_thb": 13057.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -3911,7 +3911,7 @@
           "order_count": 1,
           "total_spend_thb": 12000.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -3944,7 +3944,7 @@
           "order_count": 1,
           "total_spend_thb": 11610.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -3988,7 +3988,7 @@
           "order_count": 3,
           "total_spend_thb": 10908.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -3999,7 +3999,7 @@
           "order_count": 1,
           "total_spend_thb": 10900.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -4021,7 +4021,7 @@
           "order_count": 1,
           "total_spend_thb": 10619.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -4043,7 +4043,7 @@
           "order_count": 1,
           "total_spend_thb": 10519.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -4054,7 +4054,7 @@
           "order_count": 1,
           "total_spend_thb": 10419.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -4076,7 +4076,7 @@
           "order_count": 3,
           "total_spend_thb": 10374.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -4087,7 +4087,7 @@
           "order_count": 1,
           "total_spend_thb": 10294.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -4098,7 +4098,7 @@
           "order_count": 3,
           "total_spend_thb": 10183.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -4109,7 +4109,7 @@
           "order_count": 1,
           "total_spend_thb": 10095.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -4120,7 +4120,7 @@
           "order_count": 1,
           "total_spend_thb": 9968.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -4131,7 +4131,7 @@
           "order_count": 3,
           "total_spend_thb": 9831.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -4142,7 +4142,7 @@
           "order_count": 3,
           "total_spend_thb": 9764.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -4153,7 +4153,7 @@
           "order_count": 1,
           "total_spend_thb": 9750.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -4164,7 +4164,7 @@
           "order_count": 1,
           "total_spend_thb": 9688.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -4175,7 +4175,7 @@
           "order_count": 1,
           "total_spend_thb": 9655.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -4219,7 +4219,7 @@
           "order_count": 1,
           "total_spend_thb": 9338.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -4230,7 +4230,7 @@
           "order_count": 1,
           "total_spend_thb": 9291.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -4241,7 +4241,7 @@
           "order_count": 1,
           "total_spend_thb": 9291.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -4252,7 +4252,7 @@
           "order_count": 1,
           "total_spend_thb": 9275.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -4274,7 +4274,7 @@
           "order_count": 1,
           "total_spend_thb": 9234.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -4285,7 +4285,7 @@
           "order_count": 1,
           "total_spend_thb": 9195.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -4307,7 +4307,7 @@
           "order_count": 3,
           "total_spend_thb": 9048.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -4318,7 +4318,7 @@
           "order_count": 1,
           "total_spend_thb": 8933.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -4329,7 +4329,7 @@
           "order_count": 1,
           "total_spend_thb": 8828.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -4340,7 +4340,7 @@
           "order_count": 3,
           "total_spend_thb": 8681.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -4351,7 +4351,7 @@
           "order_count": 3,
           "total_spend_thb": 8676.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -4362,7 +4362,7 @@
           "order_count": 3,
           "total_spend_thb": 8634.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -4384,7 +4384,7 @@
           "order_count": 1,
           "total_spend_thb": 8540.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -4395,7 +4395,7 @@
           "order_count": 1,
           "total_spend_thb": 8468.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -4406,7 +4406,7 @@
           "order_count": 1,
           "total_spend_thb": 8399.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         }
       ]
@@ -4443,7 +4443,7 @@
           "recency_days": 760,
           "order_count": 52,
           "total_spend_thb": 1186086.0,
-          "r_score": 3,
+          "r_score": 2,
           "f_score": 5,
           "m_score": 5
         },
@@ -4465,7 +4465,7 @@
           "recency_days": 760,
           "order_count": 14,
           "total_spend_thb": 1000781.0,
-          "r_score": 3,
+          "r_score": 2,
           "f_score": 5,
           "m_score": 5
         },
@@ -4476,7 +4476,7 @@
           "recency_days": 760,
           "order_count": 76,
           "total_spend_thb": 679152.0,
-          "r_score": 3,
+          "r_score": 2,
           "f_score": 5,
           "m_score": 5
         },
@@ -4532,7 +4532,7 @@
           "order_count": 1,
           "total_spend_thb": 510625.0,
           "r_score": 4,
-          "f_score": 3,
+          "f_score": 1,
           "m_score": 5
         },
         {
@@ -4565,7 +4565,7 @@
           "order_count": 3,
           "total_spend_thb": 445809.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -4597,7 +4597,7 @@
           "recency_days": 760,
           "order_count": 11,
           "total_spend_thb": 387512.0,
-          "r_score": 2,
+          "r_score": 3,
           "f_score": 5,
           "m_score": 5
         },
@@ -4796,7 +4796,7 @@
           "order_count": 3,
           "total_spend_thb": 273016.0,
           "r_score": 3,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -4828,7 +4828,7 @@
           "recency_days": 487,
           "order_count": 6,
           "total_spend_thb": 252487.0,
-          "r_score": 3,
+          "r_score": 4,
           "f_score": 5,
           "m_score": 5
         },
@@ -4949,7 +4949,7 @@
           "recency_days": 487,
           "order_count": 4,
           "total_spend_thb": 193439.0,
-          "r_score": 3,
+          "r_score": 4,
           "f_score": 5,
           "m_score": 5
         },
@@ -4994,7 +4994,7 @@
           "order_count": 1,
           "total_spend_thb": 185099.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 5
         },
         {
@@ -5027,7 +5027,7 @@
           "order_count": 3,
           "total_spend_thb": 183376.0,
           "r_score": 2,
-          "f_score": 4,
+          "f_score": 5,
           "m_score": 5
         },
         {
@@ -5037,7 +5037,7 @@
           "recency_days": 760,
           "order_count": 23,
           "total_spend_thb": 176272.0,
-          "r_score": 3,
+          "r_score": 2,
           "f_score": 5,
           "m_score": 5
         },
@@ -5071,7 +5071,7 @@
           "order_count": 1,
           "total_spend_thb": 166247.0,
           "r_score": 1,
-          "f_score": 1,
+          "f_score": 2,
           "m_score": 5
         },
         {
@@ -5170,7 +5170,7 @@
           "order_count": 1,
           "total_spend_thb": 156540.0,
           "r_score": 2,
-          "f_score": 1,
+          "f_score": 2,
           "m_score": 5
         },
         {
@@ -5258,7 +5258,7 @@
           "order_count": 1,
           "total_spend_thb": 147108.0,
           "r_score": 1,
-          "f_score": 1,
+          "f_score": 2,
           "m_score": 5
         },
         {
@@ -5291,7 +5291,7 @@
           "order_count": 1,
           "total_spend_thb": 145000.0,
           "r_score": 1,
-          "f_score": 1,
+          "f_score": 2,
           "m_score": 5
         },
         {
@@ -5324,7 +5324,7 @@
           "order_count": 3,
           "total_spend_thb": 142212.0,
           "r_score": 2,
-          "f_score": 4,
+          "f_score": 5,
           "m_score": 5
         },
         {
@@ -5400,7 +5400,7 @@
           "recency_days": 760,
           "order_count": 9,
           "total_spend_thb": 128822.0,
-          "r_score": 3,
+          "r_score": 2,
           "f_score": 5,
           "m_score": 5
         },
@@ -5554,8 +5554,8 @@
           "recency_days": 487,
           "order_count": 3,
           "total_spend_thb": 114244.0,
-          "r_score": 3,
-          "f_score": 5,
+          "r_score": 4,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -5577,7 +5577,7 @@
           "order_count": 1,
           "total_spend_thb": 114000.0,
           "r_score": 1,
-          "f_score": 1,
+          "f_score": 2,
           "m_score": 5
         },
         {
@@ -5642,7 +5642,7 @@
           "recency_days": 760,
           "order_count": 2,
           "total_spend_thb": 111034.0,
-          "r_score": 3,
+          "r_score": 2,
           "f_score": 4,
           "m_score": 5
         },
@@ -5665,7 +5665,7 @@
           "order_count": 1,
           "total_spend_thb": 109000.0,
           "r_score": 2,
-          "f_score": 2,
+          "f_score": 3,
           "m_score": 5
         },
         {
@@ -5763,7 +5763,7 @@
           "recency_days": 760,
           "order_count": 3,
           "total_spend_thb": 105600.0,
-          "r_score": 3,
+          "r_score": 2,
           "f_score": 5,
           "m_score": 5
         },
@@ -5841,7 +5841,7 @@
           "order_count": 3,
           "total_spend_thb": 102625.0,
           "r_score": 1,
-          "f_score": 4,
+          "f_score": 5,
           "m_score": 5
         },
         {
@@ -5874,7 +5874,7 @@
           "order_count": 3,
           "total_spend_thb": 101098.0,
           "r_score": 1,
-          "f_score": 4,
+          "f_score": 5,
           "m_score": 5
         },
         {
@@ -5973,7 +5973,7 @@
           "order_count": 1,
           "total_spend_thb": 96901.0,
           "r_score": 2,
-          "f_score": 1,
+          "f_score": 2,
           "m_score": 5
         },
         {
@@ -5984,7 +5984,7 @@
           "order_count": 1,
           "total_spend_thb": 96060.0,
           "r_score": 2,
-          "f_score": 1,
+          "f_score": 2,
           "m_score": 5
         },
         {
@@ -6094,7 +6094,7 @@
           "order_count": 3,
           "total_spend_thb": 90263.0,
           "r_score": 2,
-          "f_score": 4,
+          "f_score": 5,
           "m_score": 5
         },
         {
@@ -6138,7 +6138,7 @@
           "order_count": 3,
           "total_spend_thb": 88135.0,
           "r_score": 3,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -6237,7 +6237,7 @@
           "order_count": 1,
           "total_spend_thb": 84496.0,
           "r_score": 1,
-          "f_score": 1,
+          "f_score": 2,
           "m_score": 5
         },
         {
@@ -6248,7 +6248,7 @@
           "order_count": 3,
           "total_spend_thb": 84425.0,
           "r_score": 1,
-          "f_score": 4,
+          "f_score": 5,
           "m_score": 5
         },
         {
@@ -6270,7 +6270,7 @@
           "order_count": 1,
           "total_spend_thb": 83510.0,
           "r_score": 3,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 5
         },
         {
@@ -6336,7 +6336,7 @@
           "order_count": 1,
           "total_spend_thb": 81048.0,
           "r_score": 1,
-          "f_score": 1,
+          "f_score": 2,
           "m_score": 5
         },
         {
@@ -6391,7 +6391,7 @@
           "order_count": 3,
           "total_spend_thb": 79514.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -6435,7 +6435,7 @@
           "order_count": 1,
           "total_spend_thb": 78192.0,
           "r_score": 3,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 5
         },
         {
@@ -6468,7 +6468,7 @@
           "order_count": 3,
           "total_spend_thb": 77754.0,
           "r_score": 3,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -6545,7 +6545,7 @@
           "order_count": 1,
           "total_spend_thb": 76152.0,
           "r_score": 3,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 5
         },
         {
@@ -6600,7 +6600,7 @@
           "order_count": 3,
           "total_spend_thb": 75124.0,
           "r_score": 3,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -10850,7 +10850,7 @@
           "order_count": 1,
           "total_spend_thb": 116280.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -10883,7 +10883,7 @@
           "order_count": 1,
           "total_spend_thb": 85377.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -10916,7 +10916,7 @@
           "order_count": 1,
           "total_spend_thb": 66708.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -10949,7 +10949,7 @@
           "order_count": 1,
           "total_spend_thb": 53496.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -10993,7 +10993,7 @@
           "order_count": 1,
           "total_spend_thb": 40797.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -11114,7 +11114,7 @@
           "order_count": 1,
           "total_spend_thb": 28600.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -11125,7 +11125,7 @@
           "order_count": 1,
           "total_spend_thb": 28270.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -11136,7 +11136,7 @@
           "order_count": 1,
           "total_spend_thb": 27588.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -11180,7 +11180,7 @@
           "order_count": 1,
           "total_spend_thb": 23097.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -11191,7 +11191,7 @@
           "order_count": 1,
           "total_spend_thb": 22274.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -11213,7 +11213,7 @@
           "order_count": 1,
           "total_spend_thb": 21907.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -11224,7 +11224,7 @@
           "order_count": 1,
           "total_spend_thb": 20500.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -11279,7 +11279,7 @@
           "order_count": 1,
           "total_spend_thb": 18540.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -11301,7 +11301,7 @@
           "order_count": 1,
           "total_spend_thb": 16236.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -11356,7 +11356,7 @@
           "order_count": 1,
           "total_spend_thb": 15600.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -11378,7 +11378,7 @@
           "order_count": 1,
           "total_spend_thb": 15401.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -11477,7 +11477,7 @@
           "order_count": 1,
           "total_spend_thb": 12225.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -11499,7 +11499,7 @@
           "order_count": 1,
           "total_spend_thb": 11930.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -11510,7 +11510,7 @@
           "order_count": 1,
           "total_spend_thb": 11816.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -11543,7 +11543,7 @@
           "order_count": 1,
           "total_spend_thb": 11388.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -11565,7 +11565,7 @@
           "order_count": 1,
           "total_spend_thb": 11050.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -11598,7 +11598,7 @@
           "order_count": 1,
           "total_spend_thb": 10575.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -11653,7 +11653,7 @@
           "order_count": 1,
           "total_spend_thb": 10260.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -11730,7 +11730,7 @@
           "order_count": 1,
           "total_spend_thb": 9549.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -11741,7 +11741,7 @@
           "order_count": 1,
           "total_spend_thb": 9520.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -11763,7 +11763,7 @@
           "order_count": 1,
           "total_spend_thb": 9400.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -11785,7 +11785,7 @@
           "order_count": 1,
           "total_spend_thb": 9360.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -11818,7 +11818,7 @@
           "order_count": 1,
           "total_spend_thb": 9180.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -11983,7 +11983,7 @@
           "order_count": 1,
           "total_spend_thb": 8388.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -12016,7 +12016,7 @@
           "order_count": 1,
           "total_spend_thb": 7788.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 3
         },
         {
@@ -12060,7 +12060,7 @@
           "order_count": 1,
           "total_spend_thb": 7525.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 3
         },
         {
@@ -12148,7 +12148,7 @@
           "order_count": 1,
           "total_spend_thb": 6584.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 3
         },
         {
@@ -12181,7 +12181,7 @@
           "order_count": 1,
           "total_spend_thb": 6500.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 3
         },
         {
@@ -12214,7 +12214,7 @@
           "order_count": 1,
           "total_spend_thb": 6480.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 3
         },
         {
@@ -12280,7 +12280,7 @@
           "order_count": 1,
           "total_spend_thb": 6299.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 3
         },
         {
@@ -12346,7 +12346,7 @@
           "order_count": 1,
           "total_spend_thb": 6000.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 3
         },
         {
@@ -12357,7 +12357,7 @@
           "order_count": 1,
           "total_spend_thb": 5999.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 3
         },
         {
@@ -12423,7 +12423,7 @@
           "order_count": 1,
           "total_spend_thb": 5775.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 3
         },
         {
@@ -12467,7 +12467,7 @@
           "order_count": 1,
           "total_spend_thb": 5657.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 3
         },
         {
@@ -12555,7 +12555,7 @@
           "order_count": 1,
           "total_spend_thb": 5449.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 3
         },
         {
@@ -12654,7 +12654,7 @@
           "order_count": 1,
           "total_spend_thb": 4800.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 3
         },
         {
@@ -12665,7 +12665,7 @@
           "order_count": 1,
           "total_spend_thb": 4798.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 3
         },
         {
@@ -12709,7 +12709,7 @@
           "order_count": 1,
           "total_spend_thb": 4648.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 3
         },
         {
@@ -12720,7 +12720,7 @@
           "order_count": 1,
           "total_spend_thb": 4620.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 3
         },
         {
@@ -12753,7 +12753,7 @@
           "order_count": 1,
           "total_spend_thb": 4593.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 3
         },
         {
@@ -12775,7 +12775,7 @@
           "order_count": 1,
           "total_spend_thb": 4560.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 3
         },
         {
@@ -12863,7 +12863,7 @@
           "order_count": 1,
           "total_spend_thb": 4366.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 3
         },
         {
@@ -13006,7 +13006,7 @@
           "order_count": 1,
           "total_spend_thb": 3988.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 3
         },
         {
@@ -13028,7 +13028,7 @@
           "order_count": 1,
           "total_spend_thb": 3948.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 3
         },
         {
