@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T05:52:35.366826+00:00",
-  "rows": 12315,
+  "generated_at": "2026-10-12T06:18:05.390417+00:00",
+  "rows": 12368,
   "data": [
     {
       "sku": "ABA0001BH",
@@ -13307,6 +13307,30 @@
       "is_in_stock": false
     },
     {
+      "sku": "LGN0248AE",
+      "product_name": "Hayman's  London Dry Gin (700 ml)",
+      "brand": "Hayman's",
+      "category_name": "Gin",
+      "b2c_price_thb": 936.25,
+      "is_in_stock": true
+    },
+    {
+      "sku": "LGN0249AE",
+      "product_name": "Hayman's  Old Tom Gin (700 ml)",
+      "brand": "Hayman's",
+      "category_name": "Gin",
+      "b2c_price_thb": 1058.23,
+      "is_in_stock": true
+    },
+    {
+      "sku": "LGN0250AE",
+      "product_name": "Hayman's  Sloe Gin (700 ml)",
+      "brand": "Hayman's",
+      "category_name": "Gin",
+      "b2c_price_thb": 1165.23,
+      "is_in_stock": true
+    },
+    {
       "sku": "LGN0251CN",
       "product_name": "Four Pillars  Navy Strength Gin (700 ml)",
       "brand": "Four Pillars",
@@ -14336,6 +14360,142 @@
       "brand": "Saneha",
       "category_name": "Gin",
       "b2c_price_thb": 1546.15,
+      "is_in_stock": true
+    },
+    {
+      "sku": "LGN0393AE",
+      "product_name": "Hayman's  London Dry Gin (1 L)",
+      "brand": "Hayman's",
+      "category_name": "Gin",
+      "b2c_price_thb": 1257.25,
+      "is_in_stock": true
+    },
+    {
+      "sku": "LGN0394AE",
+      "product_name": "Farmer's Reserve Strength Gin (700 ml)",
+      "brand": "Farmer's",
+      "category_name": "Gin",
+      "b2c_price_thb": 2128.23,
+      "is_in_stock": true
+    },
+    {
+      "sku": "LGN0395BU",
+      "product_name": "Mermaid Gin Small Batch (700 ml)",
+      "brand": "Mermaid",
+      "category_name": "Gin",
+      "b2c_price_thb": 2952.13,
+      "is_in_stock": true
+    },
+    {
+      "sku": "LGN0396BU",
+      "product_name": "Mermaid Pink Gin (700 ml)",
+      "brand": "Mermaid",
+      "category_name": "Gin",
+      "b2c_price_thb": 2952.13,
+      "is_in_stock": true
+    },
+    {
+      "sku": "LGN0397BU",
+      "product_name": "Mermaid Zest Gin (700 ml)",
+      "brand": "Mermaid",
+      "category_name": "Gin",
+      "b2c_price_thb": 2952.13,
+      "is_in_stock": true
+    },
+    {
+      "sku": "LGN0398CN",
+      "product_name": "Forty Spotted Classic Raspberry Rose (700 ml)",
+      "brand": "Forty Spotted",
+      "category_name": "Gin",
+      "b2c_price_thb": 2759.53,
+      "is_in_stock": true
+    },
+    {
+      "sku": "LGN0399CN",
+      "product_name": "Forty Spotted Bush Honey Gin (700 ml)",
+      "brand": "Forty Spotted",
+      "category_name": "Gin",
+      "b2c_price_thb": 2759.53,
+      "is_in_stock": true
+    },
+    {
+      "sku": "LGN0400CN",
+      "product_name": "Forty Spotted Classic Gin (700 ml)",
+      "brand": "Forty Spotted",
+      "category_name": "Gin",
+      "b2c_price_thb": 2759.53,
+      "is_in_stock": true
+    },
+    {
+      "sku": "LGN0401CN",
+      "product_name": "Forty Spotted Citrus & Pepperberry Gin (700 ml)",
+      "brand": "Forty Spotted",
+      "category_name": "Gin",
+      "b2c_price_thb": 2759.53,
+      "is_in_stock": true
+    },
+    {
+      "sku": "LGN0402CN",
+      "product_name": "Forty Spotted Pinot Noir Gin (700 ml)",
+      "brand": "Forty Spotted",
+      "category_name": "Gin",
+      "b2c_price_thb": 2994.93,
+      "is_in_stock": true
+    },
+    {
+      "sku": "LGN0403CN",
+      "product_name": "Forty Spotted Wild Rose Gin (700 ml)",
+      "brand": "Forty Spotted",
+      "category_name": "Gin",
+      "b2c_price_thb": 2759.53,
+      "is_in_stock": true
+    },
+    {
+      "sku": "LGN0404DB",
+      "product_name": "YUNAGI Japanese Gin (500 ml)",
+      "brand": "Yunagi",
+      "category_name": "Gin",
+      "b2c_price_thb": 2247.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "LGN0405DB",
+      "product_name": "NISEKO Ohoro Gin (700 ml)",
+      "brand": "Niseko",
+      "category_name": "Gin",
+      "b2c_price_thb": 2247.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "LGN0406DB",
+      "product_name": "AWAYUKI Strawberry Gin (750 ml)",
+      "brand": "Awayuki",
+      "category_name": "Gin",
+      "b2c_price_thb": 2675.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "LGN0407DB",
+      "product_name": "UMENOYADO GIN (750 ml)",
+      "brand": "Umenoyado",
+      "category_name": "Gin",
+      "b2c_price_thb": 1926.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "LGN0408DB",
+      "product_name": "SASSHU Gin (700 ml)",
+      "brand": "Sasshu",
+      "category_name": "Gin",
+      "b2c_price_thb": 2568.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "LGN0409DB",
+      "product_name": "KOTSUZUMI Japanese Craft Dry Gin Monte Oeste (720 ml)",
+      "brand": "KOTSUZUMI",
+      "category_name": "Gin",
+      "b2c_price_thb": 3424.0,
       "is_in_stock": true
     },
     {
@@ -31099,6 +31259,14 @@
       "is_in_stock": true
     },
     {
+      "sku": "LWH0387AH",
+      "product_name": "Glengoyne  15 Year Old Single Malt Whisky (700 ml)",
+      "brand": "Glengoyne",
+      "category_name": "Whisky",
+      "b2c_price_thb": 7157.23,
+      "is_in_stock": false
+    },
+    {
       "sku": "LWH0388AH",
       "product_name": "Glengoyne  18 Year Old Single Malt Whisky (700 ml)",
       "brand": "Glengoyne",
@@ -35843,6 +36011,182 @@
       "is_in_stock": true
     },
     {
+      "sku": "LWH1318AE",
+      "product_name": "Michter's Bomberger's Declaration Kentucky Straight Bourbon (Limited) (700 ml)",
+      "brand": "Michter's",
+      "category_name": "Whisky",
+      "b2c_price_thb": 6868.33,
+      "is_in_stock": true
+    },
+    {
+      "sku": "LWH1319AE",
+      "product_name": "Michter's Bomberger's Declaration PFG (Precision Fine Grain) Bourbon (Limited) (700 ml)",
+      "brand": "Michter's",
+      "category_name": "Whisky",
+      "b2c_price_thb": 8013.23,
+      "is_in_stock": true
+    },
+    {
+      "sku": "LWH1320AE",
+      "product_name": "Michter's Shenks Homestead Sour Mash (Limited) (700 ml)",
+      "brand": "Michter's",
+      "category_name": "Whisky",
+      "b2c_price_thb": 6868.33,
+      "is_in_stock": true
+    },
+    {
+      "sku": "LWH1321AE",
+      "product_name": "Michter's Barrel Strength Rye (Limited) (700 ml)",
+      "brand": "Michter's",
+      "category_name": "Whisky",
+      "b2c_price_thb": 7018.13,
+      "is_in_stock": true
+    },
+    {
+      "sku": "LWH1322AE",
+      "product_name": "Michter's Toasted Barrel Rye (Limited) (700 ml)",
+      "brand": "Michter's",
+      "category_name": "Whisky",
+      "b2c_price_thb": 15032.43,
+      "is_in_stock": true
+    },
+    {
+      "sku": "LWH1323AE",
+      "product_name": "Michter's Toasted Barrel Bourbon (Limited) (700 ml)",
+      "brand": "Michter's",
+      "category_name": "Whisky",
+      "b2c_price_thb": 15032.43,
+      "is_in_stock": true
+    },
+    {
+      "sku": "LWH1324AE",
+      "product_name": "Ezra Brooks Bourbon (750 ml)",
+      "brand": "Ezra Brooks",
+      "category_name": "Whisky",
+      "b2c_price_thb": 1582.53,
+      "is_in_stock": true
+    },
+    {
+      "sku": "LWH1325AE",
+      "product_name": "Ezra Brooks 80 Bourbon (1 L)",
+      "brand": "Ezra Brooks",
+      "category_name": "Whisky",
+      "b2c_price_thb": 1272.23,
+      "is_in_stock": true
+    },
+    {
+      "sku": "LWH1326AE",
+      "product_name": "Arran Machrie Moor Cask Strength (700 ml)",
+      "brand": "Arran",
+      "category_name": "Whisky",
+      "b2c_price_thb": 3412.23,
+      "is_in_stock": true
+    },
+    {
+      "sku": "LWH1327AE",
+      "product_name": "Arran Machrie Moor Cask 10 Year (700 ml)",
+      "brand": "Arran",
+      "category_name": "Whisky",
+      "b2c_price_thb": 3947.23,
+      "is_in_stock": true
+    },
+    {
+      "sku": "LWH1328AE",
+      "product_name": "Arran 14 Year Old Single Malt Scotch Whisky (700 ml)",
+      "brand": "Arran",
+      "category_name": "Whisky",
+      "b2c_price_thb": 4161.23,
+      "is_in_stock": true
+    },
+    {
+      "sku": "LWH1329AE",
+      "product_name": "Arran 30 Year Old Single Malt Scotch Whisky (700 ml)",
+      "brand": "Arran",
+      "category_name": "Whisky",
+      "b2c_price_thb": 46511.83,
+      "is_in_stock": true
+    },
+    {
+      "sku": "LWH1330AE",
+      "product_name": "Kilchoman 100% Islay Single Malt Scotch Whisky (Limited) (700 ml)",
+      "brand": "Kilchoman",
+      "category_name": "Whisky",
+      "b2c_price_thb": 5669.93,
+      "is_in_stock": true
+    },
+    {
+      "sku": "LWH1331AE",
+      "product_name": "Kilchoman Px Sherry Cask Mature (Limited) (700 ml)",
+      "brand": "Kilchoman",
+      "category_name": "Whisky",
+      "b2c_price_thb": 6525.93,
+      "is_in_stock": true
+    },
+    {
+      "sku": "LWH1332AE",
+      "product_name": "Compass Box Hedonism 2026 (Limited) (700 ml)",
+      "brand": "Compass Box",
+      "category_name": "Whisky",
+      "b2c_price_thb": 6418.93,
+      "is_in_stock": true
+    },
+    {
+      "sku": "LWH1333AE",
+      "product_name": "Compass Box Br\u00fbl\u00e9e Royale (Limited) (700 ml)",
+      "brand": "Compass Box",
+      "category_name": "Whisky",
+      "b2c_price_thb": 6953.93,
+      "is_in_stock": true
+    },
+    {
+      "sku": "LWH1334AE",
+      "product_name": "Glenfarclas 40 Year Old Single Malt Scotch Whisky (700 ml) (Limited Edition)",
+      "brand": "Glenfarclas",
+      "category_name": "Whisky",
+      "b2c_price_thb": 56173.93,
+      "is_in_stock": true
+    },
+    {
+      "sku": "LWH1335AE",
+      "product_name": "Kanosuke Single Malt Japanese Whisky (700 ml)",
+      "brand": "Kanosuke",
+      "category_name": "Whisky",
+      "b2c_price_thb": 6846.93,
+      "is_in_stock": true
+    },
+    {
+      "sku": "LWH1336AE",
+      "product_name": "Kanosuke Hioki Pot Still Japanese Whisky (700 ml)",
+      "brand": "Kanosuke",
+      "category_name": "Whisky",
+      "b2c_price_thb": 7595.93,
+      "is_in_stock": true
+    },
+    {
+      "sku": "LWH1337AE",
+      "product_name": "Kanosuke Double Distillery Japanese Whisky (700 ml)",
+      "brand": "Kanosuke",
+      "category_name": "Whisky",
+      "b2c_price_thb": 8237.93,
+      "is_in_stock": true
+    },
+    {
+      "sku": "LWH1338AE",
+      "product_name": "Kanosuke Single Malt Peated Japanese Whisky (700 ml)",
+      "brand": "Kanosuke",
+      "category_name": "Whisky",
+      "b2c_price_thb": 6953.93,
+      "is_in_stock": true
+    },
+    {
+      "sku": "LWH1339AE",
+      "product_name": "Kanosuke Single Malt Sherry Cask Vatted Japanese Whisky (700 ml)",
+      "brand": "Kanosuke",
+      "category_name": "Whisky",
+      "b2c_price_thb": 6953.93,
+      "is_in_stock": true
+    },
+    {
       "sku": "LWL0001ER",
       "product_name": "Yushan Mau Tai  Liquor (500 ml)",
       "brand": "Yushan Mau Tai",
@@ -37928,6 +38272,22 @@
       "brand": "Sauska",
       "category_name": "Dessert Wine",
       "b2c_price_thb": 3745.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WDW0559HR",
+      "product_name": "Diszn\u00f3k\u0151 Tokaji 1413 \u00c9des Szamorodni (500 ml)",
+      "brand": "Diszn\u00f3k\u0151",
+      "category_name": "Dessert Wine",
+      "b2c_price_thb": 1391.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WDW0560HR",
+      "product_name": "Bosio Moscato d'Asti DOCG",
+      "brand": "Bosio",
+      "category_name": "Dessert Wine",
+      "b2c_price_thb": 642.0,
       "is_in_stock": true
     },
     {
@@ -56707,6 +57067,14 @@
       "is_in_stock": true
     },
     {
+      "sku": "WRW4977HR",
+      "product_name": "Chateau Cos Labory Saint Estephe 5\u00c8me Cru Class\u00e9 2017",
+      "brand": "Chateau Cos Labory",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 2889.0,
+      "is_in_stock": true
+    },
+    {
       "sku": "WRW4978AF",
       "product_name": "Frank Phelan  \"Le 2nd Vin De Chateau Phelan Segur\"",
       "brand": "Chateau Phelan Segur",
@@ -72395,6 +72763,14 @@
       "is_in_stock": true
     },
     {
+      "sku": "WRW7457CB",
+      "product_name": "Ch\u00e2teau Talbot 4\u00e8me Grand Cru Class\u00e9 de Saint-Julien 2018",
+      "brand": "Chateau Talbot",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 5885.0,
+      "is_in_stock": true
+    },
+    {
       "sku": "WRW7463HR",
       "product_name": "Pr\u00e9lude \u00e0 Grand-Puy Ducasse 2017",
       "brand": "Chateau Grand Puy Ducasse",
@@ -76480,6 +76856,30 @@
       "brand": "Velenosi",
       "category_name": "Red Wine",
       "b2c_price_thb": 1070.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW8041GT",
+      "product_name": "Ch\u00e2teau Lafleur du Roy \"Les Lavandi\u00e8res\" Pomerol",
+      "brand": "Chateau Lafleur Du Roy",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 2407.5,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW8042AA",
+      "product_name": "San Marzano Il Pumo Primitivo",
+      "brand": "San Marzano",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 599.2,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW8043BS",
+      "product_name": "Polvanera 16 Primitivo Gioia del Colle",
+      "brand": "Polvanera",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 2354.0,
       "is_in_stock": true
     },
     {
@@ -84312,6 +84712,30 @@
       "brand": "Champagne Delot",
       "category_name": "Sparkling Wine",
       "b2c_price_thb": 2033.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WSP9070HR",
+      "product_name": "La Burgondie Cr\u00e9mant de Bourgogne Blanc de Noirs Brut",
+      "brand": "La Burgondie",
+      "category_name": "Sparkling Wine",
+      "b2c_price_thb": 1177.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WSP9071HR",
+      "product_name": "Pfaff Cr\u00e9mant d\u2019Alsace Blanc de Blancs Brut AOC",
+      "brand": "Pfaff",
+      "category_name": "Sparkling Wine",
+      "b2c_price_thb": 1177.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WSP9072HR",
+      "product_name": "Astoria Moscato Ros\u00e9 Sweet Sparkling",
+      "brand": "Astoria",
+      "category_name": "Sparkling Wine",
+      "b2c_price_thb": 749.0,
       "is_in_stock": true
     },
     {
