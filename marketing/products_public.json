@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T06:18:05.390417+00:00",
+  "generated_at": "2026-10-12T06:31:37.474831+00:00",
   "rows": 12368,
   "data": [
     {
@@ -8360,7 +8360,7 @@
       "brand": "St. George",
       "category_name": null,
       "b2c_price_thb": 4257.53,
-      "is_in_stock": false
+      "is_in_stock": true
     },
     {
       "sku": "LAB0016EQ",
@@ -15951,8 +15951,8 @@
       "product_name": "Carpano  Classico Vermouth (1 L)",
       "brand": "Carpano",
       "category_name": "Liqueur",
-      "b2c_price_thb": 1208.03,
-      "is_in_stock": false
+      "b2c_price_thb": 1154.53,
+      "is_in_stock": true
     },
     {
       "sku": "LLQ0199CN",
@@ -32264,7 +32264,7 @@
       "brand": "Glen Grant",
       "category_name": "Whisky",
       "b2c_price_thb": 3422.93,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LWH0543CN",
@@ -57112,7 +57112,7 @@
       "brand": "Chateau Pedesclaux",
       "category_name": "Red Wine",
       "b2c_price_thb": 2145.35,
-      "is_in_stock": false
+      "is_in_stock": true
     },
     {
       "sku": "WRW4986AF",
@@ -57664,7 +57664,7 @@
       "brand": "La Rioja Alta",
       "category_name": "Red Wine",
       "b2c_price_thb": 15087.0,
-      "is_in_stock": false
+      "is_in_stock": true
     },
     {
       "sku": "WRW5083EG",
@@ -64296,7 +64296,7 @@
       "brand": "Bindi Surgadi",
       "category_name": "Red Wine",
       "b2c_price_thb": 2053.33,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "WRW6038AA",
@@ -73547,12 +73547,12 @@
       "is_in_stock": true
     },
     {
-      "sku": "WRW7614FS",
+      "sku": "WRW7614AU",
       "product_name": "Chateau Clerc Milon  2022",
       "brand": "Ch\u00e2teau Clerc Milon",
       "category_name": "Red Wine",
       "b2c_price_thb": 6848.0,
-      "is_in_stock": false
+      "is_in_stock": true
     },
     {
       "sku": "WRW7615FS",
@@ -81248,7 +81248,7 @@
       "brand": "Allegrini",
       "category_name": "Sparkling Wine",
       "b2c_price_thb": 716.9,
-      "is_in_stock": false
+      "is_in_stock": true
     },
     {
       "sku": "WSP2569CN",
