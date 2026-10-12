@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T08:02:16.454865+00:00",
+  "generated_at": "2026-10-12T05:52:35.366826+00:00",
   "window_days": 90,
   "rows": 100,
   "data": [
@@ -108,11 +108,25 @@
       "category": "Liqueur",
       "country": "Italy",
       "region": null,
-      "units_sold": 122.0,
-      "revenue_thb": 147214.0,
-      "margin_thb": 13000.8009,
-      "margin_pct": 8.8,
-      "avg_unit_price_thb": 1206.2890721649485,
+      "units_sold": 124.0,
+      "revenue_thb": 149754.0,
+      "margin_thb": 13306.8709,
+      "margin_pct": 8.9,
+      "avg_unit_price_thb": 1227.5260481099656,
+      "in_stock": true
+    },
+    {
+      "sku": "LWH0318CN",
+      "product_name": "The Macallan  12 Year Old Double Cask (700 ml)",
+      "brand": "The Macallan",
+      "category": "Whisky",
+      "country": "Scotland",
+      "region": "Speyside",
+      "units_sold": 33.0,
+      "revenue_thb": 146129.0,
+      "margin_thb": 11414.396,
+      "margin_pct": 7.8,
+      "avg_unit_price_thb": 4425.7444444444445,
       "in_stock": true
     },
     {
@@ -178,11 +192,11 @@
       "category": "Liqueur",
       "country": "Italy",
       "region": "Veneto",
-      "units_sold": 124.0,
-      "revenue_thb": 109116.0,
-      "margin_thb": 10321.2396,
+      "units_sold": 127.0,
+      "revenue_thb": 111889.0,
+      "margin_thb": 10652.3358,
       "margin_pct": 9.5,
-      "avg_unit_price_thb": 880.5176470588235,
+      "avg_unit_price_thb": 895.1228758169935,
       "in_stock": true
     },
     {
@@ -242,17 +256,17 @@
       "in_stock": true
     },
     {
-      "sku": "LWH0318CN",
-      "product_name": "The Macallan  12 Year Old Double Cask (700 ml)",
-      "brand": "The Macallan",
-      "category": "Whisky",
-      "country": "Scotland",
-      "region": "Speyside",
-      "units_sold": 21.0,
-      "revenue_thb": 93082.0,
-      "margin_thb": 7701.106,
-      "margin_pct": 8.3,
-      "avg_unit_price_thb": 4428.325,
+      "sku": "WSP1096AD",
+      "product_name": "Veuve Clicquot  Brut Yellow Label (750 ml)",
+      "brand": "Veuve Clicquot",
+      "category": "Champagne",
+      "country": "France",
+      "region": "Champagne",
+      "units_sold": 43.0,
+      "revenue_thb": 93981.0,
+      "margin_thb": 10318.251300000002,
+      "margin_pct": 11.0,
+      "avg_unit_price_thb": 2185.6458333333335,
       "in_stock": true
     },
     {
@@ -267,20 +281,6 @@
       "margin_thb": 12059.336,
       "margin_pct": 13.1,
       "avg_unit_price_thb": 92056.0,
-      "in_stock": true
-    },
-    {
-      "sku": "WSP1096AD",
-      "product_name": "Veuve Clicquot  Brut Yellow Label (750 ml)",
-      "brand": "Veuve Clicquot",
-      "category": "Champagne",
-      "country": "France",
-      "region": "Champagne",
-      "units_sold": 41.0,
-      "revenue_thb": 89609.0,
-      "margin_thb": 9836.456900000001,
-      "margin_pct": 11.0,
-      "avg_unit_price_thb": 2185.46875,
       "in_stock": true
     },
     {
@@ -396,6 +396,20 @@
       "in_stock": true
     },
     {
+      "sku": "WRW4680AD",
+      "product_name": "Penfolds  Bin 28 Shiraz",
+      "brand": "Penfolds",
+      "category": "Red Wine",
+      "country": "Australia",
+      "region": "South Australia",
+      "units_sold": 42.0,
+      "revenue_thb": 66142.0,
+      "margin_thb": 7665.412200000001,
+      "margin_pct": 11.6,
+      "avg_unit_price_thb": 1574.8154454764363,
+      "in_stock": true
+    },
+    {
       "sku": "LBD0244HM",
       "product_name": "Francois Voyer Hors d'Age Cristal  (700 ml)",
       "brand": "Francois Voyer",
@@ -466,20 +480,6 @@
       "in_stock": true
     },
     {
-      "sku": "WRW4680AD",
-      "product_name": "Penfolds  Bin 28 Shiraz",
-      "brand": "Penfolds",
-      "category": "Red Wine",
-      "country": "Australia",
-      "region": "South Australia",
-      "units_sold": 36.0,
-      "revenue_thb": 56693.0,
-      "margin_thb": 5864.4328000000005,
-      "margin_pct": 10.3,
-      "avg_unit_price_thb": 1574.8065015479876,
-      "in_stock": true
-    },
-    {
       "sku": "LWH0140AE",
       "product_name": "Glenfarclas  Single Highland Malt Whisky 30 Years (700 ml)",
       "brand": "Glenfarclas",
@@ -514,11 +514,11 @@
       "category": "Red Wine",
       "country": "Chile",
       "region": "Central Valley",
-      "units_sold": 72.0,
-      "revenue_thb": 53764.0,
-      "margin_thb": 8403.3132,
-      "margin_pct": 15.6,
-      "avg_unit_price_thb": 746.7222222222222,
+      "units_sold": 73.0,
+      "revenue_thb": 54511.0,
+      "margin_thb": 8362.8258,
+      "margin_pct": 15.3,
+      "avg_unit_price_thb": 746.8611111111111,
       "in_stock": true
     },
     {
@@ -603,6 +603,20 @@
       "margin_thb": 10434.634300000002,
       "margin_pct": 21.4,
       "avg_unit_price_thb": 9733.875,
+      "in_stock": true
+    },
+    {
+      "sku": "WRW5531FJ",
+      "product_name": "Georges Duboeuf  Merlot (VDF D'OC)",
+      "brand": "Georges Duboeuf",
+      "category": "Red Wine",
+      "country": "France",
+      "region": "Languedoc-Roussillon",
+      "units_sold": 71.0,
+      "revenue_thb": 48108.0,
+      "margin_thb": 5864.704199999999,
+      "margin_pct": 12.2,
+      "avg_unit_price_thb": 677.7857142857142,
       "in_stock": true
     },
     {
@@ -704,6 +718,20 @@
       "in_stock": true
     },
     {
+      "sku": "WRW1642BN",
+      "product_name": "Echeverria  Reserva Cabernet Sauvignon",
+      "brand": "Echeverria",
+      "category": "Red Wine",
+      "country": "Chile",
+      "region": "Central Valley",
+      "units_sold": 72.0,
+      "revenue_thb": 40037.0,
+      "margin_thb": 4756.395600000001,
+      "margin_pct": 11.9,
+      "avg_unit_price_thb": 556.0694444444445,
+      "in_stock": true
+    },
+    {
       "sku": "WSP1089BS",
       "product_name": "Bottega  Prosecco Gold Brut",
       "brand": "Bottega",
@@ -715,6 +743,20 @@
       "margin_thb": 9719.2393,
       "margin_pct": 24.5,
       "avg_unit_price_thb": 1588.76,
+      "in_stock": true
+    },
+    {
+      "sku": "WRW2158AC",
+      "product_name": "Far Niente  Cabernet Sauvignon",
+      "brand": "Far Niente",
+      "category": "Red Wine",
+      "country": "USA",
+      "region": "California",
+      "units_sold": 5.0,
+      "revenue_thb": 39252.0,
+      "margin_thb": 9251.6964,
+      "margin_pct": 23.6,
+      "avg_unit_price_thb": 7850.4,
       "in_stock": true
     },
     {
@@ -771,6 +813,20 @@
       "margin_thb": 11268.4785,
       "margin_pct": 30.9,
       "avg_unit_price_thb": 507.9125905797101,
+      "in_stock": true
+    },
+    {
+      "sku": "WWW2246BN",
+      "product_name": "Greywacke  Sauvignon Blanc",
+      "brand": "Greywacke",
+      "category": "White Wine",
+      "country": "New Zealand",
+      "region": "Marlborough",
+      "units_sold": 39.0,
+      "revenue_thb": 36450.0,
+      "margin_thb": 10528.726499999999,
+      "margin_pct": 28.9,
+      "avg_unit_price_thb": 934.8648648648649,
       "in_stock": true
     },
     {
@@ -844,17 +900,17 @@
       "in_stock": true
     },
     {
-      "sku": "WWW2246BN",
-      "product_name": "Greywacke  Sauvignon Blanc",
-      "brand": "Greywacke",
-      "category": "White Wine",
-      "country": "New Zealand",
-      "region": "Marlborough",
-      "units_sold": 38.0,
-      "revenue_thb": 35515.0,
-      "margin_thb": 8993.8335,
-      "margin_pct": 25.3,
-      "avg_unit_price_thb": 934.8611111111112,
+      "sku": "WRW4679AD",
+      "product_name": "Penfolds  Bin 2",
+      "brand": "Penfolds",
+      "category": "Red Wine",
+      "country": "Australia",
+      "region": "South Australia",
+      "units_sold": 39.0,
+      "revenue_thb": 35024.0,
+      "margin_thb": 6225.937499999999,
+      "margin_pct": 17.8,
+      "avg_unit_price_thb": 905.0964052287582,
       "in_stock": true
     },
     {
@@ -956,6 +1012,20 @@
       "in_stock": true
     },
     {
+      "sku": "WSP0003FO",
+      "product_name": "Billecart Salmon  Brut Reserve",
+      "brand": "Billecart-Salmon",
+      "category": "Champagne",
+      "country": "France",
+      "region": "Champagne",
+      "units_sold": 10.0,
+      "revenue_thb": 29907.0,
+      "margin_thb": 7506.657000000001,
+      "margin_pct": 25.1,
+      "avg_unit_price_thb": 2990.7,
+      "in_stock": true
+    },
+    {
       "sku": "LWH1129AD",
       "product_name": "The Dalmore  King Alexander III Highland single Malt Scotch Whisky (700 ml)",
       "brand": "The Dalmore",
@@ -967,20 +1037,6 @@
       "margin_thb": 3492.7871999999998,
       "margin_pct": 11.7,
       "avg_unit_price_thb": 14952.0,
-      "in_stock": true
-    },
-    {
-      "sku": "WRW4679AD",
-      "product_name": "Penfolds  Bin 2",
-      "brand": "Penfolds",
-      "category": "Red Wine",
-      "country": "Australia",
-      "region": "South Australia",
-      "units_sold": 33.0,
-      "revenue_thb": 29445.0,
-      "margin_thb": 5128.548199999999,
-      "margin_pct": 17.4,
-      "avg_unit_price_thb": 892.7279411764706,
       "in_stock": true
     },
     {
@@ -1082,6 +1138,34 @@
       "in_stock": true
     },
     {
+      "sku": "LWH1206DG",
+      "product_name": "Boutique-y Bunnahabhain Aged 27 Years - Bangkok Skyline Series Vol 1 (500 ml)",
+      "brand": "That Boutique-y Whisky Company",
+      "category": "Whisky",
+      "country": "Scotland",
+      "region": "Islay",
+      "units_sold": 2.0,
+      "revenue_thb": 28222.0,
+      "margin_thb": 3045.1538,
+      "margin_pct": 10.8,
+      "avg_unit_price_thb": 14111.0,
+      "in_stock": true
+    },
+    {
+      "sku": "WRW5836AA",
+      "product_name": "Velenosi  Ninfa Marche Rosso IGT",
+      "brand": "Velenosi",
+      "category": "Red Wine",
+      "country": "Italy",
+      "region": "Marche",
+      "units_sold": 29.0,
+      "revenue_thb": 28188.0,
+      "margin_thb": 13019.842799999999,
+      "margin_pct": 46.2,
+      "avg_unit_price_thb": 972.0,
+      "in_stock": true
+    },
+    {
       "sku": "WSP1557AB",
       "product_name": "Lanson Champagne  Black Label Brut",
       "brand": "Lanson",
@@ -1180,17 +1264,17 @@
       "in_stock": true
     },
     {
-      "sku": "WRW5836AA",
-      "product_name": "Velenosi  Ninfa Marche Rosso IGT",
-      "brand": "Velenosi",
-      "category": "Red Wine",
-      "country": "Italy",
-      "region": "Marche",
-      "units_sold": 28.0,
-      "revenue_thb": 27216.0,
-      "margin_thb": 12562.905599999998,
-      "margin_pct": 46.2,
-      "avg_unit_price_thb": 972.0,
+      "sku": "WWW5130FJ",
+      "product_name": "Georges Duboeuf  Sauvignon Blanc (VDF D'OC)",
+      "brand": "Georges Duboeuf",
+      "category": "White Wine",
+      "country": "France",
+      "region": "Languedoc-Roussillon",
+      "units_sold": 40.0,
+      "revenue_thb": 27103.0,
+      "margin_thb": 3303.8557,
+      "margin_pct": 12.2,
+      "avg_unit_price_thb": 677.575,
       "in_stock": true
     },
     {
@@ -1317,90 +1401,6 @@
       "margin_thb": 2971.8,
       "margin_pct": 12.0,
       "avg_unit_price_thb": 24765.0,
-      "in_stock": true
-    },
-    {
-      "sku": "WRW3367AD",
-      "product_name": "Wolf Blass  Eaglehawk Merlot",
-      "brand": "Wolf Blass",
-      "category": "Red Wine",
-      "country": "Australia",
-      "region": "South Australia",
-      "units_sold": 67.0,
-      "revenue_thb": 24733.0,
-      "margin_thb": 3495.2528,
-      "margin_pct": 14.1,
-      "avg_unit_price_thb": 369.1509971509971,
-      "in_stock": true
-    },
-    {
-      "sku": "WRW0255AA",
-      "product_name": "Baron Philippe de Rothschild  Mouton Cadet Bordeaux Rouge",
-      "brand": "Baron Philippe de Rothschild",
-      "category": "Red Wine",
-      "country": "France",
-      "region": "Bordeaux",
-      "units_sold": 36.0,
-      "revenue_thb": 24308.0,
-      "margin_thb": 10268.588,
-      "margin_pct": 42.2,
-      "avg_unit_price_thb": 667.0307692307692,
-      "in_stock": true
-    },
-    {
-      "sku": "LWH0078BU",
-      "product_name": "Johnnie Walker  Double Black (1 L)",
-      "brand": "Johnnie Walker",
-      "category": "Wine product",
-      "country": "Scotland",
-      "region": "Other Scotland",
-      "units_sold": 13.0,
-      "revenue_thb": 24287.0,
-      "margin_thb": -48.7608,
-      "margin_pct": -0.2,
-      "avg_unit_price_thb": 1868.125,
-      "in_stock": true
-    },
-    {
-      "sku": "LWH0667CN",
-      "product_name": "The Macallan  15 Year Old Double Cask (700 ml)",
-      "brand": "The Macallan",
-      "category": "Whisky",
-      "country": "Scotland",
-      "region": "Speyside",
-      "units_sold": 3.0,
-      "revenue_thb": 24224.0,
-      "margin_thb": 1283.872,
-      "margin_pct": 5.3,
-      "avg_unit_price_thb": 8074.666666666667,
-      "in_stock": true
-    },
-    {
-      "sku": "LTQ0172CN",
-      "product_name": "400 Conejos Mezcal  Joven (750 ml)",
-      "brand": "400 Conejos Mezcal",
-      "category": "Tequila",
-      "country": "Mexico",
-      "region": "Oaxaca",
-      "units_sold": 13.0,
-      "revenue_thb": 23793.0,
-      "margin_thb": 2005.6344,
-      "margin_pct": 8.4,
-      "avg_unit_price_thb": 1829.6666666666665,
-      "in_stock": true
-    },
-    {
-      "sku": "LGN0063CN",
-      "product_name": "Bulldog  London Dry Gin (750 ml)",
-      "brand": "Bulldog",
-      "category": "Gin",
-      "country": "England",
-      "region": "London",
-      "units_sold": 34.0,
-      "revenue_thb": 23656.0,
-      "margin_thb": 2177.4808999999996,
-      "margin_pct": 9.2,
-      "avg_unit_price_thb": 702.5079365079365,
       "in_stock": true
     }
   ]

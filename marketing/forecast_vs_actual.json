@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T08:02:16.454865+00:00",
+  "generated_at": "2026-10-12T05:52:35.366826+00:00",
   "months": 16,
   "data": [
     {
@@ -148,50 +148,50 @@
     },
     {
       "month_start": "2026-10-01T00:00:00",
-      "actual_revenue_thb": 387889.0,
+      "actual_revenue_thb": 891542.0,
       "forecast_revenue_thb": null,
       "forecast_lower_thb": null,
       "forecast_upper_thb": null,
-      "actual_orders": 47.0,
+      "actual_orders": 95.0,
       "forecast_total_orders": null,
-      "actual_aov_thb": 8252.95744680851,
+      "actual_aov_thb": 9384.652631578947,
       "forecast_aov_thb": null,
       "revenue_variance_pct": null
     },
     {
       "month_start": "2026-11-01T00:00:00",
       "actual_revenue_thb": null,
-      "forecast_revenue_thb": 4842581.333333333,
-      "forecast_lower_thb": 2113865.9445598535,
-      "forecast_upper_thb": 7571296.7221068125,
+      "forecast_revenue_thb": 5010465.666666667,
+      "forecast_lower_thb": 2441860.5438210852,
+      "forecast_upper_thb": 7579070.789512249,
       "actual_orders": null,
-      "forecast_total_orders": 253.66666666666666,
+      "forecast_total_orders": 269.6666666666667,
       "actual_aov_thb": null,
-      "forecast_aov_thb": 16661.309742995578,
+      "forecast_aov_thb": 17038.54147125239,
       "revenue_variance_pct": null
     },
     {
       "month_start": "2026-12-01T00:00:00",
       "actual_revenue_thb": null,
-      "forecast_revenue_thb": 4842581.333333333,
-      "forecast_lower_thb": 2113865.9445598535,
-      "forecast_upper_thb": 7571296.7221068125,
+      "forecast_revenue_thb": 5010465.666666667,
+      "forecast_lower_thb": 2441860.5438210852,
+      "forecast_upper_thb": 7579070.789512249,
       "actual_orders": null,
-      "forecast_total_orders": 253.66666666666666,
+      "forecast_total_orders": 269.6666666666667,
       "actual_aov_thb": null,
-      "forecast_aov_thb": 16661.309742995578,
+      "forecast_aov_thb": 17038.54147125239,
       "revenue_variance_pct": null
     },
     {
       "month_start": "2027-01-01T00:00:00",
       "actual_revenue_thb": null,
-      "forecast_revenue_thb": 4842581.333333333,
-      "forecast_lower_thb": 2113865.9445598535,
-      "forecast_upper_thb": 7571296.7221068125,
+      "forecast_revenue_thb": 5010465.666666667,
+      "forecast_lower_thb": 2441860.5438210852,
+      "forecast_upper_thb": 7579070.789512249,
       "actual_orders": null,
-      "forecast_total_orders": 253.66666666666666,
+      "forecast_total_orders": 269.6666666666667,
       "actual_aov_thb": null,
-      "forecast_aov_thb": 16661.309742995578,
+      "forecast_aov_thb": 17038.54147125239,
       "revenue_variance_pct": null
     }
   ]
