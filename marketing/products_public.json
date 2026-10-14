@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T03:41:19.035804+00:00",
+  "generated_at": "2026-10-14T05:29:15.507208+00:00",
   "rows": 12367,
   "data": [
     {
@@ -75335,7 +75335,7 @@
       "product_name": "Chateau Angelus 2018",
       "brand": "Chateau Angelus",
       "category_name": "Red Wine",
-      "b2c_price_thb": 23647.0,
+      "b2c_price_thb": 25787.0,
       "is_in_stock": true
     },
     {
