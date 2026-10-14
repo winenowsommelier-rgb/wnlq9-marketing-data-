@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T06:55:06.984874+00:00",
+  "generated_at": "2026-10-14T11:11:32.782696+00:00",
   "rows": 12367,
   "data": [
     {
@@ -32823,7 +32823,7 @@
       "product_name": "Glen Moray  15 Years Old Single Malt Whisky (700 ml)",
       "brand": "Glen Moray",
       "category_name": "Whisky",
-      "b2c_price_thb": 2675.0,
+      "b2c_price_thb": 2889.0,
       "is_in_stock": true
     },
     {
@@ -47367,7 +47367,7 @@
       "product_name": "Silver Oak  Cabernet Sauvignon Alexander Valley",
       "brand": "Silver Oak",
       "category_name": "Red Wine",
-      "b2c_price_thb": 4815.0,
+      "b2c_price_thb": 5243.0,
       "is_in_stock": true
     },
     {
