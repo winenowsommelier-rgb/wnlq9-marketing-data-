@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T03:07:15.375952+00:00",
+  "generated_at": "2026-10-14T03:41:19.035804+00:00",
   "rows": 200,
   "data": [
     {
@@ -696,7 +696,7 @@
       "revenue_thb": 521074.0,
       "margin_thb": 51226.8548,
       "last_sale_month": "2026-09-01T00:00:00",
-      "replenishment_signal": "monitor"
+      "replenishment_signal": "low_margin_watch"
     },
     {
       "sku": "WSP1132AA",
