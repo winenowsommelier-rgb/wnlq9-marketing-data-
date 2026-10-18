@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-18T06:48:55.191303+00:00",
-  "rows": 12367,
+  "generated_at": "2026-10-18T14:22:38.480563+00:00",
+  "rows": 12354,
   "data": [
     {
       "sku": "ABA0001BH",
@@ -38075,14 +38075,6 @@
       "is_in_stock": false
     },
     {
-      "sku": "WDW0514AA",
-      "product_name": "Michele Chiarlo  Moscato D'Asti Nivole",
-      "brand": "Michele Chiarlo",
-      "category_name": "Dessert Wine",
-      "b2c_price_thb": 1203.75,
-      "is_in_stock": false
-    },
-    {
       "sku": "WDW0515FO",
       "product_name": "Ornus dell Ornellaia  Toscana IGT 2017 (375 ml)",
       "brand": "Tenuta dell'Ornellaia",
@@ -40923,14 +40915,6 @@
       "is_in_stock": true
     },
     {
-      "sku": "WRW0339AA",
-      "product_name": "Michele Chiarlo  Barbera d'Asti Le Orme Superiore",
-      "brand": "Michele Chiarlo",
-      "category_name": "Red Wine",
-      "b2c_price_thb": 1284.0,
-      "is_in_stock": false
-    },
-    {
       "sku": "WRW0343AD",
       "product_name": "Concha Y Toro  Marques de Casa Concha Cabernet Sauvignon",
       "brand": "Concha Y Toro",
@@ -41011,14 +40995,6 @@
       "is_in_stock": false
     },
     {
-      "sku": "WRW0377AA",
-      "product_name": "Michele Chiarlo  Barolo Tortoniano",
-      "brand": "Michele Chiarlo",
-      "category_name": "Red Wine",
-      "b2c_price_thb": 4269.3,
-      "is_in_stock": false
-    },
-    {
       "sku": "WRW0378AD",
       "product_name": "Correggia  Roero Red, Roche D'Ampsei",
       "brand": "Correggia",
@@ -41033,14 +41009,6 @@
       "category_name": "Red Wine",
       "b2c_price_thb": 6955.0,
       "is_in_stock": true
-    },
-    {
-      "sku": "WRW0381AA",
-      "product_name": "Michele Chiarlo  Barolo Cerequio",
-      "brand": "Michele Chiarlo",
-      "category_name": "Red Wine",
-      "b2c_price_thb": 7832.4,
-      "is_in_stock": false
     },
     {
       "sku": "WRW0383AD",
@@ -62601,62 +62569,6 @@
       "category_name": "Red Wine",
       "b2c_price_thb": 1037.9,
       "is_in_stock": true
-    },
-    {
-      "sku": "WRW5827AA",
-      "product_name": "Michele Chiarlo  Nizza Cipressi DOCG",
-      "brand": "Michele Chiarlo",
-      "category_name": "Red Wine",
-      "b2c_price_thb": 1423.1,
-      "is_in_stock": false
-    },
-    {
-      "sku": "WRW5828AA",
-      "product_name": "Michele Chiarlo  Nizza La Court Riserva DOCG",
-      "brand": "Michele Chiarlo",
-      "category_name": "Red Wine",
-      "b2c_price_thb": 3953.65,
-      "is_in_stock": false
-    },
-    {
-      "sku": "WRW5829AA",
-      "product_name": "Michele Chiarlo  Langhe Il Principe DOC",
-      "brand": "Michele Chiarlo",
-      "category_name": "Red Wine",
-      "b2c_price_thb": 1663.85,
-      "is_in_stock": false
-    },
-    {
-      "sku": "WRW5830AA",
-      "product_name": "Michele Chiarlo  Barbaresco Reyna DOCG",
-      "brand": "Michele Chiarlo",
-      "category_name": "Red Wine",
-      "b2c_price_thb": 2899.7,
-      "is_in_stock": false
-    },
-    {
-      "sku": "WRW5831AA",
-      "product_name": "Michele Chiarlo  Barbaresco Asili DOCG",
-      "brand": "Michele Chiarlo",
-      "category_name": "Red Wine",
-      "b2c_price_thb": 5574.7,
-      "is_in_stock": false
-    },
-    {
-      "sku": "WRW5832AA",
-      "product_name": "Michele Chiarlo  Barbaresco Faset DOCG",
-      "brand": "Michele Chiarlo",
-      "category_name": "Red Wine",
-      "b2c_price_thb": 4879.2,
-      "is_in_stock": false
-    },
-    {
-      "sku": "WRW5833AA",
-      "product_name": "Michele Chiarlo  Barolo Cannubi DOCG",
-      "brand": "Michele Chiarlo",
-      "category_name": "Red Wine",
-      "b2c_price_thb": 7468.6,
-      "is_in_stock": false
     },
     {
       "sku": "WRW5834AD",
@@ -85115,14 +85027,6 @@
       "is_in_stock": true
     },
     {
-      "sku": "WWW0201AA",
-      "product_name": "Michele Chiarlo  Gavi Le Marne DOCG",
-      "brand": "Michele Chiarlo",
-      "category_name": "White Wine",
-      "b2c_price_thb": 1262.6,
-      "is_in_stock": false
-    },
-    {
       "sku": "WWW0202AD",
       "product_name": "Domaine Laroche  Chablis Les Chanoines AOC",
       "brand": "Domaine Laroche",
@@ -94041,14 +93945,6 @@
       "category_name": "White Wine",
       "b2c_price_thb": 2568.0,
       "is_in_stock": true
-    },
-    {
-      "sku": "WWW5227AA",
-      "product_name": "Michele Chiarlo  Roero Arneis Le Madri DOCG",
-      "brand": "Michele Chiarlo",
-      "category_name": "White Wine",
-      "b2c_price_thb": 1374.95,
-      "is_in_stock": false
     },
     {
       "sku": "WWW5228FC",
