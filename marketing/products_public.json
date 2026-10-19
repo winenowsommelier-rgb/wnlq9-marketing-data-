@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T04:58:32.110962+00:00",
-  "rows": 12396,
+  "generated_at": "2026-10-19T05:08:38.712947+00:00",
+  "rows": 12397,
   "data": [
     {
       "sku": "ABA0001BH",
@@ -7469,6 +7469,14 @@
     {
       "sku": "GWN0302AB",
       "product_name": "Riedel  Performance Champagne (Pack 2 piece)",
+      "brand": "Riedel",
+      "category_name": null,
+      "b2c_price_thb": 3317.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "GWN0303AB",
+      "product_name": "Riedel  Performance Syrah/Shiraz (Pack 2 piece)",
       "brand": "Riedel",
       "category_name": null,
       "b2c_price_thb": 3317.0,
