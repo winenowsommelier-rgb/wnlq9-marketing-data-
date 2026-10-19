@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T15:14:52.161251+00:00",
+  "generated_at": "2026-10-19T04:58:32.110962+00:00",
   "rows": 200,
   "data": [
     {
@@ -2311,12 +2311,12 @@
       "base_product_code": "LWH0001",
       "product_name": "Glenfiddich  12 Years Old (700 ml) (With Box)",
       "brand": "Glenfiddich",
-      "is_in_stock": true,
+      "is_in_stock": false,
       "units_sold": 95.0,
       "revenue_thb": 223117.0,
       "margin_thb": 34428.545300000005,
       "last_sale_month": "2026-09-01T00:00:00",
-      "replenishment_signal": "monitor"
+      "replenishment_signal": "out_of_stock_high_demand"
     },
     {
       "sku": "WRW3413BS",

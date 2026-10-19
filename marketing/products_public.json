@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-18T15:14:52.161251+00:00",
-  "rows": 12354,
+  "generated_at": "2026-10-19T04:58:32.110962+00:00",
+  "rows": 12396,
   "data": [
     {
       "sku": "ABA0001BH",
@@ -5544,7 +5544,7 @@
       "brand": "Romeo Y Julieta",
       "category_name": "Cigars",
       "b2c_price_thb": 12840.0,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "CIG0302BT",
@@ -7475,14 +7475,6 @@
       "is_in_stock": true
     },
     {
-      "sku": "GWN0303AB",
-      "product_name": "Riedel  Performance Syrah/Shiraz (Pack 2 piece)",
-      "brand": "Riedel",
-      "category_name": null,
-      "b2c_price_thb": 3317.0,
-      "is_in_stock": true
-    },
-    {
       "sku": "GWN0304AB",
       "product_name": "Riedel  Performance Pinot Noir (Pack 2 piece)",
       "brand": "Riedel",
@@ -8216,7 +8208,7 @@
       "brand": "Riedel",
       "category_name": null,
       "b2c_price_thb": 1765.5,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "GWN0437AB",
@@ -14072,7 +14064,7 @@
       "brand": "Peddlers",
       "category_name": "Gin",
       "b2c_price_thb": 1817.93,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LGN0354GW",
@@ -14496,6 +14488,14 @@
       "brand": "KOTSUZUMI",
       "category_name": "Gin",
       "b2c_price_thb": 3424.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "LGN0410CN",
+      "product_name": "Drumshanbo Gunpowder Irish Gin - Italian Fig & Laurel (700 ml)",
+      "brand": "Drumshanbo",
+      "category_name": "Gin",
+      "b2c_price_thb": 2342.23,
       "is_in_stock": true
     },
     {
@@ -29120,7 +29120,7 @@
       "brand": "Glenfiddich",
       "category_name": "Whisky",
       "b2c_price_thb": 2566.93,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LWH0003AA",
@@ -34059,6 +34059,14 @@
       "is_in_stock": false
     },
     {
+      "sku": "LWH1071AA",
+      "product_name": "Glenfiddich  12 Years Old (No Box) (700 ml)",
+      "brand": "Glenfiddich",
+      "category_name": "Whisky",
+      "b2c_price_thb": 2566.93,
+      "is_in_stock": true
+    },
+    {
       "sku": "LWH1073CN",
       "product_name": "The Macallan  A Night On Earth - The Journey (700 ml)",
       "brand": "The Macallan",
@@ -38075,6 +38083,14 @@
       "is_in_stock": false
     },
     {
+      "sku": "WDW0514FC",
+      "product_name": "Michele Chiarlo  Moscato D'Asti Nivole",
+      "brand": "Michele Chiarlo",
+      "category_name": "Dessert Wine",
+      "b2c_price_thb": 1498.0,
+      "is_in_stock": true
+    },
+    {
       "sku": "WDW0515FO",
       "product_name": "Ornus dell Ornellaia  Toscana IGT 2017 (375 ml)",
       "brand": "Tenuta dell'Ornellaia",
@@ -38139,6 +38155,22 @@
       "is_in_stock": true
     },
     {
+      "sku": "WDW0523AD",
+      "product_name": "Taylor's Vintage 2003",
+      "brand": "Taylor's",
+      "category_name": "Dessert Wine",
+      "b2c_price_thb": 9628.93,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WDW0525AD",
+      "product_name": "Taylor's 10 Year Old Tawny",
+      "brand": "Taylor's",
+      "category_name": "Dessert Wine",
+      "b2c_price_thb": 2941.43,
+      "is_in_stock": true
+    },
+    {
       "sku": "WDW0527AB",
       "product_name": "Famille Perrin Muscat de Beaumes de Venise (375 ml)",
       "brand": "Famille Perrin",
@@ -38152,6 +38184,62 @@
       "brand": "I Veroni",
       "category_name": "Dessert Wine",
       "b2c_price_thb": 2461.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WDW0536AB",
+      "product_name": "Cockburn's  10 Years Tawny Port",
+      "brand": "Cockburn's",
+      "category_name": "Dessert Wine",
+      "b2c_price_thb": 3424.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WDW0537AB",
+      "product_name": "Cockburn's Late Bottled Vintage Port 2017",
+      "brand": "Cockburn's",
+      "category_name": "Dessert Wine",
+      "b2c_price_thb": 2354.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WDW0538AB",
+      "product_name": "Cockburn's  Special Reserve Port",
+      "brand": "Cockburn's",
+      "category_name": "Dessert Wine",
+      "b2c_price_thb": 1498.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WDW0539AB",
+      "product_name": "Cockburn's  Fine Ruby Port",
+      "brand": "Cockburn's",
+      "category_name": "Dessert Wine",
+      "b2c_price_thb": 1284.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WDW0540AB",
+      "product_name": "Cockburn's  Fine White Port",
+      "brand": "Cockburn's",
+      "category_name": "Dessert Wine",
+      "b2c_price_thb": 1284.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WDW0541AB",
+      "product_name": "Quinta Do Vesuvio Capela Vintage Port (Special Edition)",
+      "brand": "Quinta do Vesuvio",
+      "category_name": "Dessert Wine",
+      "b2c_price_thb": 20865.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WDW0542AB",
+      "product_name": "Quinta Do Vesuvio Vintage Port 2022",
+      "brand": "Quinta do Vesuvio",
+      "category_name": "Dessert Wine",
+      "b2c_price_thb": 6527.0,
       "is_in_stock": true
     },
     {
@@ -40915,6 +41003,14 @@
       "is_in_stock": true
     },
     {
+      "sku": "WRW0339FC",
+      "product_name": "Michele Chiarlo  Barbera d'Asti Le Orme",
+      "brand": "Michele Chiarlo",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 1391.0,
+      "is_in_stock": true
+    },
+    {
       "sku": "WRW0343AD",
       "product_name": "Concha Y Toro  Marques de Casa Concha Cabernet Sauvignon",
       "brand": "Concha Y Toro",
@@ -40995,6 +41091,14 @@
       "is_in_stock": false
     },
     {
+      "sku": "WRW0377FC",
+      "product_name": "Michele Chiarlo  Barolo Tortoniano",
+      "brand": "Michele Chiarlo",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 3424.0,
+      "is_in_stock": true
+    },
+    {
       "sku": "WRW0378AD",
       "product_name": "Correggia  Roero Red, Roche D'Ampsei",
       "brand": "Correggia",
@@ -41008,6 +41112,14 @@
       "brand": "Concha Y Toro",
       "category_name": "Red Wine",
       "b2c_price_thb": 6955.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW0381FC",
+      "product_name": "Michele Chiarlo  Barolo Cerequio",
+      "brand": "Michele Chiarlo",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 6741.0,
       "is_in_stock": true
     },
     {
@@ -42408,7 +42520,7 @@
       "brand": "Donnafugata",
       "category_name": "Red Wine",
       "b2c_price_thb": 4280.0,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "WRW1059AB",
@@ -43136,6 +43248,14 @@
       "brand": "Planeta",
       "category_name": "Red Wine",
       "b2c_price_thb": 1278.65,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW1217FC",
+      "product_name": "Michele Chiarlo Cerequio Barolo Riserva DOCG",
+      "brand": "Michele Chiarlo",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 10379.0,
       "is_in_stock": true
     },
     {
@@ -45008,7 +45128,7 @@
       "brand": "Terrazas",
       "category_name": "Red Wine",
       "b2c_price_thb": 1043.25,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "WRW1624BS",
@@ -57584,7 +57704,7 @@
       "brand": "Chateau Latour",
       "category_name": "Red Wine",
       "b2c_price_thb": 40339.0,
-      "is_in_stock": false
+      "is_in_stock": true
     },
     {
       "sku": "WRW5076AC",
@@ -58240,7 +58360,7 @@
       "brand": "Chateau Laroque",
       "category_name": "Red Wine",
       "b2c_price_thb": 1926.0,
-      "is_in_stock": false
+      "is_in_stock": true
     },
     {
       "sku": "WRW5186FC",
@@ -58304,7 +58424,7 @@
       "brand": "Agricola San Felice",
       "category_name": "Red Wine",
       "b2c_price_thb": 1391.0,
-      "is_in_stock": false
+      "is_in_stock": true
     },
     {
       "sku": "WRW5194FC",
@@ -59944,7 +60064,7 @@
       "brand": "Ch\u00e2teau Clerc Milon",
       "category_name": "Red Wine",
       "b2c_price_thb": 7169.0,
-      "is_in_stock": false
+      "is_in_stock": true
     },
     {
       "sku": "WRW5453AC",
@@ -62088,7 +62208,7 @@
       "brand": "Quinta Da Fonte Souto",
       "category_name": "Red Wine",
       "b2c_price_thb": 963.0,
-      "is_in_stock": false
+      "is_in_stock": true
     },
     {
       "sku": "WRW5758AB",
@@ -62571,6 +62691,54 @@
       "is_in_stock": true
     },
     {
+      "sku": "WRW5827FC",
+      "product_name": "Michele Chiarlo I Cipressi \"Nizza\" DOCG",
+      "brand": "Michele Chiarlo",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 1712.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW5828FC",
+      "product_name": "Michele Chiarlo La Court \u201cNizza\u201d Riserva DOCG",
+      "brand": "Michele Chiarlo",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 3745.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW5829FC",
+      "product_name": "Michele Chiarlo Il Principe Nebbiolo Langhe DOC",
+      "brand": "Michele Chiarlo",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 1712.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW5830FC",
+      "product_name": "Michele Chiarlo  Barbaresco Reyna DOCG",
+      "brand": "Michele Chiarlo",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 2996.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW5832FC",
+      "product_name": "Michele Chiarlo  Barbaresco Faset DOCG",
+      "brand": "Michele Chiarlo",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 4387.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW5833FC",
+      "product_name": "Michele Chiarlo  Barolo Cannubi DOCG",
+      "brand": "Michele Chiarlo",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 5885.0,
+      "is_in_stock": true
+    },
+    {
       "sku": "WRW5834AD",
       "product_name": "Penfolds  Barossa Valley Explorer Dual Pack",
       "brand": "Penfolds",
@@ -62608,7 +62776,7 @@
       "brand": "Jeff Carrel",
       "category_name": "Red Wine",
       "b2c_price_thb": 1498.0,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "WRW5839FC",
@@ -66328,7 +66496,7 @@
       "brand": "Louis Latour",
       "category_name": "Red Wine",
       "b2c_price_thb": 8667.0,
-      "is_in_stock": false
+      "is_in_stock": true
     },
     {
       "sku": "WRW6324FC",
@@ -68560,7 +68728,7 @@
       "brand": "Masseria La Volpe",
       "category_name": "Red Wine",
       "b2c_price_thb": 1091.4,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "WRW6611GW",
@@ -72264,6 +72432,110 @@
       "brand": "Stonyridge",
       "category_name": "Red Wine",
       "b2c_price_thb": 2140.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW7353AB",
+      "product_name": "Cabriz Cohleita Dao",
+      "brand": "Cabriz",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 749.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW7354AB",
+      "product_name": "Luis Pato Quinta do Ribeirinho P\u00e9 Franco Bairrada DOC",
+      "brand": "Luis Pato",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 8346.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW7356AB",
+      "product_name": "Luis Pato Vinha Pan Vinho Reginal Beiras",
+      "brand": "Luis Pato",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 2140.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW7358AB",
+      "product_name": "Luis Pato Vinhas Velhas Red",
+      "brand": "Luis Pato",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 1605.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW7359AB",
+      "product_name": "Prats & Symington Chryseia Douro DOC",
+      "brand": "Prats & Symington",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 6420.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW7360AB",
+      "product_name": "Prats & Symington Post Scriptum Douro DOC",
+      "brand": "Prats & Symington",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 1712.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW7362AB",
+      "product_name": "Prats & Symington Prazo De Roriz Douro DOC",
+      "brand": "Prats & Symington",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 1177.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW7364AB",
+      "product_name": "Quinta Da Fonte Souto Vinha Do Souto Alentejo DOC",
+      "brand": "Quinta Da Fonte Souto",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 3745.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW7365AB",
+      "product_name": "Quinta Da Fonte Souto  Alentejo DOC Red",
+      "brand": "Quinta Da Fonte Souto",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 1605.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW7366AB",
+      "product_name": "Quinta Do Vesuvio  Douro Red",
+      "brand": "Quinta do Vesuvio",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 5350.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW7367AB",
+      "product_name": "Quinta Do Vesuvio Comboio Vesuvio Douro Red (Unoaked)",
+      "brand": "Quinta do Vesuvio",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 1284.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW7368AB",
+      "product_name": "Udaca Andro Da S\u00e9dao Reserva",
+      "brand": "Udaca",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 963.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW7369AB",
+      "product_name": "Udaca Cohleita Udaca Dao",
+      "brand": "Udaca",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 749.0,
       "is_in_stock": true
     },
     {
@@ -76779,6 +77051,14 @@
       "is_in_stock": true
     },
     {
+      "sku": "WRW8043AH",
+      "product_name": "Tarapaca Etiqueta Dorada Cabernet Sauvignon Gift Box Set",
+      "brand": "Tarapaca",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 3208.93,
+      "is_in_stock": true
+    },
+    {
       "sku": "WRW8043BS",
       "product_name": "Polvanera 16 Primitivo Gioia del Colle",
       "brand": "Polvanera",
@@ -78312,7 +78592,7 @@
       "brand": "Laurent Perrier",
       "category_name": "Sparkling Wine",
       "b2c_price_thb": 2247.0,
-      "is_in_stock": false
+      "is_in_stock": true
     },
     {
       "sku": "WSP1242EG",
@@ -78328,7 +78608,7 @@
       "brand": "Laurent Perrier",
       "category_name": "Sparkling Wine",
       "b2c_price_thb": 20758.0,
-      "is_in_stock": false
+      "is_in_stock": true
     },
     {
       "sku": "WSP1244AC",
@@ -80816,7 +81096,7 @@
       "brand": "Juv\u00e9 & Camps",
       "category_name": "Sparkling Wine",
       "b2c_price_thb": 1926.0,
-      "is_in_stock": false
+      "is_in_stock": true
     },
     {
       "sku": "WSP2519FC",
@@ -83995,6 +84275,14 @@
       "is_in_stock": true
     },
     {
+      "sku": "WSP8989AB",
+      "product_name": "Luis Pato Espumante Maria Gomes",
+      "brand": "Luis Pato",
+      "category_name": "Sparkling Wine",
+      "b2c_price_thb": 963.0,
+      "is_in_stock": true
+    },
+    {
       "sku": "WSP8991CB",
       "product_name": "Fratelli Ponte Spumante Brut 68",
       "brand": "Fratelli Ponte",
@@ -85027,6 +85315,14 @@
       "is_in_stock": true
     },
     {
+      "sku": "WWW0201FC",
+      "product_name": "Michele Chiarlo  Le Marne Gavi DOCG",
+      "brand": "Michele Chiarlo",
+      "category_name": "White Wine",
+      "b2c_price_thb": 1498.0,
+      "is_in_stock": true
+    },
+    {
       "sku": "WWW0202AD",
       "product_name": "Domaine Laroche  Chablis Les Chanoines AOC",
       "brand": "Domaine Laroche",
@@ -85152,7 +85448,7 @@
       "brand": "Fantinel",
       "category_name": "White Wine",
       "b2c_price_thb": 1401.7,
-      "is_in_stock": false
+      "is_in_stock": true
     },
     {
       "sku": "WWW0239AA",
@@ -93947,6 +94243,14 @@
       "is_in_stock": true
     },
     {
+      "sku": "WWW5227FC",
+      "product_name": "Michele Chiarlo  Roero Arneis Le Madri DOCG",
+      "brand": "Michele Chiarlo",
+      "category_name": "White Wine",
+      "b2c_price_thb": 1498.0,
+      "is_in_stock": true
+    },
+    {
       "sku": "WWW5228FC",
       "product_name": "Jeff Carrel  Sign of the times Chardonnay",
       "brand": "Jeff Carrel",
@@ -97432,6 +97736,38 @@
       "brand": "Lv By Louis Vavasour",
       "category_name": "White Wine",
       "b2c_price_thb": 2568.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WWW6163AB",
+      "product_name": "Cabriz Cabriz Reserva White Encruzado",
+      "brand": "Cabriz",
+      "category_name": "White Wine",
+      "b2c_price_thb": 1177.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WWW6164AB",
+      "product_name": "Luis Pato Vinha Formal (Bical)",
+      "brand": "Luis Pato",
+      "category_name": "White Wine",
+      "b2c_price_thb": 1498.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WWW6165AB",
+      "product_name": "Luis Pato Vinhas Velhas Branco",
+      "brand": "Luis Pato",
+      "category_name": "White Wine",
+      "b2c_price_thb": 1070.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WWW6170AB",
+      "product_name": "Quinta Da Fonte Souto Taifa (Arinto)",
+      "brand": "Quinta Da Fonte Souto",
+      "category_name": "White Wine",
+      "b2c_price_thb": 4280.0,
       "is_in_stock": true
     },
     {
