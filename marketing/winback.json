@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T06:52:31.752378+00:00",
+  "generated_at": "2026-10-20T07:07:13.101063+00:00",
   "segments": {
     "At Risk": {
       "rows": 200,
@@ -247,17 +247,6 @@
           "m_score": 5
         },
         {
-          "email": "emperpride@hotmail.com",
-          "rfm_segment": "At Risk",
-          "last_order_month": "2026-06-01T00:00:00",
-          "recency_days": 122,
-          "order_count": 24,
-          "total_spend_thb": 342750.0,
-          "r_score": 5,
-          "f_score": 5,
-          "m_score": 5
-        },
-        {
           "email": "hardy_watganai@hotmail.com",
           "rfm_segment": "At Risk",
           "last_order_month": "2026-06-01T00:00:00",
@@ -357,17 +346,6 @@
           "m_score": 5
         },
         {
-          "email": "booking@hornbillrental.com",
-          "rfm_segment": "At Risk",
-          "last_order_month": "2026-05-01T00:00:00",
-          "recency_days": 153,
-          "order_count": 25,
-          "total_spend_thb": 244803.0,
-          "r_score": 5,
-          "f_score": 5,
-          "m_score": 5
-        },
-        {
           "email": "cham1992@windowslive.com",
           "rfm_segment": "At Risk",
           "last_order_month": "2026-05-01T00:00:00",
@@ -462,17 +440,6 @@
           "recency_days": 214,
           "order_count": 22,
           "total_spend_thb": 200239.0,
-          "r_score": 5,
-          "f_score": 5,
-          "m_score": 5
-        },
-        {
-          "email": "juthapreut.ri@gmail.com",
-          "rfm_segment": "At Risk",
-          "last_order_month": "2026-05-01T00:00:00",
-          "recency_days": 153,
-          "order_count": 26,
-          "total_spend_thb": 199393.0,
           "r_score": 5,
           "f_score": 5,
           "m_score": 5
@@ -929,17 +896,6 @@
           "m_score": 5
         },
         {
-          "email": "phillclub.uic@gmail.com",
-          "rfm_segment": "At Risk",
-          "last_order_month": "2026-03-01T00:00:00",
-          "recency_days": 214,
-          "order_count": 12,
-          "total_spend_thb": 127012.0,
-          "r_score": 5,
-          "f_score": 5,
-          "m_score": 5
-        },
-        {
           "email": "witchaphun@cyglobalusa.com",
           "rfm_segment": "At Risk",
           "last_order_month": "2026-03-01T00:00:00",
@@ -958,7 +914,7 @@
           "order_count": 3,
           "total_spend_thb": 125934.0,
           "r_score": 5,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -1002,7 +958,7 @@
           "order_count": 3,
           "total_spend_thb": 118451.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -1050,17 +1006,6 @@
           "m_score": 5
         },
         {
-          "email": "thorchops@yahoo.com",
-          "rfm_segment": "At Risk",
-          "last_order_month": "2026-03-01T00:00:00",
-          "recency_days": 214,
-          "order_count": 16,
-          "total_spend_thb": 114427.0,
-          "r_score": 5,
-          "f_score": 5,
-          "m_score": 5
-        },
-        {
           "email": "songs88@yahoo.com",
           "rfm_segment": "At Risk",
           "last_order_month": "2026-02-01T00:00:00",
@@ -1080,17 +1025,6 @@
           "total_spend_thb": 111816.0,
           "r_score": 5,
           "f_score": 4,
-          "m_score": 5
-        },
-        {
-          "email": "kunhanandana@yahoo.com",
-          "rfm_segment": "At Risk",
-          "last_order_month": "2026-01-01T00:00:00",
-          "recency_days": 273,
-          "order_count": 7,
-          "total_spend_thb": 110497.0,
-          "r_score": 4,
-          "f_score": 5,
           "m_score": 5
         },
         {
@@ -1178,7 +1112,7 @@
           "order_count": 3,
           "total_spend_thb": 103706.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -1288,7 +1222,7 @@
           "order_count": 3,
           "total_spend_thb": 96890.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -1486,7 +1420,7 @@
           "order_count": 3,
           "total_spend_thb": 81764.0,
           "r_score": 5,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -1739,7 +1673,7 @@
           "order_count": 3,
           "total_spend_thb": 73707.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -1827,7 +1761,7 @@
           "order_count": 3,
           "total_spend_thb": 69152.0,
           "r_score": 5,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -1893,7 +1827,7 @@
           "order_count": 3,
           "total_spend_thb": 67318.0,
           "r_score": 5,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -1992,7 +1926,7 @@
           "order_count": 3,
           "total_spend_thb": 61440.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -2058,7 +1992,7 @@
           "order_count": 3,
           "total_spend_thb": 59270.0,
           "r_score": 5,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -2135,7 +2069,7 @@
           "order_count": 3,
           "total_spend_thb": 56721.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -2172,17 +2106,6 @@
           "m_score": 5
         },
         {
-          "email": "glassworksthailand@gmail.com",
-          "rfm_segment": "At Risk",
-          "last_order_month": "2026-04-01T00:00:00",
-          "recency_days": 183,
-          "order_count": 5,
-          "total_spend_thb": 55960.0,
-          "r_score": 5,
-          "f_score": 5,
-          "m_score": 5
-        },
-        {
           "email": "purchase@nbrest.com",
           "rfm_segment": "At Risk",
           "last_order_month": "2026-04-01T00:00:00",
@@ -2201,6 +2124,83 @@
           "order_count": 3,
           "total_spend_thb": 54982.0,
           "r_score": 4,
+          "f_score": 4,
+          "m_score": 5
+        },
+        {
+          "email": "jirawadeeb@hotmail.co.uk",
+          "rfm_segment": "At Risk",
+          "last_order_month": "2026-05-01T00:00:00",
+          "recency_days": 153,
+          "order_count": 4,
+          "total_spend_thb": 54777.0,
+          "r_score": 5,
+          "f_score": 5,
+          "m_score": 5
+        },
+        {
+          "email": "piyaphat_golf_kus@hotmail.com",
+          "rfm_segment": "At Risk",
+          "last_order_month": "2026-04-01T00:00:00",
+          "recency_days": 183,
+          "order_count": 5,
+          "total_spend_thb": 54432.0,
+          "r_score": 5,
+          "f_score": 5,
+          "m_score": 5
+        },
+        {
+          "email": "grantusthai@gmail.com",
+          "rfm_segment": "At Risk",
+          "last_order_month": "2026-02-01T00:00:00",
+          "recency_days": 242,
+          "order_count": 4,
+          "total_spend_thb": 53926.0,
+          "r_score": 5,
+          "f_score": 5,
+          "m_score": 5
+        },
+        {
+          "email": "keisatsu77@gmail.com",
+          "rfm_segment": "At Risk",
+          "last_order_month": "2026-01-01T00:00:00",
+          "recency_days": 273,
+          "order_count": 5,
+          "total_spend_thb": 53275.0,
+          "r_score": 4,
+          "f_score": 5,
+          "m_score": 5
+        },
+        {
+          "email": "c_vikrom@yahoo.com",
+          "rfm_segment": "At Risk",
+          "last_order_month": "2026-04-01T00:00:00",
+          "recency_days": 183,
+          "order_count": 3,
+          "total_spend_thb": 53020.0,
+          "r_score": 5,
+          "f_score": 4,
+          "m_score": 5
+        },
+        {
+          "email": "justine.dsgm@gmail.com",
+          "rfm_segment": "At Risk",
+          "last_order_month": "2025-12-01T00:00:00",
+          "recency_days": 304,
+          "order_count": 4,
+          "total_spend_thb": 52717.0,
+          "r_score": 4,
+          "f_score": 5,
+          "m_score": 5
+        },
+        {
+          "email": "kikkikkik91@gmail.com",
+          "rfm_segment": "At Risk",
+          "last_order_month": "2026-02-01T00:00:00",
+          "recency_days": 242,
+          "order_count": 4,
+          "total_spend_thb": 52693.0,
+          "r_score": 5,
           "f_score": 5,
           "m_score": 5
         }
@@ -2397,17 +2397,6 @@
           "m_score": 5
         },
         {
-          "email": "diane@theeventconciergethailand.com",
-          "rfm_segment": "Hibernating",
-          "last_order_month": "2025-11-01T00:00:00",
-          "recency_days": 334,
-          "order_count": 4,
-          "total_spend_thb": 111868.0,
-          "r_score": 4,
-          "f_score": 5,
-          "m_score": 5
-        },
-        {
           "email": "dr.tsun@gmail.com",
           "rfm_segment": "Hibernating",
           "last_order_month": "2025-11-01T00:00:00",
@@ -2426,7 +2415,7 @@
           "order_count": 3,
           "total_spend_thb": 107354.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -2459,7 +2448,7 @@
           "order_count": 3,
           "total_spend_thb": 95975.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -2514,7 +2503,7 @@
           "order_count": 1,
           "total_spend_thb": 71004.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 5
         },
         {
@@ -2536,7 +2525,7 @@
           "order_count": 3,
           "total_spend_thb": 64412.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -2591,7 +2580,7 @@
           "order_count": 3,
           "total_spend_thb": 59446.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -2668,7 +2657,7 @@
           "order_count": 3,
           "total_spend_thb": 49818.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -2701,7 +2690,7 @@
           "order_count": 3,
           "total_spend_thb": 47382.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -2756,7 +2745,7 @@
           "order_count": 3,
           "total_spend_thb": 43656.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -2767,7 +2756,7 @@
           "order_count": 1,
           "total_spend_thb": 43464.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 5
         },
         {
@@ -2844,7 +2833,7 @@
           "order_count": 1,
           "total_spend_thb": 41022.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 5
         },
         {
@@ -2943,18 +2932,7 @@
           "order_count": 1,
           "total_spend_thb": 34200.0,
           "r_score": 4,
-          "f_score": 2,
-          "m_score": 5
-        },
-        {
-          "email": "stephanie@rjsinteriors.co.uk",
-          "rfm_segment": "Hibernating",
-          "last_order_month": "2025-10-01T00:00:00",
-          "recency_days": 365,
-          "order_count": 3,
-          "total_spend_thb": 31464.0,
-          "r_score": 4,
-          "f_score": 5,
+          "f_score": 1,
           "m_score": 5
         },
         {
@@ -2976,7 +2954,7 @@
           "order_count": 1,
           "total_spend_thb": 30000.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 5
         },
         {
@@ -2987,7 +2965,7 @@
           "order_count": 1,
           "total_spend_thb": 30000.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 5
         },
         {
@@ -3020,7 +2998,7 @@
           "order_count": 3,
           "total_spend_thb": 29357.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -3097,7 +3075,7 @@
           "order_count": 3,
           "total_spend_thb": 27020.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -3108,7 +3086,7 @@
           "order_count": 1,
           "total_spend_thb": 26667.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 5
         },
         {
@@ -3119,7 +3097,7 @@
           "order_count": 1,
           "total_spend_thb": 26398.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 5
         },
         {
@@ -3152,7 +3130,7 @@
           "order_count": 1,
           "total_spend_thb": 23590.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 5
         },
         {
@@ -3174,7 +3152,7 @@
           "order_count": 1,
           "total_spend_thb": 22680.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 5
         },
         {
@@ -3207,7 +3185,7 @@
           "order_count": 3,
           "total_spend_thb": 21870.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -3218,7 +3196,7 @@
           "order_count": 1,
           "total_spend_thb": 21654.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 5
         },
         {
@@ -3262,7 +3240,7 @@
           "order_count": 1,
           "total_spend_thb": 20990.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 5
         },
         {
@@ -3295,7 +3273,7 @@
           "order_count": 3,
           "total_spend_thb": 20310.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -3306,7 +3284,7 @@
           "order_count": 3,
           "total_spend_thb": 20134.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -3328,7 +3306,7 @@
           "order_count": 1,
           "total_spend_thb": 19800.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -3339,7 +3317,7 @@
           "order_count": 3,
           "total_spend_thb": 18430.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -3350,7 +3328,7 @@
           "order_count": 1,
           "total_spend_thb": 18396.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -3361,7 +3339,7 @@
           "order_count": 1,
           "total_spend_thb": 18208.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -3383,7 +3361,7 @@
           "order_count": 1,
           "total_spend_thb": 17960.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -3394,7 +3372,7 @@
           "order_count": 1,
           "total_spend_thb": 17868.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -3416,7 +3394,7 @@
           "order_count": 1,
           "total_spend_thb": 17420.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -3438,7 +3416,7 @@
           "order_count": 1,
           "total_spend_thb": 16939.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -3482,7 +3460,7 @@
           "order_count": 1,
           "total_spend_thb": 16177.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -3526,7 +3504,7 @@
           "order_count": 1,
           "total_spend_thb": 15600.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -3559,7 +3537,7 @@
           "order_count": 1,
           "total_spend_thb": 15000.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -3570,7 +3548,7 @@
           "order_count": 1,
           "total_spend_thb": 15000.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -3581,7 +3559,7 @@
           "order_count": 1,
           "total_spend_thb": 15000.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -3592,7 +3570,7 @@
           "order_count": 3,
           "total_spend_thb": 14980.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -3603,7 +3581,7 @@
           "order_count": 1,
           "total_spend_thb": 14980.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -3614,7 +3592,7 @@
           "order_count": 1,
           "total_spend_thb": 14735.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -3647,7 +3625,7 @@
           "order_count": 1,
           "total_spend_thb": 14430.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -3658,7 +3636,7 @@
           "order_count": 3,
           "total_spend_thb": 14338.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -3669,7 +3647,7 @@
           "order_count": 3,
           "total_spend_thb": 14328.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -3691,7 +3669,7 @@
           "order_count": 1,
           "total_spend_thb": 14271.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -3724,7 +3702,7 @@
           "order_count": 1,
           "total_spend_thb": 13899.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -3735,7 +3713,7 @@
           "order_count": 3,
           "total_spend_thb": 13713.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -3746,7 +3724,7 @@
           "order_count": 1,
           "total_spend_thb": 13482.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -3768,7 +3746,7 @@
           "order_count": 1,
           "total_spend_thb": 13363.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -3790,7 +3768,7 @@
           "order_count": 1,
           "total_spend_thb": 13199.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -3812,7 +3790,7 @@
           "order_count": 1,
           "total_spend_thb": 13128.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -3823,7 +3801,7 @@
           "order_count": 3,
           "total_spend_thb": 13057.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -3911,7 +3889,7 @@
           "order_count": 1,
           "total_spend_thb": 12000.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -3944,7 +3922,7 @@
           "order_count": 1,
           "total_spend_thb": 11610.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -3988,7 +3966,7 @@
           "order_count": 3,
           "total_spend_thb": 10908.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -3999,7 +3977,7 @@
           "order_count": 1,
           "total_spend_thb": 10900.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -4021,7 +3999,7 @@
           "order_count": 1,
           "total_spend_thb": 10619.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -4043,7 +4021,7 @@
           "order_count": 1,
           "total_spend_thb": 10519.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -4054,7 +4032,7 @@
           "order_count": 1,
           "total_spend_thb": 10419.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -4076,7 +4054,7 @@
           "order_count": 3,
           "total_spend_thb": 10374.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -4087,7 +4065,7 @@
           "order_count": 1,
           "total_spend_thb": 10294.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -4098,7 +4076,7 @@
           "order_count": 3,
           "total_spend_thb": 10183.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -4109,7 +4087,7 @@
           "order_count": 1,
           "total_spend_thb": 10095.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -4120,7 +4098,7 @@
           "order_count": 1,
           "total_spend_thb": 9968.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -4131,7 +4109,7 @@
           "order_count": 3,
           "total_spend_thb": 9831.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -4142,7 +4120,7 @@
           "order_count": 3,
           "total_spend_thb": 9764.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -4153,7 +4131,7 @@
           "order_count": 1,
           "total_spend_thb": 9750.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -4164,7 +4142,7 @@
           "order_count": 1,
           "total_spend_thb": 9688.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -4175,7 +4153,7 @@
           "order_count": 1,
           "total_spend_thb": 9655.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -4219,7 +4197,7 @@
           "order_count": 1,
           "total_spend_thb": 9338.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -4230,7 +4208,7 @@
           "order_count": 1,
           "total_spend_thb": 9291.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -4241,7 +4219,7 @@
           "order_count": 1,
           "total_spend_thb": 9291.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -4252,7 +4230,7 @@
           "order_count": 1,
           "total_spend_thb": 9275.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -4274,7 +4252,7 @@
           "order_count": 1,
           "total_spend_thb": 9234.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -4285,7 +4263,7 @@
           "order_count": 1,
           "total_spend_thb": 9195.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -4307,7 +4285,7 @@
           "order_count": 3,
           "total_spend_thb": 9048.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -4318,7 +4296,7 @@
           "order_count": 1,
           "total_spend_thb": 8933.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -4329,7 +4307,7 @@
           "order_count": 1,
           "total_spend_thb": 8828.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -4340,7 +4318,7 @@
           "order_count": 3,
           "total_spend_thb": 8681.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -4351,7 +4329,7 @@
           "order_count": 3,
           "total_spend_thb": 8676.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -4361,17 +4339,6 @@
           "recency_days": 365,
           "order_count": 3,
           "total_spend_thb": 8634.0,
-          "r_score": 4,
-          "f_score": 5,
-          "m_score": 4
-        },
-        {
-          "email": "suppermen_kong@hotmail.com",
-          "rfm_segment": "Hibernating",
-          "last_order_month": "2025-10-01T00:00:00",
-          "recency_days": 365,
-          "order_count": 2,
-          "total_spend_thb": 8570.0,
           "r_score": 4,
           "f_score": 4,
           "m_score": 4
@@ -4384,7 +4351,7 @@
           "order_count": 1,
           "total_spend_thb": 8540.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -4395,7 +4362,7 @@
           "order_count": 1,
           "total_spend_thb": 8468.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 4
         },
         {
@@ -4406,7 +4373,40 @@
           "order_count": 1,
           "total_spend_thb": 8399.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
+          "m_score": 4
+        },
+        {
+          "email": "tonytongseason@gmail.com",
+          "rfm_segment": "Hibernating",
+          "last_order_month": "2025-10-01T00:00:00",
+          "recency_days": 365,
+          "order_count": 4,
+          "total_spend_thb": 8379.0,
+          "r_score": 4,
+          "f_score": 5,
+          "m_score": 4
+        },
+        {
+          "email": "nummint.ob@gmail.com",
+          "rfm_segment": "Hibernating",
+          "last_order_month": "2025-11-01T00:00:00",
+          "recency_days": 334,
+          "order_count": 4,
+          "total_spend_thb": 8355.0,
+          "r_score": 4,
+          "f_score": 5,
+          "m_score": 4
+        },
+        {
+          "email": "kawinthida.k97@gmail.com",
+          "rfm_segment": "Hibernating",
+          "last_order_month": "2025-11-01T00:00:00",
+          "recency_days": 334,
+          "order_count": 3,
+          "total_spend_thb": 8337.0,
+          "r_score": 4,
+          "f_score": 4,
           "m_score": 4
         }
       ]
@@ -4532,7 +4532,7 @@
           "order_count": 1,
           "total_spend_thb": 510625.0,
           "r_score": 4,
-          "f_score": 3,
+          "f_score": 1,
           "m_score": 5
         },
         {
@@ -4565,7 +4565,7 @@
           "order_count": 3,
           "total_spend_thb": 445809.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -4796,7 +4796,7 @@
           "order_count": 3,
           "total_spend_thb": 273016.0,
           "r_score": 3,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -4994,7 +4994,7 @@
           "order_count": 1,
           "total_spend_thb": 185099.0,
           "r_score": 4,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 5
         },
         {
@@ -5027,7 +5027,7 @@
           "order_count": 3,
           "total_spend_thb": 183376.0,
           "r_score": 2,
-          "f_score": 4,
+          "f_score": 5,
           "m_score": 5
         },
         {
@@ -5071,7 +5071,7 @@
           "order_count": 1,
           "total_spend_thb": 166247.0,
           "r_score": 1,
-          "f_score": 1,
+          "f_score": 2,
           "m_score": 5
         },
         {
@@ -5170,7 +5170,7 @@
           "order_count": 1,
           "total_spend_thb": 156540.0,
           "r_score": 2,
-          "f_score": 1,
+          "f_score": 2,
           "m_score": 5
         },
         {
@@ -5258,7 +5258,7 @@
           "order_count": 1,
           "total_spend_thb": 147108.0,
           "r_score": 1,
-          "f_score": 1,
+          "f_score": 2,
           "m_score": 5
         },
         {
@@ -5291,7 +5291,7 @@
           "order_count": 1,
           "total_spend_thb": 145000.0,
           "r_score": 1,
-          "f_score": 1,
+          "f_score": 2,
           "m_score": 5
         },
         {
@@ -5324,7 +5324,7 @@
           "order_count": 3,
           "total_spend_thb": 142212.0,
           "r_score": 2,
-          "f_score": 4,
+          "f_score": 5,
           "m_score": 5
         },
         {
@@ -5555,7 +5555,7 @@
           "order_count": 3,
           "total_spend_thb": 114244.0,
           "r_score": 4,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -5577,7 +5577,7 @@
           "order_count": 1,
           "total_spend_thb": 114000.0,
           "r_score": 1,
-          "f_score": 1,
+          "f_score": 2,
           "m_score": 5
         },
         {
@@ -5830,7 +5830,7 @@
           "order_count": 3,
           "total_spend_thb": 102625.0,
           "r_score": 1,
-          "f_score": 4,
+          "f_score": 5,
           "m_score": 5
         },
         {
@@ -5863,7 +5863,7 @@
           "order_count": 3,
           "total_spend_thb": 101098.0,
           "r_score": 1,
-          "f_score": 4,
+          "f_score": 5,
           "m_score": 5
         },
         {
@@ -5962,7 +5962,7 @@
           "order_count": 1,
           "total_spend_thb": 96901.0,
           "r_score": 2,
-          "f_score": 1,
+          "f_score": 2,
           "m_score": 5
         },
         {
@@ -5973,7 +5973,7 @@
           "order_count": 1,
           "total_spend_thb": 96060.0,
           "r_score": 2,
-          "f_score": 1,
+          "f_score": 2,
           "m_score": 5
         },
         {
@@ -6083,7 +6083,7 @@
           "order_count": 3,
           "total_spend_thb": 90263.0,
           "r_score": 2,
-          "f_score": 4,
+          "f_score": 5,
           "m_score": 5
         },
         {
@@ -6127,7 +6127,7 @@
           "order_count": 3,
           "total_spend_thb": 88135.0,
           "r_score": 3,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -6226,7 +6226,7 @@
           "order_count": 1,
           "total_spend_thb": 84496.0,
           "r_score": 1,
-          "f_score": 1,
+          "f_score": 2,
           "m_score": 5
         },
         {
@@ -6237,7 +6237,7 @@
           "order_count": 3,
           "total_spend_thb": 84425.0,
           "r_score": 1,
-          "f_score": 4,
+          "f_score": 5,
           "m_score": 5
         },
         {
@@ -6259,7 +6259,7 @@
           "order_count": 1,
           "total_spend_thb": 83510.0,
           "r_score": 3,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 5
         },
         {
@@ -6325,7 +6325,7 @@
           "order_count": 1,
           "total_spend_thb": 81048.0,
           "r_score": 1,
-          "f_score": 1,
+          "f_score": 2,
           "m_score": 5
         },
         {
@@ -6373,17 +6373,6 @@
           "m_score": 5
         },
         {
-          "email": "pamika.sugar@gmail.com",
-          "rfm_segment": "Lost",
-          "last_order_month": "2025-09-01T00:00:00",
-          "recency_days": 395,
-          "order_count": 3,
-          "total_spend_thb": 79514.0,
-          "r_score": 4,
-          "f_score": 5,
-          "m_score": 5
-        },
-        {
           "email": "santayimbkk@gmail.com",
           "rfm_segment": "Lost",
           "last_order_month": "2026-03-01T00:00:00",
@@ -6424,7 +6413,7 @@
           "order_count": 1,
           "total_spend_thb": 78192.0,
           "r_score": 3,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 5
         },
         {
@@ -6534,7 +6523,7 @@
           "order_count": 1,
           "total_spend_thb": 76152.0,
           "r_score": 3,
-          "f_score": 2,
+          "f_score": 1,
           "m_score": 5
         },
         {
@@ -6589,7 +6578,7 @@
           "order_count": 3,
           "total_spend_thb": 75124.0,
           "r_score": 3,
-          "f_score": 5,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -6610,6 +6599,17 @@
           "recency_days": 638,
           "order_count": 3,
           "total_spend_thb": 74097.0,
+          "r_score": 3,
+          "f_score": 5,
+          "m_score": 5
+        },
+        {
+          "email": "iiingfahd@gmail.com",
+          "rfm_segment": "Lost",
+          "last_order_month": "2024-12-01T00:00:00",
+          "recency_days": 669,
+          "order_count": 3,
+          "total_spend_thb": 73730.0,
           "r_score": 3,
           "f_score": 5,
           "m_score": 5
@@ -6657,8 +6657,8 @@
           "rfm_segment": "Champion",
           "last_order_month": "2026-10-01T00:00:00",
           "recency_days": 0,
-          "order_count": 1248,
-          "total_spend_thb": 5148274.0,
+          "order_count": 1251,
+          "total_spend_thb": 5152160.0,
           "r_score": 5,
           "f_score": 5,
           "m_score": 5
@@ -6677,10 +6677,10 @@
         {
           "email": "stetaylor@deloitteretired.com.cn",
           "rfm_segment": "Champion",
-          "last_order_month": "2026-09-01T00:00:00",
-          "recency_days": 30,
-          "order_count": 65,
-          "total_spend_thb": 1698881.0,
+          "last_order_month": "2026-10-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 66,
+          "total_spend_thb": 1724297.0,
           "r_score": 5,
           "f_score": 5,
           "m_score": 5
@@ -6699,10 +6699,10 @@
         {
           "email": "john-snape@outlook.com",
           "rfm_segment": "Champion",
-          "last_order_month": "2026-09-01T00:00:00",
-          "recency_days": 30,
-          "order_count": 92,
-          "total_spend_thb": 1192558.0,
+          "last_order_month": "2026-10-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 93,
+          "total_spend_thb": 1195605.0,
           "r_score": 5,
           "f_score": 5,
           "m_score": 5
@@ -6778,8 +6778,8 @@
           "rfm_segment": "Champion",
           "last_order_month": "2026-10-01T00:00:00",
           "recency_days": 0,
-          "order_count": 50,
-          "total_spend_thb": 670266.0,
+          "order_count": 51,
+          "total_spend_thb": 680350.0,
           "r_score": 5,
           "f_score": 5,
           "m_score": 5
@@ -6791,6 +6791,17 @@
           "recency_days": 61,
           "order_count": 42,
           "total_spend_thb": 654845.0,
+          "r_score": 5,
+          "f_score": 5,
+          "m_score": 5
+        },
+        {
+          "email": "marna.knudsen.repco@gmail.com",
+          "rfm_segment": "Champion",
+          "last_order_month": "2026-10-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 39,
+          "total_spend_thb": 644927.0,
           "r_score": 5,
           "f_score": 5,
           "m_score": 5
@@ -6818,23 +6829,12 @@
           "m_score": 5
         },
         {
-          "email": "marna.knudsen.repco@gmail.com",
-          "rfm_segment": "Champion",
-          "last_order_month": "2026-09-01T00:00:00",
-          "recency_days": 30,
-          "order_count": 38,
-          "total_spend_thb": 608729.0,
-          "r_score": 5,
-          "f_score": 5,
-          "m_score": 5
-        },
-        {
           "email": "r.herberth@gmx.net",
           "rfm_segment": "Champion",
-          "last_order_month": "2026-09-01T00:00:00",
-          "recency_days": 30,
-          "order_count": 46,
-          "total_spend_thb": 530416.0,
+          "last_order_month": "2026-10-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 47,
+          "total_spend_thb": 545326.0,
           "r_score": 5,
           "f_score": 5,
           "m_score": 5
@@ -6851,12 +6851,34 @@
           "m_score": 5
         },
         {
+          "email": "khwan@anchanvillas.com",
+          "rfm_segment": "Champion",
+          "last_order_month": "2026-10-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 9,
+          "total_spend_thb": 506208.0,
+          "r_score": 5,
+          "f_score": 5,
+          "m_score": 5
+        },
+        {
           "email": "kulkanya18@gmail.com",
           "rfm_segment": "Champion",
           "last_order_month": "2026-09-01T00:00:00",
           "recency_days": 30,
           "order_count": 56,
           "total_spend_thb": 503605.0,
+          "r_score": 5,
+          "f_score": 5,
+          "m_score": 5
+        },
+        {
+          "email": "phojai@gmail.com",
+          "rfm_segment": "Champion",
+          "last_order_month": "2026-10-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 39,
+          "total_spend_thb": 488621.0,
           "r_score": 5,
           "f_score": 5,
           "m_score": 5
@@ -6895,17 +6917,6 @@
           "m_score": 5
         },
         {
-          "email": "phojai@gmail.com",
-          "rfm_segment": "Champion",
-          "last_order_month": "2026-09-01T00:00:00",
-          "recency_days": 30,
-          "order_count": 38,
-          "total_spend_thb": 480701.0,
-          "r_score": 5,
-          "f_score": 5,
-          "m_score": 5
-        },
-        {
           "email": "mkuro0213@gmail.com",
           "rfm_segment": "Champion",
           "last_order_month": "2026-07-01T00:00:00",
@@ -6928,17 +6939,6 @@
           "m_score": 5
         },
         {
-          "email": "khwan@anchanvillas.com",
-          "rfm_segment": "Champion",
-          "last_order_month": "2026-08-01T00:00:00",
-          "recency_days": 61,
-          "order_count": 8,
-          "total_spend_thb": 441408.0,
-          "r_score": 5,
-          "f_score": 5,
-          "m_score": 5
-        },
-        {
           "email": "d.natthaphong@gmail.com",
           "rfm_segment": "Champion",
           "last_order_month": "2026-09-01T00:00:00",
@@ -6952,10 +6952,21 @@
         {
           "email": "kai@castaway-resorts.com",
           "rfm_segment": "Champion",
-          "last_order_month": "2026-08-01T00:00:00",
-          "recency_days": 61,
-          "order_count": 41,
-          "total_spend_thb": 419262.0,
+          "last_order_month": "2026-10-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 42,
+          "total_spend_thb": 431730.0,
+          "r_score": 5,
+          "f_score": 5,
+          "m_score": 5
+        },
+        {
+          "email": "behrendt@gothailandtours.com",
+          "rfm_segment": "Champion",
+          "last_order_month": "2026-10-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 60,
+          "total_spend_thb": 423335.0,
           "r_score": 5,
           "f_score": 5,
           "m_score": 5
@@ -6967,17 +6978,6 @@
           "recency_days": 30,
           "order_count": 28,
           "total_spend_thb": 418164.0,
-          "r_score": 5,
-          "f_score": 5,
-          "m_score": 5
-        },
-        {
-          "email": "behrendt@gothailandtours.com",
-          "rfm_segment": "Champion",
-          "last_order_month": "2026-10-01T00:00:00",
-          "recency_days": 0,
-          "order_count": 59,
-          "total_spend_thb": 416513.0,
           "r_score": 5,
           "f_score": 5,
           "m_score": 5
@@ -7022,6 +7022,17 @@
           "recency_days": 61,
           "order_count": 27,
           "total_spend_thb": 388478.0,
+          "r_score": 5,
+          "f_score": 5,
+          "m_score": 5
+        },
+        {
+          "email": "emperpride@hotmail.com",
+          "rfm_segment": "Champion",
+          "last_order_month": "2026-10-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 26,
+          "total_spend_thb": 384400.0,
           "r_score": 5,
           "f_score": 5,
           "m_score": 5
@@ -7115,6 +7126,17 @@
           "m_score": 5
         },
         {
+          "email": "extremeacademy.kohtao@gmail.com",
+          "rfm_segment": "Champion",
+          "last_order_month": "2026-10-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 29,
+          "total_spend_thb": 313502.0,
+          "r_score": 5,
+          "f_score": 5,
+          "m_score": 5
+        },
+        {
           "email": "ltcasia@hotmail.com",
           "rfm_segment": "Champion",
           "last_order_month": "2026-09-01T00:00:00",
@@ -7159,17 +7181,6 @@
           "m_score": 5
         },
         {
-          "email": "extremeacademy.kohtao@gmail.com",
-          "rfm_segment": "Champion",
-          "last_order_month": "2026-09-01T00:00:00",
-          "recency_days": 30,
-          "order_count": 28,
-          "total_spend_thb": 290811.0,
-          "r_score": 5,
-          "f_score": 5,
-          "m_score": 5
-        },
-        {
           "email": "aphothiworn@gmail.com",
           "rfm_segment": "Champion",
           "last_order_month": "2026-09-01T00:00:00",
@@ -7209,6 +7220,17 @@
           "recency_days": 30,
           "order_count": 16,
           "total_spend_thb": 253259.0,
+          "r_score": 5,
+          "f_score": 5,
+          "m_score": 5
+        },
+        {
+          "email": "booking@hornbillrental.com",
+          "rfm_segment": "Champion",
+          "last_order_month": "2026-10-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 26,
+          "total_spend_thb": 250499.0,
           "r_score": 5,
           "f_score": 5,
           "m_score": 5
@@ -7269,6 +7291,17 @@
           "m_score": 5
         },
         {
+          "email": "monkey.eve636@gmail.com",
+          "rfm_segment": "Champion",
+          "last_order_month": "2026-10-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 6,
+          "total_spend_thb": 227447.0,
+          "r_score": 5,
+          "f_score": 5,
+          "m_score": 5
+        },
+        {
           "email": "mile_thanom@hotmail.com",
           "rfm_segment": "Champion",
           "last_order_month": "2026-09-01T00:00:00",
@@ -7286,6 +7319,17 @@
           "recency_days": 61,
           "order_count": 30,
           "total_spend_thb": 223056.0,
+          "r_score": 5,
+          "f_score": 5,
+          "m_score": 5
+        },
+        {
+          "email": "racha.tjones@gmail.com",
+          "rfm_segment": "Champion",
+          "last_order_month": "2026-10-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 16,
+          "total_spend_thb": 222472.0,
           "r_score": 5,
           "f_score": 5,
           "m_score": 5
@@ -7335,12 +7379,12 @@
           "m_score": 5
         },
         {
-          "email": "racha.tjones@gmail.com",
+          "email": "juthapreut.ri@gmail.com",
           "rfm_segment": "Champion",
           "last_order_month": "2026-10-01T00:00:00",
           "recency_days": 0,
-          "order_count": 15,
-          "total_spend_thb": 206584.0,
+          "order_count": 27,
+          "total_spend_thb": 207636.0,
           "r_score": 5,
           "f_score": 5,
           "m_score": 5
@@ -7368,6 +7412,17 @@
           "m_score": 5
         },
         {
+          "email": "pprapat26@gmail.com",
+          "rfm_segment": "Champion",
+          "last_order_month": "2026-10-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 32,
+          "total_spend_thb": 203143.0,
+          "r_score": 5,
+          "f_score": 5,
+          "m_score": 5
+        },
+        {
           "email": "rollinghin@gmail.com",
           "rfm_segment": "Champion",
           "last_order_month": "2026-08-01T00:00:00",
@@ -7379,12 +7434,12 @@
           "m_score": 5
         },
         {
-          "email": "pprapat26@gmail.com",
+          "email": "teetaya16@gmail.com",
           "rfm_segment": "Champion",
-          "last_order_month": "2026-09-01T00:00:00",
-          "recency_days": 30,
-          "order_count": 31,
-          "total_spend_thb": 196453.0,
+          "last_order_month": "2026-10-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 13,
+          "total_spend_thb": 194555.0,
           "r_score": 5,
           "f_score": 5,
           "m_score": 5
@@ -7456,34 +7511,34 @@
           "m_score": 5
         },
         {
+          "email": "albertketterman@yahoo.com",
+          "rfm_segment": "Champion",
+          "last_order_month": "2026-10-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 37,
+          "total_spend_thb": 184769.0,
+          "r_score": 5,
+          "f_score": 5,
+          "m_score": 5
+        },
+        {
+          "email": "pawinee_aoey@hotmail.com",
+          "rfm_segment": "Champion",
+          "last_order_month": "2026-10-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 16,
+          "total_spend_thb": 184320.0,
+          "r_score": 5,
+          "f_score": 5,
+          "m_score": 5
+        },
+        {
           "email": "pepetan.v@gmail.com",
           "rfm_segment": "Champion",
           "last_order_month": "2026-09-01T00:00:00",
           "recency_days": 30,
           "order_count": 25,
           "total_spend_thb": 183502.0,
-          "r_score": 5,
-          "f_score": 5,
-          "m_score": 5
-        },
-        {
-          "email": "teetaya16@gmail.com",
-          "rfm_segment": "Champion",
-          "last_order_month": "2026-10-01T00:00:00",
-          "recency_days": 0,
-          "order_count": 12,
-          "total_spend_thb": 182523.0,
-          "r_score": 5,
-          "f_score": 5,
-          "m_score": 5
-        },
-        {
-          "email": "albertketterman@yahoo.com",
-          "rfm_segment": "Champion",
-          "last_order_month": "2026-08-01T00:00:00",
-          "recency_days": 61,
-          "order_count": 36,
-          "total_spend_thb": 180899.0,
           "r_score": 5,
           "f_score": 5,
           "m_score": 5
@@ -7517,17 +7572,6 @@
           "recency_days": 0,
           "order_count": 24,
           "total_spend_thb": 176977.0,
-          "r_score": 5,
-          "f_score": 5,
-          "m_score": 5
-        },
-        {
-          "email": "pawinee_aoey@hotmail.com",
-          "rfm_segment": "Champion",
-          "last_order_month": "2026-08-01T00:00:00",
-          "recency_days": 61,
-          "order_count": 15,
-          "total_spend_thb": 176532.0,
           "r_score": 5,
           "f_score": 5,
           "m_score": 5
@@ -7577,23 +7621,12 @@
           "m_score": 5
         },
         {
-          "email": "monkey.eve636@gmail.com",
-          "rfm_segment": "Champion",
-          "last_order_month": "2026-09-01T00:00:00",
-          "recency_days": 30,
-          "order_count": 5,
-          "total_spend_thb": 166172.0,
-          "r_score": 5,
-          "f_score": 5,
-          "m_score": 5
-        },
-        {
           "email": "thachakorn@phywe-thailand.co.th",
           "rfm_segment": "Champion",
-          "last_order_month": "2026-08-01T00:00:00",
-          "recency_days": 61,
-          "order_count": 13,
-          "total_spend_thb": 164370.0,
+          "last_order_month": "2026-10-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 14,
+          "total_spend_thb": 169631.0,
           "r_score": 5,
           "f_score": 5,
           "m_score": 5
@@ -7709,6 +7742,17 @@
           "m_score": 5
         },
         {
+          "email": "diane@theeventconciergethailand.com",
+          "rfm_segment": "Champion",
+          "last_order_month": "2026-10-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 5,
+          "total_spend_thb": 147778.0,
+          "r_score": 5,
+          "f_score": 5,
+          "m_score": 5
+        },
+        {
           "email": "altoidfowler@gmail.com",
           "rfm_segment": "Champion",
           "last_order_month": "2026-10-01T00:00:00",
@@ -7726,6 +7770,17 @@
           "recency_days": 92,
           "order_count": 17,
           "total_spend_thb": 144040.0,
+          "r_score": 5,
+          "f_score": 5,
+          "m_score": 5
+        },
+        {
+          "email": "ge-org@gmx.de",
+          "rfm_segment": "Champion",
+          "last_order_month": "2026-10-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 14,
+          "total_spend_thb": 143131.0,
           "r_score": 5,
           "f_score": 5,
           "m_score": 5
@@ -7786,6 +7841,39 @@
           "m_score": 5
         },
         {
+          "email": "phillclub.uic@gmail.com",
+          "rfm_segment": "Champion",
+          "last_order_month": "2026-10-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 14,
+          "total_spend_thb": 132399.0,
+          "r_score": 5,
+          "f_score": 5,
+          "m_score": 5
+        },
+        {
+          "email": "kunhanandana@yahoo.com",
+          "rfm_segment": "Champion",
+          "last_order_month": "2026-10-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 8,
+          "total_spend_thb": 131716.0,
+          "r_score": 5,
+          "f_score": 5,
+          "m_score": 5
+        },
+        {
+          "email": "addisorn@siampangroup.com",
+          "rfm_segment": "Champion",
+          "last_order_month": "2026-10-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 6,
+          "total_spend_thb": 131160.0,
+          "r_score": 5,
+          "f_score": 5,
+          "m_score": 5
+        },
+        {
           "email": "james@rjstorer.co.uk",
           "rfm_segment": "Champion",
           "last_order_month": "2026-09-01T00:00:00",
@@ -7803,17 +7891,6 @@
           "recency_days": 30,
           "order_count": 7,
           "total_spend_thb": 130658.0,
-          "r_score": 5,
-          "f_score": 5,
-          "m_score": 5
-        },
-        {
-          "email": "ge-org@gmx.de",
-          "rfm_segment": "Champion",
-          "last_order_month": "2026-08-01T00:00:00",
-          "recency_days": 61,
-          "order_count": 13,
-          "total_spend_thb": 129781.0,
           "r_score": 5,
           "f_score": 5,
           "m_score": 5
@@ -7896,6 +7973,17 @@
           "m_score": 5
         },
         {
+          "email": "nutmanthai@gmail.com",
+          "rfm_segment": "Champion",
+          "last_order_month": "2026-10-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 5,
+          "total_spend_thb": 122400.0,
+          "r_score": 5,
+          "f_score": 5,
+          "m_score": 5
+        },
+        {
           "email": "ccbcbank@gmail.com",
           "rfm_segment": "Champion",
           "last_order_month": "2026-08-01T00:00:00",
@@ -7924,6 +8012,17 @@
           "recency_days": 0,
           "order_count": 8,
           "total_spend_thb": 120738.0,
+          "r_score": 5,
+          "f_score": 5,
+          "m_score": 5
+        },
+        {
+          "email": "thorchops@yahoo.com",
+          "rfm_segment": "Champion",
+          "last_order_month": "2026-10-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 17,
+          "total_spend_thb": 119957.0,
           "r_score": 5,
           "f_score": 5,
           "m_score": 5
@@ -8061,12 +8160,12 @@
           "m_score": 5
         },
         {
-          "email": "addisorn@siampangroup.com",
+          "email": "steerachat@yahoo.com",
           "rfm_segment": "Champion",
-          "last_order_month": "2026-09-01T00:00:00",
-          "recency_days": 30,
-          "order_count": 5,
-          "total_spend_thb": 107473.0,
+          "last_order_month": "2026-10-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 19,
+          "total_spend_thb": 107675.0,
           "r_score": 5,
           "f_score": 5,
           "m_score": 5
@@ -8078,6 +8177,17 @@
           "recency_days": 92,
           "order_count": 7,
           "total_spend_thb": 107420.0,
+          "r_score": 5,
+          "f_score": 5,
+          "m_score": 5
+        },
+        {
+          "email": "0625536549@wine-now.com",
+          "rfm_segment": "Champion",
+          "last_order_month": "2026-10-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 20,
+          "total_spend_thb": 107017.0,
           "r_score": 5,
           "f_score": 5,
           "m_score": 5
@@ -8105,6 +8215,17 @@
           "m_score": 5
         },
         {
+          "email": "pamika.sugar@gmail.com",
+          "rfm_segment": "Champion",
+          "last_order_month": "2026-10-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 4,
+          "total_spend_thb": 104719.0,
+          "r_score": 5,
+          "f_score": 5,
+          "m_score": 5
+        },
+        {
           "email": "acc.saiyok@gmail.com",
           "rfm_segment": "Champion",
           "last_order_month": "2026-08-01T00:00:00",
@@ -8122,17 +8243,6 @@
           "recency_days": 0,
           "order_count": 18,
           "total_spend_thb": 102765.0,
-          "r_score": 5,
-          "f_score": 5,
-          "m_score": 5
-        },
-        {
-          "email": "0625536549@wine-now.com",
-          "rfm_segment": "Champion",
-          "last_order_month": "2026-10-01T00:00:00",
-          "recency_days": 0,
-          "order_count": 19,
-          "total_spend_thb": 102217.0,
           "r_score": 5,
           "f_score": 5,
           "m_score": 5
@@ -8182,6 +8292,28 @@
           "m_score": 5
         },
         {
+          "email": "sizz404@hotmail.com",
+          "rfm_segment": "Champion",
+          "last_order_month": "2026-10-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 6,
+          "total_spend_thb": 100231.0,
+          "r_score": 5,
+          "f_score": 5,
+          "m_score": 5
+        },
+        {
+          "email": "purachetpaputsaro@gmail.com",
+          "rfm_segment": "Champion",
+          "last_order_month": "2026-10-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 12,
+          "total_spend_thb": 98383.0,
+          "r_score": 5,
+          "f_score": 5,
+          "m_score": 5
+        },
+        {
           "email": "maurice.bousselain@gmail.com",
           "rfm_segment": "Champion",
           "last_order_month": "2026-09-01T00:00:00",
@@ -8210,17 +8342,6 @@
           "recency_days": 92,
           "order_count": 6,
           "total_spend_thb": 96725.0,
-          "r_score": 5,
-          "f_score": 5,
-          "m_score": 5
-        },
-        {
-          "email": "purachetpaputsaro@gmail.com",
-          "rfm_segment": "Champion",
-          "last_order_month": "2026-09-01T00:00:00",
-          "recency_days": 30,
-          "order_count": 11,
-          "total_spend_thb": 94744.0,
           "r_score": 5,
           "f_score": 5,
           "m_score": 5
@@ -8270,17 +8391,6 @@
           "m_score": 5
         },
         {
-          "email": "steerachat@yahoo.com",
-          "rfm_segment": "Champion",
-          "last_order_month": "2026-09-01T00:00:00",
-          "recency_days": 30,
-          "order_count": 17,
-          "total_spend_thb": 93570.0,
-          "r_score": 5,
-          "f_score": 5,
-          "m_score": 5
-        },
-        {
           "email": "axel.nowak1@gmail.com",
           "rfm_segment": "Champion",
           "last_order_month": "2026-09-01T00:00:00",
@@ -8303,6 +8413,17 @@
           "m_score": 5
         },
         {
+          "email": "boonyanupong_narisa@yahoo.com",
+          "rfm_segment": "Champion",
+          "last_order_month": "2026-10-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 24,
+          "total_spend_thb": 90321.0,
+          "r_score": 5,
+          "f_score": 5,
+          "m_score": 5
+        },
+        {
           "email": "4tilac@gmail.com",
           "rfm_segment": "Champion",
           "last_order_month": "2026-09-01T00:00:00",
@@ -8320,17 +8441,6 @@
           "recency_days": 92,
           "order_count": 7,
           "total_spend_thb": 89927.0,
-          "r_score": 5,
-          "f_score": 5,
-          "m_score": 5
-        },
-        {
-          "email": "sizz404@hotmail.com",
-          "rfm_segment": "Champion",
-          "last_order_month": "2026-08-01T00:00:00",
-          "recency_days": 61,
-          "order_count": 5,
-          "total_spend_thb": 89785.0,
           "r_score": 5,
           "f_score": 5,
           "m_score": 5
@@ -8369,17 +8479,6 @@
           "m_score": 5
         },
         {
-          "email": "bendalle@gmail.com",
-          "rfm_segment": "Champion",
-          "last_order_month": "2026-10-01T00:00:00",
-          "recency_days": 0,
-          "order_count": 11,
-          "total_spend_thb": 86222.0,
-          "r_score": 5,
-          "f_score": 5,
-          "m_score": 5
-        },
-        {
           "email": "claremtonkin@gmail.com",
           "rfm_segment": "Champion",
           "last_order_month": "2026-09-01T00:00:00",
@@ -8413,17 +8512,6 @@
           "m_score": 5
         },
         {
-          "email": "boonyanupong_narisa@yahoo.com",
-          "rfm_segment": "Champion",
-          "last_order_month": "2026-08-01T00:00:00",
-          "recency_days": 61,
-          "order_count": 23,
-          "total_spend_thb": 85625.0,
-          "r_score": 5,
-          "f_score": 5,
-          "m_score": 5
-        },
-        {
           "email": "inthiranavamaangul@gmail.com",
           "rfm_segment": "Champion",
           "last_order_month": "2026-08-01T00:00:00",
@@ -8446,12 +8534,56 @@
           "m_score": 5
         },
         {
+          "email": "surin_b@log.co.th",
+          "rfm_segment": "Champion",
+          "last_order_month": "2026-10-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 4,
+          "total_spend_thb": 84060.0,
+          "r_score": 5,
+          "f_score": 5,
+          "m_score": 5
+        },
+        {
           "email": "izsky.npp@gmail.com",
           "rfm_segment": "Champion",
           "last_order_month": "2026-08-01T00:00:00",
           "recency_days": 61,
           "order_count": 5,
           "total_spend_thb": 82666.0,
+          "r_score": 5,
+          "f_score": 5,
+          "m_score": 5
+        },
+        {
+          "email": "torpols@gmail.com",
+          "rfm_segment": "Champion",
+          "last_order_month": "2026-10-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 13,
+          "total_spend_thb": 80633.0,
+          "r_score": 5,
+          "f_score": 5,
+          "m_score": 5
+        },
+        {
+          "email": "bendalle@gmail.com",
+          "rfm_segment": "Champion",
+          "last_order_month": "2026-10-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 11,
+          "total_spend_thb": 80444.0,
+          "r_score": 5,
+          "f_score": 5,
+          "m_score": 5
+        },
+        {
+          "email": "pro376@hotmail.com",
+          "rfm_segment": "Champion",
+          "last_order_month": "2026-10-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 17,
+          "total_spend_thb": 80287.0,
           "r_score": 5,
           "f_score": 5,
           "m_score": 5
@@ -8512,17 +8644,6 @@
           "m_score": 5
         },
         {
-          "email": "pro376@hotmail.com",
-          "rfm_segment": "Champion",
-          "last_order_month": "2026-08-01T00:00:00",
-          "recency_days": 61,
-          "order_count": 16,
-          "total_spend_thb": 76978.0,
-          "r_score": 5,
-          "f_score": 5,
-          "m_score": 5
-        },
-        {
           "email": "pcm@bangkokpalace.com",
           "rfm_segment": "Champion",
           "last_order_month": "2026-10-01T00:00:00",
@@ -8573,6 +8694,17 @@
           "recency_days": 92,
           "order_count": 5,
           "total_spend_thb": 73748.0,
+          "r_score": 5,
+          "f_score": 5,
+          "m_score": 5
+        },
+        {
+          "email": "inapats@gmail.com",
+          "rfm_segment": "Champion",
+          "last_order_month": "2026-10-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 17,
+          "total_spend_thb": 73522.0,
           "r_score": 5,
           "f_score": 5,
           "m_score": 5
@@ -8633,12 +8765,45 @@
           "m_score": 5
         },
         {
+          "email": "tanakorn_god@hotmail.com",
+          "rfm_segment": "Champion",
+          "last_order_month": "2026-10-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 11,
+          "total_spend_thb": 69088.0,
+          "r_score": 5,
+          "f_score": 5,
+          "m_score": 5
+        },
+        {
           "email": "pakask_atg@hotmail.com",
           "rfm_segment": "Champion",
           "last_order_month": "2026-09-01T00:00:00",
           "recency_days": 30,
           "order_count": 11,
           "total_spend_thb": 68955.0,
+          "r_score": 5,
+          "f_score": 5,
+          "m_score": 5
+        },
+        {
+          "email": "drpakorn2022@gmail.com",
+          "rfm_segment": "Champion",
+          "last_order_month": "2026-10-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 5,
+          "total_spend_thb": 68873.0,
+          "r_score": 5,
+          "f_score": 5,
+          "m_score": 5
+        },
+        {
+          "email": "norekbaj@gmail.com",
+          "rfm_segment": "Champion",
+          "last_order_month": "2026-10-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 17,
+          "total_spend_thb": 68785.0,
           "r_score": 5,
           "f_score": 5,
           "m_score": 5
@@ -8653,176 +8818,11 @@
           "r_score": 5,
           "f_score": 5,
           "m_score": 5
-        },
-        {
-          "email": "petebkk@protonmail.com",
-          "rfm_segment": "Champion",
-          "last_order_month": "2026-10-01T00:00:00",
-          "recency_days": 0,
-          "order_count": 15,
-          "total_spend_thb": 67309.0,
-          "r_score": 5,
-          "f_score": 5,
-          "m_score": 5
-        },
-        {
-          "email": "inapats@gmail.com",
-          "rfm_segment": "Champion",
-          "last_order_month": "2026-09-01T00:00:00",
-          "recency_days": 30,
-          "order_count": 16,
-          "total_spend_thb": 67269.0,
-          "r_score": 5,
-          "f_score": 5,
-          "m_score": 5
-        },
-        {
-          "email": "buddywine333@gmail.com",
-          "rfm_segment": "Champion",
-          "last_order_month": "2026-09-01T00:00:00",
-          "recency_days": 30,
-          "order_count": 3,
-          "total_spend_thb": 67150.0,
-          "r_score": 5,
-          "f_score": 5,
-          "m_score": 5
-        },
-        {
-          "email": "nutmanthai@gmail.com",
-          "rfm_segment": "Champion",
-          "last_order_month": "2026-09-01T00:00:00",
-          "recency_days": 30,
-          "order_count": 4,
-          "total_spend_thb": 67080.0,
-          "r_score": 5,
-          "f_score": 5,
-          "m_score": 5
-        },
-        {
-          "email": "ae2518@gmail.com",
-          "rfm_segment": "Champion",
-          "last_order_month": "2026-09-01T00:00:00",
-          "recency_days": 30,
-          "order_count": 18,
-          "total_spend_thb": 66598.0,
-          "r_score": 5,
-          "f_score": 5,
-          "m_score": 5
-        },
-        {
-          "email": "coat007@hotmail.com",
-          "rfm_segment": "Champion",
-          "last_order_month": "2026-08-01T00:00:00",
-          "recency_days": 61,
-          "order_count": 11,
-          "total_spend_thb": 66206.0,
-          "r_score": 5,
-          "f_score": 5,
-          "m_score": 5
-        },
-        {
-          "email": "maidreamin.acc2@gmail.com",
-          "rfm_segment": "Champion",
-          "last_order_month": "2026-08-01T00:00:00",
-          "recency_days": 61,
-          "order_count": 11,
-          "total_spend_thb": 66177.0,
-          "r_score": 5,
-          "f_score": 5,
-          "m_score": 5
-        },
-        {
-          "email": "chanchaivanich.s@gmail.com",
-          "rfm_segment": "Champion",
-          "last_order_month": "2026-10-01T00:00:00",
-          "recency_days": 0,
-          "order_count": 5,
-          "total_spend_thb": 66167.0,
-          "r_score": 5,
-          "f_score": 5,
-          "m_score": 5
-        },
-        {
-          "email": "rindhewat@gmail.com",
-          "rfm_segment": "Champion",
-          "last_order_month": "2026-08-01T00:00:00",
-          "recency_days": 61,
-          "order_count": 8,
-          "total_spend_thb": 66054.0,
-          "r_score": 5,
-          "f_score": 5,
-          "m_score": 5
-        },
-        {
-          "email": "toangpuj@scg.com",
-          "rfm_segment": "Champion",
-          "last_order_month": "2026-07-01T00:00:00",
-          "recency_days": 92,
-          "order_count": 3,
-          "total_spend_thb": 65621.0,
-          "r_score": 5,
-          "f_score": 5,
-          "m_score": 5
-        },
-        {
-          "email": "yingmemie@gmail.com",
-          "rfm_segment": "Champion",
-          "last_order_month": "2026-10-01T00:00:00",
-          "recency_days": 0,
-          "order_count": 19,
-          "total_spend_thb": 65112.0,
-          "r_score": 5,
-          "f_score": 5,
-          "m_score": 5
-        },
-        {
-          "email": "ptg8845@gmail.com",
-          "rfm_segment": "Champion",
-          "last_order_month": "2026-08-01T00:00:00",
-          "recency_days": 61,
-          "order_count": 8,
-          "total_spend_thb": 64767.0,
-          "r_score": 5,
-          "f_score": 5,
-          "m_score": 5
-        },
-        {
-          "email": "0886926942@wine-now.com",
-          "rfm_segment": "Champion",
-          "last_order_month": "2026-08-01T00:00:00",
-          "recency_days": 61,
-          "order_count": 10,
-          "total_spend_thb": 64082.0,
-          "r_score": 5,
-          "f_score": 5,
-          "m_score": 5
-        },
-        {
-          "email": "th.chanachai@gmail.com",
-          "rfm_segment": "Champion",
-          "last_order_month": "2026-08-01T00:00:00",
-          "recency_days": 61,
-          "order_count": 9,
-          "total_spend_thb": 63429.0,
-          "r_score": 5,
-          "f_score": 5,
-          "m_score": 5
-        },
-        {
-          "email": "yataaa@hotmail.com",
-          "rfm_segment": "Champion",
-          "last_order_month": "2026-08-01T00:00:00",
-          "recency_days": 61,
-          "order_count": 9,
-          "total_spend_thb": 63380.0,
-          "r_score": 5,
-          "f_score": 5,
-          "m_score": 5
         }
       ]
     },
     "Loyal": {
-      "rows": 189,
+      "rows": 198,
       "data": [
         {
           "email": "sasiya_5445@yahoo.com",
@@ -8875,17 +8875,6 @@
           "recency_days": 61,
           "order_count": 2,
           "total_spend_thb": 37412.0,
-          "r_score": 5,
-          "f_score": 4,
-          "m_score": 5
-        },
-        {
-          "email": "coconutisland.pm@barcelo.com",
-          "rfm_segment": "Loyal",
-          "last_order_month": "2026-09-01T00:00:00",
-          "recency_days": 30,
-          "order_count": 2,
-          "total_spend_thb": 32040.0,
           "r_score": 5,
           "f_score": 4,
           "m_score": 5
@@ -9018,17 +9007,6 @@
           "recency_days": 92,
           "order_count": 2,
           "total_spend_thb": 19000.0,
-          "r_score": 5,
-          "f_score": 4,
-          "m_score": 4
-        },
-        {
-          "email": "panitonp@gmail.com",
-          "rfm_segment": "Loyal",
-          "last_order_month": "2026-10-01T00:00:00",
-          "recency_days": 0,
-          "order_count": 2,
-          "total_spend_thb": 18762.0,
           "r_score": 5,
           "f_score": 4,
           "m_score": 4
@@ -9210,6 +9188,17 @@
           "m_score": 4
         },
         {
+          "email": "kanprawee_s@hotmail.com",
+          "rfm_segment": "Loyal",
+          "last_order_month": "2026-10-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 3,
+          "total_spend_thb": 14296.0,
+          "r_score": 5,
+          "f_score": 5,
+          "m_score": 4
+        },
+        {
           "email": "sinareno@yahoo.com",
           "rfm_segment": "Loyal",
           "last_order_month": "2026-08-01T00:00:00",
@@ -9232,6 +9221,17 @@
           "m_score": 4
         },
         {
+          "email": "pattarinee.p@gmail.com",
+          "rfm_segment": "Loyal",
+          "last_order_month": "2026-10-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 4,
+          "total_spend_thb": 13834.0,
+          "r_score": 5,
+          "f_score": 5,
+          "m_score": 4
+        },
+        {
           "email": "warit.tan3@gmail.com",
           "rfm_segment": "Loyal",
           "last_order_month": "2026-08-01T00:00:00",
@@ -9249,6 +9249,17 @@
           "recency_days": 0,
           "order_count": 3,
           "total_spend_thb": 13798.0,
+          "r_score": 5,
+          "f_score": 5,
+          "m_score": 4
+        },
+        {
+          "email": "suk.thitiwat@gmail.com",
+          "rfm_segment": "Loyal",
+          "last_order_month": "2026-10-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 3,
+          "total_spend_thb": 13637.0,
           "r_score": 5,
           "f_score": 5,
           "m_score": 4
@@ -9282,6 +9293,17 @@
           "recency_days": 92,
           "order_count": 2,
           "total_spend_thb": 13270.0,
+          "r_score": 5,
+          "f_score": 4,
+          "m_score": 4
+        },
+        {
+          "email": "3535069@fedex.com",
+          "rfm_segment": "Loyal",
+          "last_order_month": "2026-10-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 2,
+          "total_spend_thb": 13000.0,
           "r_score": 5,
           "f_score": 4,
           "m_score": 4
@@ -9342,6 +9364,17 @@
           "m_score": 4
         },
         {
+          "email": "minniemilymily@gmail.com",
+          "rfm_segment": "Loyal",
+          "last_order_month": "2026-10-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 3,
+          "total_spend_thb": 12424.0,
+          "r_score": 5,
+          "f_score": 5,
+          "m_score": 4
+        },
+        {
           "email": "varoot.k@gmail.com",
           "rfm_segment": "Loyal",
           "last_order_month": "2026-08-01T00:00:00",
@@ -9361,17 +9394,6 @@
           "total_spend_thb": 12332.0,
           "r_score": 5,
           "f_score": 4,
-          "m_score": 4
-        },
-        {
-          "email": "charmed_wish@hotmail.com",
-          "rfm_segment": "Loyal",
-          "last_order_month": "2026-09-01T00:00:00",
-          "recency_days": 30,
-          "order_count": 3,
-          "total_spend_thb": 12264.0,
-          "r_score": 5,
-          "f_score": 5,
           "m_score": 4
         },
         {
@@ -9474,6 +9496,39 @@
           "m_score": 4
         },
         {
+          "email": "chotikajoenandching@gmail.com",
+          "rfm_segment": "Loyal",
+          "last_order_month": "2026-10-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 3,
+          "total_spend_thb": 11936.0,
+          "r_score": 5,
+          "f_score": 5,
+          "m_score": 4
+        },
+        {
+          "email": "hawebey@gmail.com",
+          "rfm_segment": "Loyal",
+          "last_order_month": "2026-10-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 2,
+          "total_spend_thb": 11929.0,
+          "r_score": 5,
+          "f_score": 4,
+          "m_score": 4
+        },
+        {
+          "email": "evesutthapa@gmail.com",
+          "rfm_segment": "Loyal",
+          "last_order_month": "2026-10-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 2,
+          "total_spend_thb": 11895.0,
+          "r_score": 5,
+          "f_score": 4,
+          "m_score": 4
+        },
+        {
           "email": "nuttawutpaw@gmail.com",
           "rfm_segment": "Loyal",
           "last_order_month": "2026-08-01T00:00:00",
@@ -9559,6 +9614,17 @@
           "total_spend_thb": 11544.0,
           "r_score": 5,
           "f_score": 5,
+          "m_score": 4
+        },
+        {
+          "email": "panyayan456@gmail.com",
+          "rfm_segment": "Loyal",
+          "last_order_month": "2026-10-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 2,
+          "total_spend_thb": 11330.0,
+          "r_score": 5,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -9661,17 +9727,6 @@
           "m_score": 4
         },
         {
-          "email": "suk.thitiwat@gmail.com",
-          "rfm_segment": "Loyal",
-          "last_order_month": "2026-10-01T00:00:00",
-          "recency_days": 0,
-          "order_count": 2,
-          "total_spend_thb": 10937.0,
-          "r_score": 5,
-          "f_score": 4,
-          "m_score": 4
-        },
-        {
           "email": "craigm@risr.ac.th",
           "rfm_segment": "Loyal",
           "last_order_month": "2026-09-01T00:00:00",
@@ -9680,17 +9735,6 @@
           "total_spend_thb": 10897.0,
           "r_score": 5,
           "f_score": 4,
-          "m_score": 4
-        },
-        {
-          "email": "pattarinee.p@gmail.com",
-          "rfm_segment": "Loyal",
-          "last_order_month": "2026-09-01T00:00:00",
-          "recency_days": 30,
-          "order_count": 3,
-          "total_spend_thb": 10808.0,
-          "r_score": 5,
-          "f_score": 5,
           "m_score": 4
         },
         {
@@ -9848,6 +9892,17 @@
           "m_score": 4
         },
         {
+          "email": "tiang_tan@yahoo.com",
+          "rfm_segment": "Loyal",
+          "last_order_month": "2026-10-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 3,
+          "total_spend_thb": 9538.0,
+          "r_score": 5,
+          "f_score": 5,
+          "m_score": 4
+        },
+        {
           "email": "kanathip.b@gmail.com",
           "rfm_segment": "Loyal",
           "last_order_month": "2026-08-01T00:00:00",
@@ -9870,14 +9925,14 @@
           "m_score": 4
         },
         {
-          "email": "kanprawee_s@hotmail.com",
+          "email": "kevinmarchetti1995@gmail.com",
           "rfm_segment": "Loyal",
           "last_order_month": "2026-10-01T00:00:00",
           "recency_days": 0,
-          "order_count": 2,
-          "total_spend_thb": 9459.0,
+          "order_count": 3,
+          "total_spend_thb": 9453.0,
           "r_score": 5,
-          "f_score": 4,
+          "f_score": 5,
           "m_score": 4
         },
         {
@@ -10164,7 +10219,7 @@
           "total_spend_thb": 7916.0,
           "r_score": 5,
           "f_score": 4,
-          "m_score": 4
+          "m_score": 3
         },
         {
           "email": "akater18@gmail.com",
@@ -10186,6 +10241,17 @@
           "total_spend_thb": 7894.0,
           "r_score": 5,
           "f_score": 5,
+          "m_score": 3
+        },
+        {
+          "email": "beerbkk25@gmail.com",
+          "rfm_segment": "Loyal",
+          "last_order_month": "2026-10-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 2,
+          "total_spend_thb": 7865.0,
+          "r_score": 5,
+          "f_score": 4,
           "m_score": 3
         },
         {
@@ -10318,6 +10384,17 @@
           "total_spend_thb": 6757.0,
           "r_score": 5,
           "f_score": 5,
+          "m_score": 3
+        },
+        {
+          "email": "evesapp789@gmail.com",
+          "rfm_segment": "Loyal",
+          "last_order_month": "2026-10-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 2,
+          "total_spend_thb": 6750.0,
+          "r_score": 5,
+          "f_score": 4,
           "m_score": 3
         },
         {
@@ -10481,17 +10558,6 @@
           "recency_days": 61,
           "order_count": 2,
           "total_spend_thb": 5706.0,
-          "r_score": 5,
-          "f_score": 4,
-          "m_score": 3
-        },
-        {
-          "email": "tiang_tan@yahoo.com",
-          "rfm_segment": "Loyal",
-          "last_order_month": "2026-09-01T00:00:00",
-          "recency_days": 30,
-          "order_count": 2,
-          "total_spend_thb": 5700.0,
           "r_score": 5,
           "f_score": 4,
           "m_score": 3
@@ -10695,6 +10761,17 @@
           "m_score": 3
         },
         {
+          "email": "doyle.yutthana@gmail.com",
+          "rfm_segment": "Loyal",
+          "last_order_month": "2026-10-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 2,
+          "total_spend_thb": 4008.0,
+          "r_score": 5,
+          "f_score": 4,
+          "m_score": 3
+        },
+        {
           "email": "porza2008@hotmail.com",
           "rfm_segment": "Loyal",
           "last_order_month": "2026-10-01T00:00:00",
@@ -10723,6 +10800,28 @@
           "recency_days": 61,
           "order_count": 2,
           "total_spend_thb": 3530.0,
+          "r_score": 5,
+          "f_score": 4,
+          "m_score": 2
+        },
+        {
+          "email": "hamkannanat@gmail.com",
+          "rfm_segment": "Loyal",
+          "last_order_month": "2026-10-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 2,
+          "total_spend_thb": 3400.0,
+          "r_score": 5,
+          "f_score": 4,
+          "m_score": 2
+        },
+        {
+          "email": "makittisak@gmail.com",
+          "rfm_segment": "Loyal",
+          "last_order_month": "2026-10-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 2,
+          "total_spend_thb": 3396.0,
           "r_score": 5,
           "f_score": 4,
           "m_score": 2
@@ -10916,7 +11015,7 @@
           "order_count": 1,
           "total_spend_thb": 116280.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -10949,7 +11048,7 @@
           "order_count": 1,
           "total_spend_thb": 85377.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -11015,7 +11114,7 @@
           "order_count": 1,
           "total_spend_thb": 53496.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -11048,7 +11147,7 @@
           "order_count": 1,
           "total_spend_thb": 48750.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -11070,7 +11169,7 @@
           "order_count": 1,
           "total_spend_thb": 42000.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -11081,7 +11180,7 @@
           "order_count": 1,
           "total_spend_thb": 41640.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -11213,7 +11312,7 @@
           "order_count": 1,
           "total_spend_thb": 28600.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -11268,7 +11367,7 @@
           "order_count": 1,
           "total_spend_thb": 24466.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -11290,7 +11389,7 @@
           "order_count": 1,
           "total_spend_thb": 23097.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -11301,7 +11400,7 @@
           "order_count": 1,
           "total_spend_thb": 22274.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -11323,7 +11422,7 @@
           "order_count": 1,
           "total_spend_thb": 21907.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 5
         },
         {
@@ -11389,7 +11488,7 @@
           "order_count": 1,
           "total_spend_thb": 18540.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -11411,7 +11510,7 @@
           "order_count": 1,
           "total_spend_thb": 16236.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -11466,7 +11565,7 @@
           "order_count": 1,
           "total_spend_thb": 15600.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -11489,6 +11588,17 @@
           "total_spend_thb": 15401.0,
           "r_score": 5,
           "f_score": 3,
+          "m_score": 4
+        },
+        {
+          "email": "cvn_electric@hotmail.com",
+          "rfm_segment": "Promising",
+          "last_order_month": "2026-10-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 1,
+          "total_spend_thb": 14388.0,
+          "r_score": 5,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -11587,7 +11697,7 @@
           "order_count": 1,
           "total_spend_thb": 12225.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -11609,7 +11719,7 @@
           "order_count": 1,
           "total_spend_thb": 11930.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -11620,7 +11730,7 @@
           "order_count": 1,
           "total_spend_thb": 11816.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -11653,7 +11763,7 @@
           "order_count": 1,
           "total_spend_thb": 11388.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -11675,7 +11785,7 @@
           "order_count": 1,
           "total_spend_thb": 11050.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -11719,7 +11829,7 @@
           "order_count": 1,
           "total_spend_thb": 10575.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -11774,7 +11884,7 @@
           "order_count": 1,
           "total_spend_thb": 10260.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -11851,7 +11961,7 @@
           "order_count": 1,
           "total_spend_thb": 9549.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -11877,17 +11987,6 @@
           "m_score": 4
         },
         {
-          "email": "3535069@fedex.com",
-          "rfm_segment": "Promising",
-          "last_order_month": "2026-08-01T00:00:00",
-          "recency_days": 61,
-          "order_count": 1,
-          "total_spend_thb": 9400.0,
-          "r_score": 5,
-          "f_score": 3,
-          "m_score": 4
-        },
-        {
           "email": "mr_oui@yahoo.com",
           "rfm_segment": "Promising",
           "last_order_month": "2026-04-01T00:00:00",
@@ -11906,7 +12005,7 @@
           "order_count": 1,
           "total_spend_thb": 9360.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -12104,7 +12203,7 @@
           "order_count": 1,
           "total_spend_thb": 8388.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -12126,7 +12225,7 @@
           "order_count": 1,
           "total_spend_thb": 8160.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 4
         },
         {
@@ -12148,7 +12247,7 @@
           "order_count": 1,
           "total_spend_thb": 7788.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 3
         },
         {
@@ -12192,7 +12291,7 @@
           "order_count": 1,
           "total_spend_thb": 7525.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 3
         },
         {
@@ -12251,6 +12350,17 @@
           "m_score": 3
         },
         {
+          "email": "fonfon1635@gmail.com",
+          "rfm_segment": "Promising",
+          "last_order_month": "2026-10-01T00:00:00",
+          "recency_days": 0,
+          "order_count": 1,
+          "total_spend_thb": 6780.0,
+          "r_score": 5,
+          "f_score": 4,
+          "m_score": 3
+        },
+        {
           "email": "sugarhighf4@hotmail.com",
           "rfm_segment": "Promising",
           "last_order_month": "2026-10-01T00:00:00",
@@ -12258,7 +12368,7 @@
           "order_count": 1,
           "total_spend_thb": 6732.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 3
         },
         {
@@ -12291,7 +12401,7 @@
           "order_count": 1,
           "total_spend_thb": 6584.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 3
         },
         {
@@ -12324,7 +12434,7 @@
           "order_count": 1,
           "total_spend_thb": 6500.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 3
         },
         {
@@ -12357,7 +12467,7 @@
           "order_count": 1,
           "total_spend_thb": 6480.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 3
         },
         {
@@ -12423,7 +12533,7 @@
           "order_count": 1,
           "total_spend_thb": 6299.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 3
         },
         {
@@ -12445,7 +12555,7 @@
           "order_count": 1,
           "total_spend_thb": 6200.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 3
         },
         {
@@ -12500,7 +12610,7 @@
           "order_count": 1,
           "total_spend_thb": 6000.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 3
         },
         {
@@ -12698,7 +12808,7 @@
           "order_count": 1,
           "total_spend_thb": 5449.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 3
         },
         {
@@ -12819,7 +12929,7 @@
           "order_count": 1,
           "total_spend_thb": 4794.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 3
         },
         {
@@ -12829,17 +12939,6 @@
           "recency_days": 153,
           "order_count": 1,
           "total_spend_thb": 4778.0,
-          "r_score": 5,
-          "f_score": 3,
-          "m_score": 3
-        },
-        {
-          "email": "kevinmarchetti1995@gmail.com",
-          "rfm_segment": "Promising",
-          "last_order_month": "2026-06-01T00:00:00",
-          "recency_days": 122,
-          "order_count": 1,
-          "total_spend_thb": 4709.0,
           "r_score": 5,
           "f_score": 3,
           "m_score": 3
@@ -12862,17 +12961,6 @@
           "recency_days": 61,
           "order_count": 1,
           "total_spend_thb": 4648.0,
-          "r_score": 5,
-          "f_score": 3,
-          "m_score": 3
-        },
-        {
-          "email": "beerbkk25@gmail.com",
-          "rfm_segment": "Promising",
-          "last_order_month": "2026-08-01T00:00:00",
-          "recency_days": 61,
-          "order_count": 1,
-          "total_spend_thb": 4620.0,
           "r_score": 5,
           "f_score": 3,
           "m_score": 3
@@ -13050,7 +13138,7 @@
           "order_count": 1,
           "total_spend_thb": 4277.0,
           "r_score": 5,
-          "f_score": 3,
+          "f_score": 4,
           "m_score": 3
         },
         {
@@ -13104,6 +13192,17 @@
           "recency_days": 183,
           "order_count": 1,
           "total_spend_thb": 4170.0,
+          "r_score": 5,
+          "f_score": 3,
+          "m_score": 3
+        },
+        {
+          "email": "prathankit@gmail.com",
+          "rfm_segment": "Promising",
+          "last_order_month": "2026-05-01T00:00:00",
+          "recency_days": 153,
+          "order_count": 1,
+          "total_spend_thb": 4080.0,
           "r_score": 5,
           "f_score": 3,
           "m_score": 3
