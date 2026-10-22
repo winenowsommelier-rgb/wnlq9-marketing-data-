@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T11:12:56.098624+00:00",
+  "generated_at": "2026-10-22T11:35:34.241434+00:00",
   "rows": 200,
   "data": [
     {
@@ -1740,7 +1740,7 @@
       "revenue_thb": 278666.0,
       "margin_thb": 27790.4649,
       "last_sale_month": "2026-06-01T00:00:00",
-      "replenishment_signal": "monitor"
+      "replenishment_signal": "low_margin_watch"
     },
     {
       "sku": "WRW4693AD",
@@ -1800,7 +1800,7 @@
       "revenue_thb": 274739.0,
       "margin_thb": 23684.4647,
       "last_sale_month": "2026-09-01T00:00:00",
-      "replenishment_signal": "monitor"
+      "replenishment_signal": "low_margin_watch"
     },
     {
       "sku": "LRM0035BU",

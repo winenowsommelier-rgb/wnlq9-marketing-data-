@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T11:12:56.098624+00:00",
+  "generated_at": "2026-10-22T11:35:34.241434+00:00",
   "rows": 12397,
   "data": [
     {
@@ -35935,7 +35935,7 @@
       "product_name": "Jack Daniel's 10 Year Batch 04 Tennessee Whiskey (700 ml)",
       "brand": "Jack Daniel's",
       "category_name": "Whisky",
-      "b2c_price_thb": 4503.63,
+      "b2c_price_thb": 4514.33,
       "is_in_stock": true
     },
     {
@@ -81343,7 +81343,7 @@
       "product_name": "Champagne Gremillet  Blanc de Blancs Brut",
       "brand": "Champagne Gremillet",
       "category_name": "Sparkling Wine",
-      "b2c_price_thb": 3155.43,
+      "b2c_price_thb": 2352.93,
       "is_in_stock": true
     },
     {
