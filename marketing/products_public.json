@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T04:12:34.240919+00:00",
+  "generated_at": "2026-10-22T06:34:32.569616+00:00",
   "rows": 12397,
   "data": [
     {
@@ -5695,7 +5695,7 @@
       "product_name": "Partagas  Serie D No.4 (3 Sticks per Box) (Aluminum Tube)",
       "brand": "Partagas",
       "category_name": "Cigars",
-      "b2c_price_thb": 8453.0,
+      "b2c_price_thb": 8988.0,
       "is_in_stock": true
     },
     {
@@ -8360,7 +8360,7 @@
       "brand": "St. George",
       "category_name": null,
       "b2c_price_thb": 4257.53,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LAB0016EQ",
@@ -12183,7 +12183,7 @@
       "product_name": "Bombay Sapphire Gin (750 ml)",
       "brand": "Bombay Sapphire",
       "category_name": "Gin",
-      "b2c_price_thb": 1336.43,
+      "b2c_price_thb": 1282.93,
       "is_in_stock": true
     },
     {
@@ -18103,7 +18103,7 @@
       "product_name": "Mancino Sakura Vermouth (500 ml)",
       "brand": "Mancino",
       "category_name": "Liqueur",
-      "b2c_price_thb": 1817.93,
+      "b2c_price_thb": 1828.63,
       "is_in_stock": true
     },
     {
@@ -19623,7 +19623,7 @@
       "product_name": "Signature Cocktail The Lychee Martini (Ready to drink) (1000 ml)",
       "brand": "Signature Cocktail",
       "category_name": null,
-      "b2c_price_thb": 1819.0,
+      "b2c_price_thb": 1828.63,
       "is_in_stock": true
     },
     {
@@ -19631,7 +19631,7 @@
       "product_name": "Signature Cocktail Sunset Aperitivo (Ready to drink) (1000 ml)",
       "brand": "Signature Cocktail",
       "category_name": null,
-      "b2c_price_thb": 1819.0,
+      "b2c_price_thb": 1828.63,
       "is_in_stock": true
     },
     {
@@ -19639,7 +19639,7 @@
       "product_name": "Signature Cocktail The Raspberry Espresso Martini (Ready to drink) (1000 ml)",
       "brand": "Signature Cocktail",
       "category_name": null,
-      "b2c_price_thb": 1819.0,
+      "b2c_price_thb": 1828.63,
       "is_in_stock": true
     },
     {
@@ -19647,7 +19647,7 @@
       "product_name": "Signature Cocktail The Rose & White Pepper Negroni (Ready to drink) (1000 ml)",
       "brand": "Signature Cocktail",
       "category_name": null,
-      "b2c_price_thb": 1819.0,
+      "b2c_price_thb": 1828.63,
       "is_in_stock": true
     },
     {
@@ -19655,7 +19655,7 @@
       "product_name": "Signature Cocktail The Coconut & Pineapple Daiquiri (Ready to drink) (1000 ml)",
       "brand": "Signature Cocktail",
       "category_name": null,
-      "b2c_price_thb": 1819.0,
+      "b2c_price_thb": 1828.63,
       "is_in_stock": true
     },
     {
@@ -20271,15 +20271,15 @@
       "product_name": "Dead Man's Finger  Spiced Rum (700 ml)",
       "brand": "Dead Man's Finger",
       "category_name": "Rum",
-      "b2c_price_thb": 801.43,
-      "is_in_stock": false
+      "b2c_price_thb": 1165.23,
+      "is_in_stock": true
     },
     {
       "sku": "LRM0144CP",
       "product_name": "Dead Man's Finger  Coffee Rum (700 ml)",
       "brand": "Dead Man's Finger",
       "category_name": "Rum",
-      "b2c_price_thb": 801.43,
+      "b2c_price_thb": 1165.23,
       "is_in_stock": false
     },
     {
@@ -20287,8 +20287,8 @@
       "product_name": "Dead Man's Finger  Coconut Rum (700 ml)",
       "brand": "Dead Man's Finger",
       "category_name": "Rum",
-      "b2c_price_thb": 801.43,
-      "is_in_stock": false
+      "b2c_price_thb": 1165.23,
+      "is_in_stock": true
     },
     {
       "sku": "LRM0146AE",
@@ -20655,24 +20655,24 @@
       "product_name": "Dead Man's Finger  Herbal Rum (700 ml)",
       "brand": "Dead Man's Finger",
       "category_name": "Rum",
-      "b2c_price_thb": 1026.13,
-      "is_in_stock": false
+      "b2c_price_thb": 994.03,
+      "is_in_stock": true
     },
     {
       "sku": "LRM0207CP",
       "product_name": "Dead Man's Finger  Raspberry Rum (700 ml)",
       "brand": "Dead Man's Finger",
       "category_name": "Rum",
-      "b2c_price_thb": 801.43,
-      "is_in_stock": false
+      "b2c_price_thb": 1165.23,
+      "is_in_stock": true
     },
     {
       "sku": "LRM0208CP",
       "product_name": "Dead Man's Finger  Hazelnut Rum (700 ml)",
       "brand": "Dead Man's Finger",
       "category_name": "Rum",
-      "b2c_price_thb": 801.43,
-      "is_in_stock": false
+      "b2c_price_thb": 1165.23,
+      "is_in_stock": true
     },
     {
       "sku": "LRM0209CP",
@@ -20687,16 +20687,16 @@
       "product_name": "Dead Man's Finger  Passion Fruit Rum (700 ml)",
       "brand": "Dead Man's Finger",
       "category_name": "Rum",
-      "b2c_price_thb": 801.43,
-      "is_in_stock": false
+      "b2c_price_thb": 1165.23,
+      "is_in_stock": true
     },
     {
       "sku": "LRM0211CP",
       "product_name": "Dead Man's Finger  Mango Rum (700 ml)",
       "brand": "Dead Man's Finger",
       "category_name": "Rum",
-      "b2c_price_thb": 801.43,
-      "is_in_stock": false
+      "b2c_price_thb": 1165.23,
+      "is_in_stock": true
     },
     {
       "sku": "LRM0212CP",
@@ -21183,7 +21183,7 @@
       "product_name": "Havana Club Especial (700 ml)",
       "brand": "Havana Club",
       "category_name": "Rum",
-      "b2c_price_thb": 1133.13,
+      "b2c_price_thb": 1143.83,
       "is_in_stock": true
     },
     {
@@ -21191,7 +21191,7 @@
       "product_name": "Havana Club Selection (700 ml)",
       "brand": "Havana Club",
       "category_name": "Rum",
-      "b2c_price_thb": 2160.33,
+      "b2c_price_thb": 2171.03,
       "is_in_stock": true
     },
     {
@@ -24968,7 +24968,7 @@
       "brand": "Houou Biden",
       "category_name": "Sake & Shochu",
       "b2c_price_thb": 2792.7,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LSK0629HD",
@@ -24976,7 +24976,7 @@
       "brand": "Houou Biden",
       "category_name": "Sake & Shochu",
       "b2c_price_thb": 4076.7,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LSK0630HD",
@@ -24984,7 +24984,7 @@
       "brand": "Afuri",
       "category_name": "Sake & Shochu",
       "b2c_price_thb": 2728.5,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LSK0631HD",
@@ -24992,7 +24992,7 @@
       "brand": "Afuri",
       "category_name": "Sake & Shochu",
       "b2c_price_thb": 2931.8,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LSK0632HD",
@@ -25000,7 +25000,7 @@
       "brand": "Afuri",
       "category_name": "Sake & Shochu",
       "b2c_price_thb": 3113.7,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LSK0633HD",
@@ -25008,7 +25008,7 @@
       "brand": "Hirotogawa",
       "category_name": "Sake & Shochu",
       "b2c_price_thb": 2546.6,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LSK0634HD",
@@ -25016,7 +25016,7 @@
       "brand": "Garyubai",
       "category_name": "Sake & Shochu",
       "b2c_price_thb": 2685.7,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LSK0635HD",
@@ -25024,7 +25024,7 @@
       "brand": "Heavensake",
       "category_name": "Sake & Shochu",
       "b2c_price_thb": 2535.9,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LSK0636HD",
@@ -25032,7 +25032,7 @@
       "brand": "Heavensake",
       "category_name": "Sake & Shochu",
       "b2c_price_thb": 3327.7,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LSK0637HD",
@@ -25040,7 +25040,7 @@
       "brand": "Heavensake",
       "category_name": "Sake & Shochu",
       "b2c_price_thb": 3702.2,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LSK0638HD",
@@ -25048,7 +25048,7 @@
       "brand": "Heavensake",
       "category_name": "Sake & Shochu",
       "b2c_price_thb": 4750.8,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LSK0639HD",
@@ -25056,7 +25056,7 @@
       "brand": "Heavensake",
       "category_name": "Sake & Shochu",
       "b2c_price_thb": 42800.0,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LSK0640HD",
@@ -25064,7 +25064,7 @@
       "brand": "Hiroki",
       "category_name": "Sake & Shochu",
       "b2c_price_thb": 5424.9,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LSK0641HD",
@@ -25072,7 +25072,7 @@
       "brand": "Houou Biden",
       "category_name": "Sake & Shochu",
       "b2c_price_thb": 2728.5,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LSK0642HD",
@@ -25080,7 +25080,7 @@
       "brand": "Houou Biden",
       "category_name": "Sake & Shochu",
       "b2c_price_thb": 2814.1,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LSK0643HD",
@@ -25088,7 +25088,7 @@
       "brand": "Houou Biden",
       "category_name": "Sake & Shochu",
       "b2c_price_thb": 2814.1,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LSK0648HD",
@@ -25096,7 +25096,7 @@
       "brand": "Kamokinshu",
       "category_name": "Sake & Shochu",
       "b2c_price_thb": 2471.7,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LSK0658HD",
@@ -25104,7 +25104,7 @@
       "brand": "Nichi Nichi",
       "category_name": "Sake & Shochu",
       "b2c_price_thb": 3884.1,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LSK0659HD",
@@ -25112,7 +25112,7 @@
       "brand": "Nichi Nichi",
       "category_name": "Sake & Shochu",
       "b2c_price_thb": 4622.4,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LSK0667HD",
@@ -25120,7 +25120,7 @@
       "brand": "Nondo",
       "category_name": "Sake & Shochu",
       "b2c_price_thb": 3070.9,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LSK0668HD",
@@ -25128,7 +25128,7 @@
       "brand": "Nondo",
       "category_name": "Sake & Shochu",
       "b2c_price_thb": 3424.0,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LSK0669HD",
@@ -25136,7 +25136,7 @@
       "brand": "Nondo",
       "category_name": "Sake & Shochu",
       "b2c_price_thb": 4964.8,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LSK0670HD",
@@ -25144,7 +25144,7 @@
       "brand": "Nondo",
       "category_name": "Sake & Shochu",
       "b2c_price_thb": 5510.5,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LSK0671HD",
@@ -25152,7 +25152,7 @@
       "brand": "Nondo",
       "category_name": "Sake & Shochu",
       "b2c_price_thb": 8046.4,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LSK0672HD",
@@ -25160,7 +25160,7 @@
       "brand": "Sharaku",
       "category_name": "Sake & Shochu",
       "b2c_price_thb": 2899.7,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LSK0673HD",
@@ -25168,7 +25168,7 @@
       "brand": "Sharaku",
       "category_name": "Sake & Shochu",
       "b2c_price_thb": 3391.9,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LSK0674HD",
@@ -25176,7 +25176,7 @@
       "brand": "Sharaku",
       "category_name": "Sake & Shochu",
       "b2c_price_thb": 3734.3,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LSK0675HD",
@@ -25184,7 +25184,7 @@
       "brand": "Sharaku",
       "category_name": "Sake & Shochu",
       "b2c_price_thb": 5970.6,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LSK0676HD",
@@ -25192,7 +25192,7 @@
       "brand": "Sharaku",
       "category_name": "Sake & Shochu",
       "b2c_price_thb": 5970.6,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LSK0678HD",
@@ -25200,7 +25200,7 @@
       "brand": "Tabika",
       "category_name": "Sake & Shochu",
       "b2c_price_thb": 2407.5,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LSK0679HD",
@@ -25208,7 +25208,7 @@
       "brand": "Tabika",
       "category_name": "Sake & Shochu",
       "b2c_price_thb": 2642.9,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LSK0680HD",
@@ -25216,7 +25216,7 @@
       "brand": "Tabika",
       "category_name": "Sake & Shochu",
       "b2c_price_thb": 2664.3,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LSK0681HD",
@@ -25224,7 +25224,7 @@
       "brand": "Tsuchida",
       "category_name": "Sake & Shochu",
       "b2c_price_thb": 2685.7,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LSK0682HD",
@@ -25232,7 +25232,7 @@
       "brand": "Tsuchida",
       "category_name": "Sake & Shochu",
       "b2c_price_thb": 2685.7,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LSK0683HD",
@@ -25240,7 +25240,7 @@
       "brand": "Tsuchida",
       "category_name": "Sake & Shochu",
       "b2c_price_thb": 2685.7,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LSK0684HD",
@@ -25248,7 +25248,7 @@
       "brand": "Tsuchida",
       "category_name": "Sake & Shochu",
       "b2c_price_thb": 3113.7,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LSK0685HD",
@@ -25256,7 +25256,7 @@
       "brand": "Tsuchida",
       "category_name": "Sake & Shochu",
       "b2c_price_thb": 3252.8,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LSK0686HD",
@@ -25264,7 +25264,7 @@
       "brand": "Tsuchida",
       "category_name": "Sake & Shochu",
       "b2c_price_thb": 3391.9,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LSK0687HD",
@@ -25272,7 +25272,7 @@
       "brand": "Utashiro",
       "category_name": "Sake & Shochu",
       "b2c_price_thb": 2514.5,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LSK0688HD",
@@ -25280,7 +25280,7 @@
       "brand": "Utashiro",
       "category_name": "Sake & Shochu",
       "b2c_price_thb": 2578.7,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LSK0691HD",
@@ -25288,7 +25288,7 @@
       "brand": "Yamagata Masamune",
       "category_name": "Sake & Shochu",
       "b2c_price_thb": 2792.7,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LSK0692HD",
@@ -25296,7 +25296,7 @@
       "brand": "Yamagata Masamune",
       "category_name": "Sake & Shochu",
       "b2c_price_thb": 3028.1,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LSK0693HD",
@@ -25304,7 +25304,7 @@
       "brand": "Yoshidagura U",
       "category_name": "Sake & Shochu",
       "b2c_price_thb": 2535.9,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LSK0694HD",
@@ -25312,7 +25312,7 @@
       "brand": "Yoshidagura U",
       "category_name": "Sake & Shochu",
       "b2c_price_thb": 3124.4,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LSK0695HD",
@@ -25320,7 +25320,7 @@
       "brand": "Yoshidagura U",
       "category_name": "Sake & Shochu",
       "b2c_price_thb": 2535.9,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LSK0706AB",
@@ -26320,7 +26320,7 @@
       "brand": "Kah",
       "category_name": "Tequila",
       "b2c_price_thb": 4064.93,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LTQ0135AA",
@@ -26424,7 +26424,7 @@
       "brand": "Espolon",
       "category_name": "Tequila",
       "b2c_price_thb": 2513.43,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "LTQ0148CN",
@@ -27287,7 +27287,7 @@
       "product_name": "Olmeca Dark Chocolate (700 ml)",
       "brand": "Olmeca Tequila",
       "category_name": "Tequila",
-      "b2c_price_thb": 1026.13,
+      "b2c_price_thb": 1036.83,
       "is_in_stock": true
     },
     {
@@ -27295,7 +27295,7 @@
       "product_name": "Olmeca Silver (700 ml)",
       "brand": "Olmeca Tequila",
       "category_name": "Tequila",
-      "b2c_price_thb": 1101.03,
+      "b2c_price_thb": 1111.73,
       "is_in_stock": true
     },
     {
@@ -27335,7 +27335,7 @@
       "product_name": "Stolichnaya  Premium Vodka (700 ml) (New Label)",
       "brand": "Stolichnaya",
       "category_name": "Vodka",
-      "b2c_price_thb": 1043.25,
+      "b2c_price_thb": 908.43,
       "is_in_stock": true
     },
     {
@@ -27343,7 +27343,7 @@
       "product_name": "Stolichnaya  Premium Vodka (1 L) (New Label)",
       "brand": "Stolichnaya",
       "category_name": "Vodka",
-      "b2c_price_thb": 1342.85,
+      "b2c_price_thb": 1175.93,
       "is_in_stock": true
     },
     {
@@ -27351,7 +27351,7 @@
       "product_name": "Stolichnaya  Orange (700 ml)",
       "brand": "Stolichnaya",
       "category_name": "Vodka",
-      "b2c_price_thb": 1175.93,
+      "b2c_price_thb": 1026.13,
       "is_in_stock": true
     },
     {
@@ -27407,7 +27407,7 @@
       "product_name": "Stolichnaya  Gold (700 ml)",
       "brand": "Stolichnaya",
       "category_name": "Vodka",
-      "b2c_price_thb": 2138.93,
+      "b2c_price_thb": 1850.03,
       "is_in_stock": true
     },
     {
@@ -27423,7 +27423,7 @@
       "product_name": "Stolichnaya  Elit (700 ml)",
       "brand": "Stolichnaya",
       "category_name": "Vodka",
-      "b2c_price_thb": 2673.93,
+      "b2c_price_thb": 2352.93,
       "is_in_stock": false
     },
     {
@@ -27927,7 +27927,7 @@
       "product_name": "Stolichnaya  Salted Karamel (700 ml)",
       "brand": "Stolichnaya",
       "category_name": "Vodka",
-      "b2c_price_thb": 1282.93,
+      "b2c_price_thb": 1058.23,
       "is_in_stock": true
     },
     {
@@ -27943,7 +27943,7 @@
       "product_name": "Stolichnaya Sticki Vodka (700 ml)",
       "brand": "Stolichnaya",
       "category_name": "Vodka",
-      "b2c_price_thb": 1282.93,
+      "b2c_price_thb": 1058.23,
       "is_in_stock": false
     },
     {
@@ -27951,7 +27951,7 @@
       "product_name": "Stolichnaya  Choco Kokonut (700 ml)",
       "brand": "Stolichnaya",
       "category_name": "Vodka",
-      "b2c_price_thb": 1282.93,
+      "b2c_price_thb": 1058.23,
       "is_in_stock": true
     },
     {
@@ -28135,7 +28135,7 @@
       "product_name": "Stolichnaya  Gluten Free Vodka (700 ml)",
       "brand": "Stolichnaya",
       "category_name": "Vodka",
-      "b2c_price_thb": 1175.93,
+      "b2c_price_thb": 1026.13,
       "is_in_stock": true
     },
     {
@@ -28591,7 +28591,7 @@
       "product_name": "Stolichnaya  Cucumber (700 ml)",
       "brand": "Stolichnaya",
       "category_name": "Vodka",
-      "b2c_price_thb": 1175.93,
+      "b2c_price_thb": 1026.13,
       "is_in_stock": true
     },
     {
@@ -28599,7 +28599,7 @@
       "product_name": "Stolichnaya  Elit Night Edition (1.75 L)",
       "brand": "Stolichnaya",
       "category_name": "Vodka",
-      "b2c_price_thb": 5883.93,
+      "b2c_price_thb": 5209.83,
       "is_in_stock": true
     },
     {
@@ -28839,7 +28839,7 @@
       "product_name": "Stolichnaya  Elit (3 L)",
       "brand": "Stolichnaya",
       "category_name": "Vodka",
-      "b2c_price_thb": 13052.93,
+      "b2c_price_thb": 11843.83,
       "is_in_stock": false
     },
     {
@@ -28855,7 +28855,7 @@
       "product_name": "Stolichnaya Citrus (700 ml)",
       "brand": "Stolichnaya",
       "category_name": "Vodka",
-      "b2c_price_thb": 1175.93,
+      "b2c_price_thb": 1026.13,
       "is_in_stock": true
     },
     {
@@ -32272,7 +32272,7 @@
       "brand": "Glen Grant",
       "category_name": "Whisky",
       "b2c_price_thb": 3422.93,
-      "is_in_stock": false
+      "is_in_stock": true
     },
     {
       "sku": "LWH0543CN",
@@ -34983,7 +34983,7 @@
       "product_name": "Kavalan 15th Anniversary Vintage 2009 ex-bourbon Cask (750 ml)",
       "brand": "Kavalan",
       "category_name": "Whisky",
-      "b2c_price_thb": 31168.03,
+      "b2c_price_thb": 31178.73,
       "is_in_stock": true
     },
     {
@@ -34991,7 +34991,7 @@
       "product_name": "Kavalan 15th Anniversary Vintage 2009 Oloroso Sherry Cask (750 ml)",
       "brand": "Kavalan",
       "category_name": "Whisky",
-      "b2c_price_thb": 31168.03,
+      "b2c_price_thb": 31178.73,
       "is_in_stock": true
     },
     {
@@ -35007,7 +35007,7 @@
       "product_name": "Kavalan Lan Single Malt Whisky (700 ml)",
       "brand": "Kavalan",
       "category_name": "Whisky",
-      "b2c_price_thb": 5455.93,
+      "b2c_price_thb": 5466.63,
       "is_in_stock": true
     },
     {
@@ -35935,7 +35935,7 @@
       "product_name": "Jack Daniel's 10 Year Batch 04 Tennessee Whiskey (700 ml)",
       "brand": "Jack Daniel's",
       "category_name": "Whisky",
-      "b2c_price_thb": 4492.93,
+      "b2c_price_thb": 4503.63,
       "is_in_stock": true
     },
     {
@@ -36031,7 +36031,7 @@
       "product_name": "Michter's Bomberger's Declaration Kentucky Straight Bourbon (Limited) (700 ml)",
       "brand": "Michter's",
       "category_name": "Whisky",
-      "b2c_price_thb": 6868.33,
+      "b2c_price_thb": 6879.03,
       "is_in_stock": true
     },
     {
@@ -36039,7 +36039,7 @@
       "product_name": "Michter's Bomberger's Declaration PFG (Precision Fine Grain) Bourbon (Limited) (700 ml)",
       "brand": "Michter's",
       "category_name": "Whisky",
-      "b2c_price_thb": 8013.23,
+      "b2c_price_thb": 8023.93,
       "is_in_stock": true
     },
     {
@@ -36047,7 +36047,7 @@
       "product_name": "Michter's Shenks Homestead Sour Mash (Limited) (700 ml)",
       "brand": "Michter's",
       "category_name": "Whisky",
-      "b2c_price_thb": 6868.33,
+      "b2c_price_thb": 6879.03,
       "is_in_stock": true
     },
     {
@@ -36055,7 +36055,7 @@
       "product_name": "Michter's Barrel Strength Rye (Limited) (700 ml)",
       "brand": "Michter's",
       "category_name": "Whisky",
-      "b2c_price_thb": 7018.13,
+      "b2c_price_thb": 7028.83,
       "is_in_stock": true
     },
     {
@@ -36063,7 +36063,7 @@
       "product_name": "Michter's Toasted Barrel Rye (Limited) (700 ml)",
       "brand": "Michter's",
       "category_name": "Whisky",
-      "b2c_price_thb": 15032.43,
+      "b2c_price_thb": 15043.13,
       "is_in_stock": true
     },
     {
@@ -36071,7 +36071,7 @@
       "product_name": "Michter's Toasted Barrel Bourbon (Limited) (700 ml)",
       "brand": "Michter's",
       "category_name": "Whisky",
-      "b2c_price_thb": 15032.43,
+      "b2c_price_thb": 15043.13,
       "is_in_stock": true
     },
     {
@@ -36119,7 +36119,7 @@
       "product_name": "Arran 30 Year Old Single Malt Scotch Whisky (700 ml)",
       "brand": "Arran",
       "category_name": "Whisky",
-      "b2c_price_thb": 46511.83,
+      "b2c_price_thb": 46522.53,
       "is_in_stock": true
     },
     {
@@ -40015,7 +40015,7 @@
       "product_name": "Arabella Pink Panacea",
       "brand": "Arabella",
       "category_name": "Rose Wine",
-      "b2c_price_thb": 705.13,
+      "b2c_price_thb": 715.83,
       "is_in_stock": true
     },
     {
@@ -40679,7 +40679,7 @@
       "product_name": "Montes  Alpha \"M\"",
       "brand": "Montes",
       "category_name": "Red Wine",
-      "b2c_price_thb": 5883.93,
+      "b2c_price_thb": 4064.93,
       "is_in_stock": true
     },
     {
@@ -40703,7 +40703,7 @@
       "product_name": "Montes  Folly Syrah",
       "brand": "Montes",
       "category_name": "Red Wine",
-      "b2c_price_thb": 5883.93,
+      "b2c_price_thb": 4064.93,
       "is_in_stock": true
     },
     {
@@ -40711,7 +40711,7 @@
       "product_name": "Montes  Purple Angel Carmenere",
       "brand": "Montes",
       "category_name": "Red Wine",
-      "b2c_price_thb": 5883.93,
+      "b2c_price_thb": 4064.93,
       "is_in_stock": true
     },
     {
@@ -45136,7 +45136,7 @@
       "brand": "Terrazas",
       "category_name": "Red Wine",
       "b2c_price_thb": 1043.25,
-      "is_in_stock": false
+      "is_in_stock": true
     },
     {
       "sku": "WRW1624BS",
@@ -45575,7 +45575,7 @@
       "product_name": "Massolino  Nebbiolo DOC",
       "brand": "Massolino",
       "category_name": "Red Wine",
-      "b2c_price_thb": 2011.6,
+      "b2c_price_thb": 1776.2,
       "is_in_stock": true
     },
     {
@@ -45664,7 +45664,7 @@
       "brand": "Tedeschi",
       "category_name": "Red Wine",
       "b2c_price_thb": 4836.4,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "WRW1833AE",
@@ -45759,7 +45759,7 @@
       "product_name": "Framingham  Pinot Noir",
       "brand": "Framingham",
       "category_name": "Red Wine",
-      "b2c_price_thb": 1979.5,
+      "b2c_price_thb": 1701.3,
       "is_in_stock": true
     },
     {
@@ -45879,7 +45879,7 @@
       "product_name": "Vina El Principal  Calicanto",
       "brand": "Vina El Principal",
       "category_name": "Red Wine",
-      "b2c_price_thb": 1175.93,
+      "b2c_price_thb": 1068.93,
       "is_in_stock": true
     },
     {
@@ -53423,7 +53423,7 @@
       "product_name": "Castello Banfi  Rosso Di Montalcino DOC",
       "brand": "Castello Banfi",
       "category_name": "Red Wine",
-      "b2c_price_thb": 1578.25,
+      "b2c_price_thb": 1496.93,
       "is_in_stock": true
     },
     {
@@ -61680,7 +61680,7 @@
       "brand": "Grange Mazan",
       "category_name": "Red Wine",
       "b2c_price_thb": 738.3,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "WRW5680FR",
@@ -63744,7 +63744,7 @@
       "brand": "Tedeschi",
       "category_name": "Red Wine",
       "b2c_price_thb": 2589.4,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "WRW5954GC",
@@ -64008,7 +64008,7 @@
       "brand": "Chateau Pichon Baron",
       "category_name": "Red Wine",
       "b2c_price_thb": 10807.0,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "WRW5988DD",
@@ -64079,7 +64079,7 @@
       "product_name": "Castello di Albola  Acciaola Toscana Red",
       "brand": "Castello di Albola",
       "category_name": "Red Wine",
-      "b2c_price_thb": 4387.0,
+      "b2c_price_thb": 3979.33,
       "is_in_stock": true
     },
     {
@@ -64376,7 +64376,7 @@
       "brand": "Bindi Surgadi",
       "category_name": "Red Wine",
       "b2c_price_thb": 2053.33,
-      "is_in_stock": false
+      "is_in_stock": true
     },
     {
       "sku": "WRW6038AA",
@@ -65784,7 +65784,7 @@
       "brand": "Chateau Pichon Baron",
       "category_name": "Red Wine",
       "b2c_price_thb": 12305.0,
-      "is_in_stock": false
+      "is_in_stock": true
     },
     {
       "sku": "WRW6223FS",
@@ -69863,7 +69863,7 @@
       "product_name": "Zeni  Marogne Valpolicella Superiore Ripasso",
       "brand": "Zeni",
       "category_name": "Red Wine",
-      "b2c_price_thb": 1337.5,
+      "b2c_price_thb": 1347.13,
       "is_in_stock": true
     },
     {
@@ -72304,7 +72304,7 @@
       "brand": "San Marzano",
       "category_name": "Red Wine",
       "b2c_price_thb": 1819.0,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "WRW7320AA",
@@ -74191,7 +74191,7 @@
       "product_name": "Paololeo Passo del Cardinale Primitivo di Manduria (With package)",
       "brand": "Paololeo",
       "category_name": "Red Wine",
-      "b2c_price_thb": 2096.13,
+      "b2c_price_thb": 2106.83,
       "is_in_stock": true
     },
     {
@@ -74199,7 +74199,7 @@
       "product_name": "Vigna Nuova Cabernet Sauvignon (200 ml)",
       "brand": "Vigna Nuova",
       "category_name": "Red Wine",
-      "b2c_price_thb": 330.63,
+      "b2c_price_thb": 341.33,
       "is_in_stock": true
     },
     {
@@ -75223,7 +75223,7 @@
       "product_name": "Arabella Pinotage",
       "brand": "Arabella",
       "category_name": "Red Wine",
-      "b2c_price_thb": 705.13,
+      "b2c_price_thb": 715.83,
       "is_in_stock": true
     },
     {
@@ -75488,7 +75488,7 @@
       "brand": "Penfolds",
       "category_name": "Red Wine",
       "b2c_price_thb": 3518.16,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "WRW7843DJ",
@@ -81335,7 +81335,7 @@
       "product_name": "Champagne Gremillet  Selection Brut",
       "brand": "Champagne Gremillet",
       "category_name": "Sparkling Wine",
-      "b2c_price_thb": 2727.43,
+      "b2c_price_thb": 1924.93,
       "is_in_stock": true
     },
     {
@@ -81832,7 +81832,7 @@
       "brand": "Cinzano",
       "category_name": "Sparkling Wine",
       "b2c_price_thb": 801.43,
-      "is_in_stock": true
+      "is_in_stock": false
     },
     {
       "sku": "WSP2623CN",
@@ -84023,7 +84023,7 @@
       "product_name": "Champagne Gremillet Rose Brut",
       "brand": "Champagne Gremillet",
       "category_name": "Sparkling Wine",
-      "b2c_price_thb": 2835.5,
+      "b2c_price_thb": 2444.95,
       "is_in_stock": true
     },
     {
@@ -84392,7 +84392,7 @@
       "brand": "Oddbird",
       "category_name": "Sparkling Wine",
       "b2c_price_thb": 1203.75,
-      "is_in_stock": false
+      "is_in_stock": true
     },
     {
       "sku": "WSP9004AA",
@@ -84423,7 +84423,7 @@
       "product_name": "Vigna Nuova Prosecco DOC (200 ml)",
       "brand": "Vigna Nuova",
       "category_name": "Sparkling Wine",
-      "b2c_price_thb": 341.33,
+      "b2c_price_thb": 352.03,
       "is_in_stock": true
     },
     {
@@ -87495,7 +87495,7 @@
       "product_name": "Cantina Terlano  Gewurztraminer DOC",
       "brand": "Cantina Terlano",
       "category_name": "White Wine",
-      "b2c_price_thb": 1733.4,
+      "b2c_price_thb": 1487.3,
       "is_in_stock": true
     },
     {
@@ -98263,7 +98263,7 @@
       "product_name": "Daou Chardonnay Paso Robles",
       "brand": "Daou",
       "category_name": "White Wine",
-      "b2c_price_thb": 1282.93,
+      "b2c_price_thb": 1229.43,
       "is_in_stock": true
     },
     {
@@ -98271,7 +98271,7 @@
       "product_name": "Vigna Nuova Pinot Grigio DOC (200 ml)",
       "brand": "Vigna Nuova",
       "category_name": "White Wine",
-      "b2c_price_thb": 330.63,
+      "b2c_price_thb": 341.33,
       "is_in_stock": true
     },
     {
@@ -98663,7 +98663,7 @@
       "product_name": "Arabella Chenin Blanc",
       "brand": "Arabella",
       "category_name": "White Wine",
-      "b2c_price_thb": 705.13,
+      "b2c_price_thb": 715.83,
       "is_in_stock": true
     },
     {
