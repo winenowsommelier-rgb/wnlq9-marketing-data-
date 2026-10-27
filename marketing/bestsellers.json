@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T07:14:42.589171+00:00",
+  "generated_at": "2026-10-27T03:08:42.095354+00:00",
   "window_days": 90,
   "rows": 100,
   "data": [
@@ -220,11 +220,25 @@
       "category": "Liqueur",
       "country": "Italy",
       "region": "Veneto",
-      "units_sold": 128.0,
-      "revenue_thb": 112814.0,
-      "margin_thb": 10763.890200000002,
-      "margin_pct": 9.5,
-      "avg_unit_price_thb": 895.178431372549,
+      "units_sold": 129.0,
+      "revenue_thb": 113739.0,
+      "margin_thb": 10875.075,
+      "margin_pct": 9.6,
+      "avg_unit_price_thb": 895.2117647058823,
+      "in_stock": true
+    },
+    {
+      "sku": "WSP1096AD",
+      "product_name": "Veuve Clicquot  Brut Yellow Label (750 ml)",
+      "brand": "Veuve Clicquot",
+      "category": "Champagne",
+      "country": "France",
+      "region": "Champagne",
+      "units_sold": 48.0,
+      "revenue_thb": 104911.0,
+      "margin_thb": 11522.7373,
+      "margin_pct": 11.0,
+      "avg_unit_price_thb": 2185.6458333333335,
       "in_stock": true
     },
     {
@@ -281,20 +295,6 @@
       "margin_thb": 9500.0,
       "margin_pct": 10.0,
       "avg_unit_price_thb": 95000.0,
-      "in_stock": true
-    },
-    {
-      "sku": "WSP1096AD",
-      "product_name": "Veuve Clicquot  Brut Yellow Label (750 ml)",
-      "brand": "Veuve Clicquot",
-      "category": "Champagne",
-      "country": "France",
-      "region": "Champagne",
-      "units_sold": 43.0,
-      "revenue_thb": 93981.0,
-      "margin_thb": 10318.251300000002,
-      "margin_pct": 11.0,
-      "avg_unit_price_thb": 2185.6458333333335,
       "in_stock": true
     },
     {
@@ -360,11 +360,11 @@
       "category": "Red Wine",
       "country": "France",
       "region": "Bordeaux",
-      "units_sold": 15.0,
-      "revenue_thb": 76753.0,
-      "margin_thb": 16755.1799,
+      "units_sold": 16.0,
+      "revenue_thb": 81870.0,
+      "margin_thb": 17872.220999999998,
       "margin_pct": 21.8,
-      "avg_unit_price_thb": 5116.928571428572,
+      "avg_unit_price_thb": 5116.952380952381,
       "in_stock": true
     },
     {
@@ -393,6 +393,20 @@
       "margin_thb": 14740.0263,
       "margin_pct": 20.0,
       "avg_unit_price_thb": 73737.0,
+      "in_stock": true
+    },
+    {
+      "sku": "WRW6184WN",
+      "product_name": "Chateau Pericou  AOP Bordeaux Rouge",
+      "brand": "chateau Pericou",
+      "category": "Red Wine",
+      "country": "France",
+      "region": "Bordeaux",
+      "units_sold": 138.0,
+      "revenue_thb": 70442.0,
+      "margin_thb": 22623.795,
+      "margin_pct": 32.1,
+      "avg_unit_price_thb": 515.8748334604628,
       "in_stock": true
     },
     {
@@ -449,20 +463,6 @@
       "margin_thb": 8357.418599999999,
       "margin_pct": 13.2,
       "avg_unit_price_thb": 63458.0,
-      "in_stock": true
-    },
-    {
-      "sku": "WRW6184WN",
-      "product_name": "Chateau Pericou  AOP Bordeaux Rouge",
-      "brand": "chateau Pericou",
-      "category": "Red Wine",
-      "country": "France",
-      "region": "Bordeaux",
-      "units_sold": 125.0,
-      "revenue_thb": 63133.0,
-      "margin_thb": 20264.774699999998,
-      "margin_pct": 32.1,
-      "avg_unit_price_thb": 511.1467632850242,
       "in_stock": true
     },
     {
@@ -704,6 +704,20 @@
       "in_stock": true
     },
     {
+      "sku": "WRW0203AH",
+      "product_name": "Hardys  Varietal Range Cabernet Sauvignon",
+      "brand": "Hardys",
+      "category": "Red Wine",
+      "country": "Australia",
+      "region": "South Eastern Australia",
+      "units_sold": 118.0,
+      "revenue_thb": 44006.0,
+      "margin_thb": 6246.651599999999,
+      "margin_pct": 14.2,
+      "avg_unit_price_thb": 372.9388102359588,
+      "in_stock": true
+    },
+    {
       "sku": "WRW3607AD",
       "product_name": "Pio Cesare  Barolo DOCG",
       "brand": "Pio Cesare",
@@ -729,20 +743,6 @@
       "margin_thb": 5031.1239000000005,
       "margin_pct": 12.0,
       "avg_unit_price_thb": 41961.0,
-      "in_stock": true
-    },
-    {
-      "sku": "WRW0203AH",
-      "product_name": "Hardys  Varietal Range Cabernet Sauvignon",
-      "brand": "Hardys",
-      "category": "Red Wine",
-      "country": "Australia",
-      "region": "South Eastern Australia",
-      "units_sold": 111.0,
-      "revenue_thb": 41395.0,
-      "margin_thb": 5873.950499999999,
-      "margin_pct": 14.2,
-      "avg_unit_price_thb": 372.9350075414781,
       "in_stock": true
     },
     {
@@ -841,6 +841,20 @@
       "margin_thb": 3222.3340000000003,
       "margin_pct": 8.4,
       "avg_unit_price_thb": 38270.0,
+      "in_stock": true
+    },
+    {
+      "sku": "WSP1140AE",
+      "product_name": "Follador  Prosecco Farder treviso Extra Dry Gold DOC",
+      "brand": "Follador",
+      "category": "Sparkling Wine",
+      "country": "Italy",
+      "region": "Veneto",
+      "units_sold": 47.0,
+      "revenue_thb": 37478.0,
+      "margin_thb": 11899.511700000001,
+      "margin_pct": 31.8,
+      "avg_unit_price_thb": 822.692901234568,
       "in_stock": true
     },
     {
@@ -1194,17 +1208,17 @@
       "in_stock": true
     },
     {
-      "sku": "WSP1140AE",
-      "product_name": "Follador  Prosecco Farder treviso Extra Dry Gold DOC",
-      "brand": "Follador",
-      "category": "Sparkling Wine",
-      "country": "Italy",
-      "region": "Veneto",
-      "units_sold": 35.0,
-      "revenue_thb": 28693.0,
-      "margin_thb": 8859.4627,
-      "margin_pct": 30.9,
-      "avg_unit_price_thb": 827.0361111111112,
+      "sku": "WRW3305DD",
+      "product_name": "Viu Manent  Estate Collection Reserva Merlot",
+      "brand": "Viu Manent",
+      "category": "Red Wine",
+      "country": "Chile",
+      "region": "Central Valley",
+      "units_sold": 52.0,
+      "revenue_thb": 28919.0,
+      "margin_thb": 5096.585,
+      "margin_pct": 17.6,
+      "avg_unit_price_thb": 556.0991902834008,
       "in_stock": true
     },
     {
@@ -1348,20 +1362,6 @@
       "in_stock": true
     },
     {
-      "sku": "WRW3305DD",
-      "product_name": "Viu Manent  Estate Collection Reserva Merlot",
-      "brand": "Viu Manent",
-      "category": "Red Wine",
-      "country": "Chile",
-      "region": "Central Valley",
-      "units_sold": 50.0,
-      "revenue_thb": 27807.0,
-      "margin_thb": 4900.873,
-      "margin_pct": 17.6,
-      "avg_unit_price_thb": 556.0991902834008,
-      "in_stock": true
-    },
-    {
       "sku": "WWW5130FJ",
       "product_name": "Georges Duboeuf  Sauvignon Blanc (VDF D'OC)",
       "brand": "Georges Duboeuf",
@@ -1390,17 +1390,17 @@
       "in_stock": true
     },
     {
-      "sku": "WRW4678AD",
-      "product_name": "Penfolds  Bin 128",
-      "brand": "Penfolds",
+      "sku": "WRW7608GX",
+      "product_name": "Chateau Mitrotes Saint Emilion Grand Cru",
+      "brand": "Chateau Mitrotes",
       "category": "Red Wine",
-      "country": "Australia",
-      "region": "South Australia",
-      "units_sold": 13.0,
-      "revenue_thb": 27033.0,
-      "margin_thb": 5367.298200000001,
-      "margin_pct": 19.9,
-      "avg_unit_price_thb": 2079.464285714286,
+      "country": "France",
+      "region": "Bordeaux",
+      "units_sold": 31.0,
+      "revenue_thb": 27402.0,
+      "margin_thb": 5361.0067,
+      "margin_pct": 19.6,
+      "avg_unit_price_thb": 884.0776515151515,
       "in_stock": true
     }
   ]
