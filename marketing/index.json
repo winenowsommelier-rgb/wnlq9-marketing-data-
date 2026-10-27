@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T03:12:34.065664+00:00",
+  "generated_at": "2026-10-27T03:34:57.419166+00:00",
   "base_url": "https://raw.githubusercontent.com/winenowsommelier-rgb/wnlq9-marketing-data-/main/marketing/",
   "files": [
     {
@@ -20,7 +20,7 @@
     },
     {
       "name": "products_public.json",
-      "size_kb": 2758.8
+      "size_kb": 2760.2
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-27T03:12:34.065664+00:00",
-  "rows": 12397,
+  "generated_at": "2026-10-27T03:34:57.419166+00:00",
+  "rows": 12403,
   "data": [
     {
       "sku": "ABA0001BH",
@@ -35451,6 +35451,14 @@
       "is_in_stock": true
     },
     {
+      "sku": "LWH1245EQ",
+      "product_name": "Douglas Laing's The Epicurean (700 ml)",
+      "brand": "Douglas Laing",
+      "category_name": "Whisky",
+      "b2c_price_thb": 3686.15,
+      "is_in_stock": true
+    },
+    {
       "sku": "LWH1246BU",
       "product_name": "Johnnie Walker Vault The Couture Blend (700 ml)",
       "brand": "Johnnie Walker",
@@ -38248,6 +38256,14 @@
       "brand": "Quinta do Vesuvio",
       "category_name": "Dessert Wine",
       "b2c_price_thb": 6527.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WDW0543AB",
+      "product_name": "Tenuta di Artimino Vinsanto del Carmignano DOC (375 ml)",
+      "brand": "Tenuta Di Artimino",
+      "category_name": "Dessert Wine",
+      "b2c_price_thb": 1391.0,
       "is_in_stock": true
     },
     {
@@ -72331,6 +72347,22 @@
       "is_in_stock": true
     },
     {
+      "sku": "WRW7327AB",
+      "product_name": "Tenuta Di Artimino Grumarello Carmignano Riserva DOCG",
+      "brand": "Tenuta Di Artimino",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 2140.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW7328AB",
+      "product_name": "Tenuta Di Artimino Poggilarca Carmignano DOCG",
+      "brand": "Tenuta Di Artimino",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 1498.0,
+      "is_in_stock": true
+    },
+    {
       "sku": "WRW7329AB",
       "product_name": "Tenuta Di Artimino Chianti Montalbano DOCG",
       "brand": "Tenuta Di Artimino",
@@ -77072,6 +77104,14 @@
       "brand": "Polvanera",
       "category_name": "Red Wine",
       "b2c_price_thb": 2354.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW8045AB",
+      "product_name": "Tenuta di Artimino Chianti Montalbano Riserva DOCG",
+      "brand": "Tenuta Di Artimino",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 1391.0,
       "is_in_stock": true
     },
     {
@@ -99176,6 +99216,14 @@
       "brand": "Tenuta Ulisse",
       "category_name": "White Wine",
       "b2c_price_thb": 963.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WWW6364AB",
+      "product_name": "Tenuta di Artimino Artumes Toscana Bianco IGT",
+      "brand": "Tenuta Di Artimino",
+      "category_name": "White Wine",
+      "b2c_price_thb": 1070.0,
       "is_in_stock": true
     }
   ]
