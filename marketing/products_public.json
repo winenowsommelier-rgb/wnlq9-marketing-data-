@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-01T08:26:54.012274+00:00",
-  "rows": 12403,
+  "generated_at": "2026-11-02T08:38:56.399520+00:00",
+  "rows": 12406,
   "data": [
     {
       "sku": "ABA0001BH",
@@ -77112,6 +77112,30 @@
       "brand": "Tenuta Di Artimino",
       "category_name": "Red Wine",
       "b2c_price_thb": 1391.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW8046BN",
+      "product_name": "Chateau Pichon Longueville Comtesse de Lalande 2019",
+      "brand": "Chateau Pichon Longueville Comtesse de Lalande",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 12733.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW8047BN",
+      "product_name": "Chateau Pichon Longueville Comtesse de Lalande 2020",
+      "brand": "Chateau Pichon Longueville Comtesse de Lalande",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 14980.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW8048BN",
+      "product_name": "Chateau Pichon Longueville Comtesse de Lalande 2022",
+      "brand": "Chateau Pichon Longueville Comtesse de Lalande",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 19367.0,
       "is_in_stock": true
     },
     {
