@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T08:51:55.224922+00:00",
+  "generated_at": "2026-11-04T08:20:29.441625+00:00",
   "rows": 12406,
   "data": [
     {
@@ -57243,12 +57243,12 @@
       "is_in_stock": false
     },
     {
-      "sku": "WRW4990AF",
+      "sku": "WRW4990AU",
       "product_name": "Chateau Dauzac  5Em Cru Classe 2012",
       "brand": "Chateau Dauzac",
       "category_name": "Red Wine",
-      "b2c_price_thb": 4621.33,
-      "is_in_stock": false
+      "b2c_price_thb": 3638.0,
+      "is_in_stock": true
     },
     {
       "sku": "WRW4994HR",
@@ -73415,8 +73415,8 @@
       "product_name": "Finca Fella El Maso Garnacha Tintorera",
       "brand": "Finca Fella",
       "category_name": "Red Wine",
-      "b2c_price_thb": 1454.13,
-      "is_in_stock": false
+      "b2c_price_thb": 1496.93,
+      "is_in_stock": true
     },
     {
       "sku": "WRW7530GX",
