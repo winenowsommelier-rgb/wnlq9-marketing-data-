@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T08:37:34.566732+00:00",
+  "generated_at": "2026-11-09T08:53:11.295683+00:00",
   "window_days": 90,
   "rows": 100,
   "data": [
@@ -74,6 +74,20 @@
       "in_stock": true
     },
     {
+      "sku": "WRW7615FS",
+      "product_name": "Chateau Clerc Milon  2023",
+      "brand": "Ch\u00e2teau Clerc Milon",
+      "category": "Red Wine",
+      "country": "France",
+      "region": "Bordeaux",
+      "units_sold": 42.0,
+      "revenue_thb": 210196.0,
+      "margin_thb": 44288.2972,
+      "margin_pct": 21.1,
+      "avg_unit_price_thb": 5004.666666666667,
+      "in_stock": true
+    },
+    {
       "sku": "WRW8029DJ",
       "product_name": "Domaine Gilbert et Christine Felettig Chambolle-Musigny Clos le Village Monopole",
       "brand": "Domaine Gilbert et Christine Felettig",
@@ -122,11 +136,11 @@
       "category": "Liqueur",
       "country": "Italy",
       "region": "Lombardy",
-      "units_sold": 114.0,
-      "revenue_thb": 174021.0,
-      "margin_thb": 14372.8025,
+      "units_sold": 115.0,
+      "revenue_thb": 175628.0,
+      "margin_thb": 14566.7674,
       "margin_pct": 8.3,
-      "avg_unit_price_thb": 1526.6671335200747,
+      "avg_unit_price_thb": 1553.4447556800496,
       "in_stock": true
     },
     {
@@ -141,20 +155,6 @@
       "margin_thb": 9336.3765,
       "margin_pct": 5.6,
       "avg_unit_price_thb": 168223.0,
-      "in_stock": true
-    },
-    {
-      "sku": "WRW7615FS",
-      "product_name": "Chateau Clerc Milon  2023",
-      "brand": "Ch\u00e2teau Clerc Milon",
-      "category": "Red Wine",
-      "country": "France",
-      "region": "Bordeaux",
-      "units_sold": 30.0,
-      "revenue_thb": 150140.0,
-      "margin_thb": 31634.498,
-      "margin_pct": 21.1,
-      "avg_unit_price_thb": 5004.666666666667,
       "in_stock": true
     },
     {
@@ -206,11 +206,11 @@
       "category": "Tequila",
       "country": "Mexico",
       "region": "Jalisco",
-      "units_sold": 148.0,
-      "revenue_thb": 116297.0,
-      "margin_thb": 10045.7743,
-      "margin_pct": 8.6,
-      "avg_unit_price_thb": 803.4006849315069,
+      "units_sold": 155.0,
+      "revenue_thb": 122047.0,
+      "margin_thb": 10733.4743,
+      "margin_pct": 8.8,
+      "avg_unit_price_thb": 809.4099804305284,
       "in_stock": true
     },
     {
@@ -234,11 +234,11 @@
       "category": "Liqueur",
       "country": "Italy",
       "region": "Lombardy",
-      "units_sold": 87.0,
-      "revenue_thb": 105018.0,
-      "margin_thb": 8897.405999999999,
-      "margin_pct": 8.5,
-      "avg_unit_price_thb": 1206.6667741935485,
+      "units_sold": 89.0,
+      "revenue_thb": 107558.0,
+      "margin_thb": 9203.475999999999,
+      "margin_pct": 8.6,
+      "avg_unit_price_thb": 1227.7778494623656,
       "in_stock": true
     },
     {
@@ -332,11 +332,11 @@
       "category": "Liqueur",
       "country": "Italy",
       "region": "Veneto",
-      "units_sold": 90.0,
-      "revenue_thb": 79341.0,
-      "margin_thb": 7173.8502,
-      "margin_pct": 9.0,
-      "avg_unit_price_thb": 901.8176470588235,
+      "units_sold": 94.0,
+      "revenue_thb": 83038.0,
+      "margin_thb": 7614.9023,
+      "margin_pct": 9.2,
+      "avg_unit_price_thb": 909.2950980392156,
       "in_stock": true
     },
     {
@@ -466,6 +466,20 @@
       "in_stock": true
     },
     {
+      "sku": "WRW4680AD",
+      "product_name": "Penfolds  Bin 28 Shiraz",
+      "brand": "Penfolds",
+      "category": "Red Wine",
+      "country": "Australia",
+      "region": "South Australia",
+      "units_sold": 32.0,
+      "revenue_thb": 50394.0,
+      "margin_thb": 8181.4506,
+      "margin_pct": 16.2,
+      "avg_unit_price_thb": 1574.810224089636,
+      "in_stock": true
+    },
+    {
       "sku": "WSP1096AD",
       "product_name": "Veuve Clicquot  Brut Yellow Label (750 ml)",
       "brand": "Veuve Clicquot",
@@ -592,20 +606,6 @@
       "in_stock": true
     },
     {
-      "sku": "WRW4680AD",
-      "product_name": "Penfolds  Bin 28 Shiraz",
-      "brand": "Penfolds",
-      "category": "Red Wine",
-      "country": "Australia",
-      "region": "South Australia",
-      "units_sold": 25.0,
-      "revenue_thb": 39370.0,
-      "margin_thb": 5990.9818,
-      "margin_pct": 15.2,
-      "avg_unit_price_thb": 1574.7867647058824,
-      "in_stock": true
-    },
-    {
       "sku": "WRW2158AC",
       "product_name": "Far Niente  Cabernet Sauvignon",
       "brand": "Far Niente",
@@ -631,6 +631,20 @@
       "margin_thb": 7850.802800000001,
       "margin_pct": 20.0,
       "avg_unit_price_thb": 2802.916666666667,
+      "in_stock": true
+    },
+    {
+      "sku": "WRW2153AC",
+      "product_name": "Duckhorn  Napa Valley Merlot",
+      "brand": "Duckhorn",
+      "category": "Red Wine",
+      "country": "USA",
+      "region": "California",
+      "units_sold": 14.0,
+      "revenue_thb": 38794.0,
+      "margin_thb": 6594.9800000000005,
+      "margin_pct": 17.0,
+      "avg_unit_price_thb": 2771.0,
       "in_stock": true
     },
     {
@@ -718,6 +732,20 @@
       "in_stock": true
     },
     {
+      "sku": "WSP1140AE",
+      "product_name": "Follador  Prosecco Farder treviso Extra Dry Gold DOC",
+      "brand": "Follador",
+      "category": "Sparkling Wine",
+      "country": "Italy",
+      "region": "Veneto",
+      "units_sold": 44.0,
+      "revenue_thb": 35142.0,
+      "margin_thb": 12203.148000000001,
+      "margin_pct": 34.7,
+      "avg_unit_price_thb": 835.1845679012346,
+      "in_stock": true
+    },
+    {
       "sku": "LTQ0245CN",
       "product_name": "Clase Azul  Tequila Mezcal Guerrero (750 ml)",
       "brand": "Clase Azul",
@@ -746,6 +774,34 @@
       "in_stock": true
     },
     {
+      "sku": "WRW5473FJ",
+      "product_name": "Victoria Park  Cabernet Sauvignon",
+      "brand": "Victoria Park",
+      "category": "Red Wine",
+      "country": "Australia",
+      "region": "South Australia",
+      "units_sold": 45.0,
+      "revenue_thb": 33434.0,
+      "margin_thb": 6660.0528,
+      "margin_pct": 19.9,
+      "avg_unit_price_thb": 742.9777777777778,
+      "in_stock": true
+    },
+    {
+      "sku": "WRW7524AP",
+      "product_name": "Il Bastardo Sangiovese di Toscana",
+      "brand": "Il Bastardo",
+      "category": "Red Wine",
+      "country": "Italy",
+      "region": "Tuscany",
+      "units_sold": 36.0,
+      "revenue_thb": 32400.0,
+      "margin_thb": 10535.400000000001,
+      "margin_pct": 32.5,
+      "avg_unit_price_thb": 900.0,
+      "in_stock": true
+    },
+    {
       "sku": "LBD0114AE",
       "product_name": "Hine  Antique XO (700 ml)",
       "brand": "Hine",
@@ -757,6 +813,20 @@
       "margin_thb": 6015.4016,
       "margin_pct": 18.7,
       "avg_unit_price_thb": 10716.25,
+      "in_stock": true
+    },
+    {
+      "sku": "WRW0211AH",
+      "product_name": "Robert Mondavi   Napa Valley Cabernet Sauvignon",
+      "brand": "Robert Mondavi",
+      "category": "Red Wine",
+      "country": "USA",
+      "region": "California",
+      "units_sold": 16.0,
+      "revenue_thb": 31076.0,
+      "margin_thb": 5676.4118,
+      "margin_pct": 18.3,
+      "avg_unit_price_thb": 1904.1111111111113,
       "in_stock": true
     },
     {
@@ -774,17 +844,17 @@
       "in_stock": true
     },
     {
-      "sku": "WSP1140AE",
-      "product_name": "Follador  Prosecco Farder treviso Extra Dry Gold DOC",
-      "brand": "Follador",
-      "category": "Sparkling Wine",
+      "sku": "WRW0574AA",
+      "product_name": "Velenosi  Montepulciano D' Abruzzo The Year of the Rabbit",
+      "brand": "Velenosi",
+      "category": "Red Wine",
       "country": "Italy",
-      "region": "Veneto",
-      "units_sold": 39.0,
-      "revenue_thb": 30749.0,
-      "margin_thb": 10684.9272,
-      "margin_pct": 34.7,
-      "avg_unit_price_thb": 813.4768518518518,
+      "region": "Abruzzo",
+      "units_sold": 48.0,
+      "revenue_thb": 30727.0,
+      "margin_thb": 14278.442500000001,
+      "margin_pct": 46.5,
+      "avg_unit_price_thb": 640.111111111111,
       "in_stock": true
     },
     {
@@ -841,6 +911,20 @@
       "margin_thb": 2216.4433,
       "margin_pct": 7.4,
       "avg_unit_price_thb": 1420.5166666666667,
+      "in_stock": true
+    },
+    {
+      "sku": "WRW4696AD",
+      "product_name": "Beringer  Main & Vine Cabernet Sauvignon",
+      "brand": "Beringer",
+      "category": "Red Wine",
+      "country": "USA",
+      "region": "California",
+      "units_sold": 48.0,
+      "revenue_thb": 29114.0,
+      "margin_thb": 5828.622799999999,
+      "margin_pct": 20.0,
+      "avg_unit_price_thb": 606.5416666666666,
       "in_stock": true
     },
     {
@@ -928,6 +1012,20 @@
       "in_stock": true
     },
     {
+      "sku": "WRS0035AB",
+      "product_name": "Chateau d'Esclans  Whispering Angel Rose",
+      "brand": "Chateau d'Esclans",
+      "category": "Rose Wine",
+      "country": "France",
+      "region": "Provence",
+      "units_sold": 28.0,
+      "revenue_thb": 27449.0,
+      "margin_thb": 2264.5421,
+      "margin_pct": 8.2,
+      "avg_unit_price_thb": 980.3055555555555,
+      "in_stock": true
+    },
+    {
       "sku": "WRW3031BN",
       "product_name": "Kanonkop  Pinotage",
       "brand": "Kanonkop",
@@ -953,6 +1051,20 @@
       "margin_thb": 5276.6227,
       "margin_pct": 19.7,
       "avg_unit_price_thb": 2234.1857142857143,
+      "in_stock": true
+    },
+    {
+      "sku": "WRW0255AA",
+      "product_name": "Baron Philippe de Rothschild  Mouton Cadet Bordeaux Rouge",
+      "brand": "Baron Philippe de Rothschild",
+      "category": "Red Wine",
+      "country": "France",
+      "region": "Bordeaux",
+      "units_sold": 43.0,
+      "revenue_thb": 26799.0,
+      "margin_thb": 8496.6846,
+      "margin_pct": 31.7,
+      "avg_unit_price_thb": 617.2185185185185,
       "in_stock": true
     },
     {
@@ -1110,6 +1222,20 @@
       "in_stock": true
     },
     {
+      "sku": "WRW4679AD",
+      "product_name": "Penfolds  Bin 2",
+      "brand": "Penfolds",
+      "category": "Red Wine",
+      "country": "Australia",
+      "region": "South Australia",
+      "units_sold": 25.0,
+      "revenue_thb": 22893.0,
+      "margin_thb": 4259.3288999999995,
+      "margin_pct": 18.6,
+      "avg_unit_price_thb": 922.5277777777778,
+      "in_stock": true
+    },
+    {
       "sku": "LWH0078BU",
       "product_name": "Johnnie Walker  Double Black (1 L)",
       "brand": "Johnnie Walker",
@@ -1138,17 +1264,17 @@
       "in_stock": true
     },
     {
-      "sku": "WRW7524AP",
-      "product_name": "Il Bastardo Sangiovese di Toscana",
-      "brand": "Il Bastardo",
-      "category": "Red Wine",
-      "country": "Italy",
-      "region": "Tuscany",
-      "units_sold": 24.0,
-      "revenue_thb": 21600.0,
-      "margin_thb": 7024.3200000000015,
-      "margin_pct": 32.5,
-      "avg_unit_price_thb": 900.0,
+      "sku": "WWW5116FJ",
+      "product_name": "Victoria Park  Sauvignon Blanc",
+      "brand": "Victoria Park",
+      "category": "White Wine",
+      "country": "Australia",
+      "region": "South Australia",
+      "units_sold": 30.0,
+      "revenue_thb": 22290.0,
+      "margin_thb": 4440.168000000001,
+      "margin_pct": 19.9,
+      "avg_unit_price_thb": 743.0,
       "in_stock": true
     },
     {
@@ -1163,6 +1289,20 @@
       "margin_thb": 5683.482399999999,
       "margin_pct": 27.5,
       "avg_unit_price_thb": 1588.7738095238096,
+      "in_stock": true
+    },
+    {
+      "sku": "WRW6502AD",
+      "product_name": "Vigneti del Salento  Zolla Primitivo Di Manduria Riserva",
+      "brand": "Vigneti Del Salento",
+      "category": "Red Wine",
+      "country": "Italy",
+      "region": "Puglia",
+      "units_sold": 17.0,
+      "revenue_thb": 20638.0,
+      "margin_thb": 6273.951999999999,
+      "margin_pct": 30.4,
+      "avg_unit_price_thb": 1214.0,
       "in_stock": true
     },
     {
@@ -1222,20 +1362,6 @@
       "in_stock": true
     },
     {
-      "sku": "WRW4679AD",
-      "product_name": "Penfolds  Bin 2",
-      "brand": "Penfolds",
-      "category": "Red Wine",
-      "country": "Australia",
-      "region": "South Australia",
-      "units_sold": 22.0,
-      "revenue_thb": 20103.0,
-      "margin_thb": 3710.2568999999994,
-      "margin_pct": 18.5,
-      "avg_unit_price_thb": 918.7916666666667,
-      "in_stock": true
-    },
-    {
       "sku": "LTQ0068CN",
       "product_name": "1800 Tequila  Coconut (750 ml)",
       "brand": "1800 Tequila",
@@ -1264,143 +1390,17 @@
       "in_stock": true
     },
     {
-      "sku": "WSP1233AD",
-      "product_name": "Wolf Blass  Eaglehawk Cuvee Brut",
-      "brand": "Wolf Blass",
-      "category": "Sparkling Wine",
-      "country": "Australia",
-      "region": "South Australia",
-      "units_sold": 53.0,
-      "revenue_thb": 19565.0,
-      "margin_thb": 2764.5345,
-      "margin_pct": 14.1,
-      "avg_unit_price_thb": 369.1509433962264,
-      "in_stock": true
-    },
-    {
-      "sku": "LWH1120AE",
-      "product_name": "Arran  25 Years old Single Malt (700 ml) (Limited)",
-      "brand": "Arran",
-      "category": "Whisky",
-      "country": "Scotland",
-      "region": "Islands",
-      "units_sold": 1.0,
-      "revenue_thb": 19551.0,
-      "margin_thb": 2750.8257,
-      "margin_pct": 14.1,
-      "avg_unit_price_thb": 19551.0,
-      "in_stock": true
-    },
-    {
-      "sku": "LTQ0186CN",
-      "product_name": "Clase Azul  Tequila Plata (750 ml)",
-      "brand": "Clase Azul",
-      "category": "Tequila",
-      "country": "Mexico",
-      "region": "Jalisco",
-      "units_sold": 2.0,
-      "revenue_thb": 19550.0,
-      "margin_thb": 1622.65,
-      "margin_pct": 8.3,
-      "avg_unit_price_thb": 9775.0,
-      "in_stock": true
-    },
-    {
-      "sku": "WSP1200BU",
-      "product_name": "Moet & Chandon  Brut Imperial (200 ml)",
-      "brand": "Moet & Chandon",
-      "category": "Champagne",
-      "country": "France",
-      "region": "Champagne",
-      "units_sold": 30.0,
-      "revenue_thb": 19318.0,
-      "margin_thb": 1858.3915999999997,
-      "margin_pct": 9.6,
-      "avg_unit_price_thb": 643.9333333333333,
-      "in_stock": true
-    },
-    {
-      "sku": "WWW6254AE",
-      "product_name": "Jean-Max Roger Sancerre Cuv\u00e9e Marnes Et Caillottes",
-      "brand": "Jean-Max Roger",
-      "category": null,
-      "country": "France",
-      "region": "Loire Valley",
-      "units_sold": 12.0,
-      "revenue_thb": 19178.0,
-      "margin_thb": 7057.503999999999,
-      "margin_pct": 36.8,
-      "avg_unit_price_thb": 1598.1666666666667,
-      "in_stock": true
-    },
-    {
-      "sku": "LWH0011AA",
-      "product_name": "The Balvenie  Portwood 21 Years Old (700 ml)",
-      "brand": "The Balvenie",
-      "category": "Wine product",
-      "country": "Scotland",
-      "region": "Speyside",
-      "units_sold": 1.0,
-      "revenue_thb": 19064.0,
-      "margin_thb": 3372.4216,
-      "margin_pct": 17.7,
-      "avg_unit_price_thb": 19064.0,
-      "in_stock": true
-    },
-    {
-      "sku": "WRW1476AD",
-      "product_name": "Michel Lynch  Nature Merlot Bordeaux \"Organic\" AOC",
-      "brand": "Michel Lynch",
+      "sku": "WRW5598AA",
+      "product_name": "Baron Philippe de Rothschild  Mouton Cadet Heritage Bordeaux Rouge",
+      "brand": "Baron Philippe de Rothschild",
       "category": "Red Wine",
       "country": "France",
       "region": "Bordeaux",
-      "units_sold": 24.0,
-      "revenue_thb": 19043.0,
-      "margin_thb": 6202.3051000000005,
-      "margin_pct": 32.6,
-      "avg_unit_price_thb": 793.4583333333334,
-      "in_stock": true
-    },
-    {
-      "sku": "WSP1131AA",
-      "product_name": "Nua  Vino Spumante Brut",
-      "brand": "Nua",
-      "category": "Sparkling Wine",
-      "country": "Italy",
-      "region": "Piedmont",
-      "units_sold": 39.0,
-      "revenue_thb": 18770.0,
-      "margin_thb": 8940.151000000002,
-      "margin_pct": 47.6,
-      "avg_unit_price_thb": 481.28205128205127,
-      "in_stock": true
-    },
-    {
-      "sku": "LWH1268HM",
-      "product_name": "The GlenAllachie 21 Years old (700 ml)",
-      "brand": "The GlenAllachie",
-      "category": "Whisky",
-      "country": "Scotland",
-      "region": "Speyside",
-      "units_sold": 1.0,
-      "revenue_thb": 18692.0,
-      "margin_thb": 2491.6436000000003,
-      "margin_pct": 13.3,
-      "avg_unit_price_thb": 18692.0,
-      "in_stock": true
-    },
-    {
-      "sku": "LWH1158AE",
-      "product_name": "Compass Box  Crimson Cask (700 ml)",
-      "brand": "Compass Box",
-      "category": "Whisky",
-      "country": "Scotland",
-      "region": "Other Scotland",
-      "units_sold": 5.0,
-      "revenue_thb": 18201.0,
-      "margin_thb": 2806.5942,
-      "margin_pct": 15.4,
-      "avg_unit_price_thb": 3640.2,
+      "units_sold": 28.0,
+      "revenue_thb": 19815.0,
+      "margin_thb": 7565.0356,
+      "margin_pct": 38.2,
+      "avg_unit_price_thb": 709.2111111111111,
       "in_stock": true
     }
   ]

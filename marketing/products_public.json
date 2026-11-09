@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T08:37:34.566732+00:00",
+  "generated_at": "2026-11-09T08:53:11.295683+00:00",
   "rows": 12406,
   "data": [
     {
@@ -75668,16 +75668,16 @@
     },
     {
       "sku": "WRW7861AB",
-      "product_name": "Coastal Estate Cabernet Sauvignon",
-      "brand": "Coastal Estate",
+      "product_name": "Beaulieu Vineyard  Coastal Estates Cabernet Sauvignon",
+      "brand": "Beaulieu Vineyard",
       "category_name": "Red Wine",
       "b2c_price_thb": 856.0,
       "is_in_stock": true
     },
     {
       "sku": "WRW7862AB",
-      "product_name": "Coastal Estate Pinot Noir",
-      "brand": "Coastal Estate",
+      "product_name": "Beaulieu Vineyard  Coastal Estates Pinot Noir",
+      "brand": "Beaulieu Vineyard",
       "category_name": "Red Wine",
       "b2c_price_thb": 856.0,
       "is_in_stock": true
@@ -93359,7 +93359,7 @@
       "product_name": "Domaine Leflaive  Batard Montrachet Grand Cru",
       "brand": "Domaine Leflaive",
       "category_name": "White Wine",
-      "b2c_price_thb": 61846.0,
+      "b2c_price_thb": 68694.0,
       "is_in_stock": true
     },
     {
@@ -98820,8 +98820,8 @@
     },
     {
       "sku": "WWW6310AB",
-      "product_name": "Coastal Estate Chardonnay",
-      "brand": "Coastal Estate",
+      "product_name": "Beaulieu Vineyard  Coastal Estates Chardonnay",
+      "brand": "Beaulieu Vineyard",
       "category_name": "White Wine",
       "b2c_price_thb": 856.0,
       "is_in_stock": true
