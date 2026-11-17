@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-15T08:39:27.925764+00:00",
-  "rows": 12406,
+  "generated_at": "2026-11-17T05:21:42.074887+00:00",
+  "rows": 12410,
   "data": [
     {
       "sku": "ABA0001BH",
@@ -77139,6 +77139,30 @@
       "is_in_stock": true
     },
     {
+      "sku": "WRW8050AD",
+      "product_name": "Cape Mentelle Cabernet Sauvignon, Margaret River",
+      "brand": "Cape Mentelle",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 1603.93,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW8051AH",
+      "product_name": "Tarapaca Cabernet Sauvignon",
+      "brand": "Tarapaca",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 705.13,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WRW8052AH",
+      "product_name": "Piccini Memoro Quattro Elementi Montepulciano d'Abruzzo",
+      "brand": "Piccini",
+      "category_name": "Red Wine",
+      "b2c_price_thb": 566.03,
+      "is_in_stock": true
+    },
+    {
       "sku": "WSP0002AA",
       "product_name": "Delamotte  Brut (375 ml)",
       "brand": "Salon-Delamotte",
@@ -83551,7 +83575,7 @@
       "product_name": "Champagne Rousseaux Batteux  Louvois Grand Cru \"le Mont\" - Extra Brut",
       "brand": "Champagne Rousseaux Batteux",
       "category_name": "Sparkling Wine",
-      "b2c_price_thb": 4173.0,
+      "b2c_price_thb": 4494.0,
       "is_in_stock": true
     },
     {
@@ -88223,7 +88247,7 @@
       "product_name": "Peter Michael  Chardonnay La Carriere",
       "brand": "Peter Michael",
       "category_name": "White Wine",
-      "b2c_price_thb": 6741.0,
+      "b2c_price_thb": 7062.0,
       "is_in_stock": true
     },
     {
@@ -98427,7 +98451,7 @@
       "is_in_stock": true
     },
     {
-      "sku": "WWW6260HI",
+      "sku": "WWW6260HR",
       "product_name": "Tombolini Castelfiora Verdicchio dei Castelli di Jesi Classico Riserva DOCG",
       "brand": "Tombolini",
       "category_name": "White Wine",
@@ -99248,6 +99272,14 @@
       "brand": "Tenuta Di Artimino",
       "category_name": "White Wine",
       "b2c_price_thb": 1070.0,
+      "is_in_stock": true
+    },
+    {
+      "sku": "WWW6365AD",
+      "product_name": "Cape Mentelle Chardonnay, Margaret River",
+      "brand": "Cape Mentelle",
+      "category_name": "White Wine",
+      "b2c_price_thb": 1603.93,
       "is_in_stock": true
     }
   ]
