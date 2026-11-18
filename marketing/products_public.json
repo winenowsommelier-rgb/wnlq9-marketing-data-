@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T09:55:27.559469+00:00",
+  "generated_at": "2026-11-18T09:30:01.151952+00:00",
   "rows": 12410,
   "data": [
     {
@@ -38300,7 +38300,7 @@
     },
     {
       "sku": "WDW0549AD",
-      "product_name": "Penfollds  Father 10 years Grand Tawny",
+      "product_name": "Penfolds Father 10 years Grand Tawny",
       "brand": "Penfolds",
       "category_name": "Dessert Wine",
       "b2c_price_thb": 2031.93,
@@ -76693,7 +76693,7 @@
     {
       "sku": "WRW7993HR",
       "product_name": "Ch\u00e2teau Giscours Margaux Grand Cru Class\u00e9 AOC 2017",
-      "brand": "Mixed Case",
+      "brand": "Ch\u00e2teau Giscours",
       "category_name": "Red Wine",
       "b2c_price_thb": 7704.0,
       "is_in_stock": true
@@ -76892,7 +76892,7 @@
     },
     {
       "sku": "WRW8018BN",
-      "product_name": "Ch\u00e2teau Monbousque 2018",
+      "product_name": "Ch\u00e2teau Monbousquet 2018",
       "brand": "Chateau Monbousquet",
       "category_name": "Red Wine",
       "b2c_price_thb": 4173.0,
