@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T09:06:19.573210+00:00",
+  "generated_at": "2026-11-23T10:01:05.878119+00:00",
   "rows": 200,
   "data": [
     {
@@ -8,9 +8,9 @@
       "product_name": "The Macallan  12 Year Old Double Cask (700 ml)",
       "brand": "The Macallan",
       "is_in_stock": true,
-      "units_sold": 977.0,
-      "revenue_thb": 4317168.0,
-      "margin_thb": 365048.89440000005,
+      "units_sold": 980.0,
+      "revenue_thb": 4330429.0,
+      "margin_thb": 365977.16440000007,
       "last_sale_month": "2026-11-01T00:00:00",
       "replenishment_signal": "monitor"
     },
@@ -44,10 +44,10 @@
       "product_name": "Veuve Clicquot  Brut Yellow Label (750 ml)",
       "brand": "Veuve Clicquot",
       "is_in_stock": true,
-      "units_sold": 843.0,
-      "revenue_thb": 2354131.0,
-      "margin_thb": 413101.64960000006,
-      "last_sale_month": "2026-10-01T00:00:00",
+      "units_sold": 851.0,
+      "revenue_thb": 2371619.0,
+      "margin_thb": 415028.82720000006,
+      "last_sale_month": "2026-11-01T00:00:00",
       "replenishment_signal": "monitor"
     },
     {
@@ -68,9 +68,9 @@
       "product_name": "Aperol  (700 ml)",
       "brand": "Aperol",
       "is_in_stock": true,
-      "units_sold": 1486.0,
-      "revenue_thb": 1514568.0,
-      "margin_thb": 138163.53860000003,
+      "units_sold": 1547.0,
+      "revenue_thb": 1568203.0,
+      "margin_thb": 142249.40260000003,
       "last_sale_month": "2026-11-01T00:00:00",
       "replenishment_signal": "monitor"
     },
@@ -80,10 +80,10 @@
       "product_name": "Champagne Ruinart  Brut",
       "brand": "Ruinart",
       "is_in_stock": true,
-      "units_sold": 364.0,
-      "revenue_thb": 1500911.0,
-      "margin_thb": 172650.16169999997,
-      "last_sale_month": "2026-05-01T00:00:00",
+      "units_sold": 365.0,
+      "revenue_thb": 1504648.0,
+      "margin_thb": 173407.27789999996,
+      "last_sale_month": "2026-11-01T00:00:00",
       "replenishment_signal": "monitor"
     },
     {
@@ -92,9 +92,9 @@
       "product_name": "Moet & Chandon  Brut Imperial (750 ml)",
       "brand": "Moet & Chandon",
       "is_in_stock": true,
-      "units_sold": 586.0,
-      "revenue_thb": 1425380.0,
-      "margin_thb": 78750.53730000003,
+      "units_sold": 589.0,
+      "revenue_thb": 1431464.0,
+      "margin_thb": 79286.14620000003,
       "last_sale_month": "2026-11-01T00:00:00",
       "replenishment_signal": "monitor"
     },
@@ -147,6 +147,18 @@
       "replenishment_signal": "missing_masterfile"
     },
     {
+      "sku": "LTQ0034CN",
+      "base_product_code": "LTQ0034",
+      "product_name": "Jose Cuervo  Especial Silver (700 ml)",
+      "brand": "Jose Cuervo",
+      "is_in_stock": true,
+      "units_sold": 1400.0,
+      "revenue_thb": 1095884.0,
+      "margin_thb": 90380.04269999999,
+      "last_sale_month": "2026-11-01T00:00:00",
+      "replenishment_signal": "monitor"
+    },
+    {
       "sku": "LRM0116DR",
       "base_product_code": "LRM0116",
       "product_name": "Bacardi  Carta Blanca (White Rum) (750 ml)",
@@ -171,38 +183,26 @@
       "replenishment_signal": "monitor"
     },
     {
-      "sku": "WRW0213AH",
-      "base_product_code": "WRW0213",
-      "product_name": "Robert Mondavi   Private Selection Vint Cabernet Sauvignon",
-      "brand": "Robert Mondavi",
-      "is_in_stock": true,
-      "units_sold": 1115.0,
-      "revenue_thb": 1020660.0,
-      "margin_thb": 223832.5299,
-      "last_sale_month": "2026-10-01T00:00:00",
-      "replenishment_signal": "monitor"
-    },
-    {
-      "sku": "LTQ0034CN",
-      "base_product_code": "LTQ0034",
-      "product_name": "Jose Cuervo  Especial Silver (700 ml)",
-      "brand": "Jose Cuervo",
-      "is_in_stock": true,
-      "units_sold": 1304.0,
-      "revenue_thb": 1020519.0,
-      "margin_thb": 83013.0232,
-      "last_sale_month": "2026-11-01T00:00:00",
-      "replenishment_signal": "monitor"
-    },
-    {
       "sku": "WRS0035AB",
       "base_product_code": "WRS0035",
       "product_name": "Chateau d'Esclans  Whispering Angel Rose",
       "brand": "Chateau d'Esclans",
       "is_in_stock": true,
-      "units_sold": 1049.0,
-      "revenue_thb": 1014099.0,
-      "margin_thb": 170355.9448,
+      "units_sold": 1074.0,
+      "revenue_thb": 1038608.0,
+      "margin_thb": 172365.78069999997,
+      "last_sale_month": "2026-11-01T00:00:00",
+      "replenishment_signal": "monitor"
+    },
+    {
+      "sku": "WRW0213AH",
+      "base_product_code": "WRW0213",
+      "product_name": "Robert Mondavi   Private Selection Vint Cabernet Sauvignon",
+      "brand": "Robert Mondavi",
+      "is_in_stock": true,
+      "units_sold": 1122.0,
+      "revenue_thb": 1027130.0,
+      "margin_thb": 225402.1519,
       "last_sale_month": "2026-11-01T00:00:00",
       "replenishment_signal": "monitor"
     },
@@ -212,9 +212,9 @@
       "product_name": "Penfolds  Bin 2",
       "brand": "Penfolds",
       "is_in_stock": true,
-      "units_sold": 1737.0,
-      "revenue_thb": 1009212.0,
-      "margin_thb": 174525.25920000003,
+      "units_sold": 1740.0,
+      "revenue_thb": 1012002.0,
+      "margin_thb": 175074.61010000002,
       "last_sale_month": "2026-11-01T00:00:00",
       "replenishment_signal": "monitor"
     },
@@ -224,9 +224,9 @@
       "product_name": "Baron Philippe de Rothschild  Mouton Cadet Bordeaux Rouge",
       "brand": "Baron Philippe de Rothschild",
       "is_in_stock": true,
-      "units_sold": 3230.0,
-      "revenue_thb": 1008378.0,
-      "margin_thb": 338505.20560000004,
+      "units_sold": 3236.0,
+      "revenue_thb": 1011855.0,
+      "margin_thb": 339151.5067,
       "last_sale_month": "2026-11-01T00:00:00",
       "replenishment_signal": "monitor"
     },
@@ -284,10 +284,10 @@
       "product_name": "Wolf Blass  Eaglehawk Cuvee Brut",
       "brand": "Wolf Blass",
       "is_in_stock": true,
-      "units_sold": 2450.0,
-      "revenue_thb": 907845.0,
-      "margin_thb": 115723.797,
-      "last_sale_month": "2026-10-01T00:00:00",
+      "units_sold": 2474.0,
+      "revenue_thb": 916705.0,
+      "margin_thb": 116975.71500000001,
+      "last_sale_month": "2026-11-01T00:00:00",
       "replenishment_signal": "monitor"
     },
     {
@@ -296,9 +296,9 @@
       "product_name": "Champagne Ruinart Blanc de Blancs",
       "brand": "Ruinart",
       "is_in_stock": true,
-      "units_sold": 235.0,
-      "revenue_thb": 870323.0,
-      "margin_thb": 126198.84299999998,
+      "units_sold": 241.0,
+      "revenue_thb": 890595.0,
+      "margin_thb": 129412.96789999997,
       "last_sale_month": "2026-11-01T00:00:00",
       "replenishment_signal": "monitor"
     },
@@ -320,9 +320,9 @@
       "product_name": "Robert Mondavi   Napa Valley Cabernet Sauvignon",
       "brand": "Robert Mondavi",
       "is_in_stock": true,
-      "units_sold": 432.0,
-      "revenue_thb": 833080.0,
-      "margin_thb": 151638.70799999998,
+      "units_sold": 442.0,
+      "revenue_thb": 852697.0,
+      "margin_thb": 155356.1295,
       "last_sale_month": "2026-11-01T00:00:00",
       "replenishment_signal": "monitor"
     },
@@ -416,9 +416,9 @@
       "product_name": "Concha Y Toro  Reservado Cabernet Sauvignon",
       "brand": "Concha Y Toro",
       "is_in_stock": true,
-      "units_sold": 1552.0,
-      "revenue_thb": 661117.0,
-      "margin_thb": 107595.52290000001,
+      "units_sold": 1554.0,
+      "revenue_thb": 661919.0,
+      "margin_thb": 107805.06990000002,
       "last_sale_month": "2026-11-01T00:00:00",
       "replenishment_signal": "monitor"
     },
@@ -464,9 +464,9 @@
       "product_name": "Absolut  Vodka (1 L)",
       "brand": "Absolut",
       "is_in_stock": true,
-      "units_sold": 698.0,
-      "revenue_thb": 608556.0,
-      "margin_thb": 16644.447599999996,
+      "units_sold": 699.0,
+      "revenue_thb": 609490.0,
+      "margin_thb": 16690.493799999997,
       "last_sale_month": "2026-11-01T00:00:00",
       "replenishment_signal": "low_margin_watch"
     },
@@ -500,9 +500,9 @@
       "product_name": "Hardys  Varietal Range Cabernet Sauvignon",
       "brand": "Hardys",
       "is_in_stock": true,
-      "units_sold": 1550.0,
-      "revenue_thb": 575296.0,
-      "margin_thb": 80661.28160000002,
+      "units_sold": 1557.0,
+      "revenue_thb": 577906.0,
+      "margin_thb": 81031.1184,
       "last_sale_month": "2026-11-01T00:00:00",
       "replenishment_signal": "monitor"
     },
@@ -524,9 +524,9 @@
       "product_name": "Kahlua  Original (700 ml)",
       "brand": "Kahlua",
       "is_in_stock": true,
-      "units_sold": 536.0,
-      "revenue_thb": 568895.0,
-      "margin_thb": 32266.40839999999,
+      "units_sold": 538.0,
+      "revenue_thb": 571192.0,
+      "margin_thb": 32463.14639999999,
       "last_sale_month": "2026-11-01T00:00:00",
       "replenishment_signal": "low_margin_watch"
     },
@@ -576,6 +576,18 @@
       "revenue_thb": 542193.0,
       "margin_thb": 29281.100600000005,
       "last_sale_month": "2026-10-01T00:00:00",
+      "replenishment_signal": "monitor"
+    },
+    {
+      "sku": "LTQ0033CN",
+      "base_product_code": "LTQ0033",
+      "product_name": "Jose Cuervo  Especial Reposado (700 ml)",
+      "brand": "Jose Cuervo",
+      "is_in_stock": true,
+      "units_sold": 654.0,
+      "revenue_thb": 541734.0,
+      "margin_thb": 39688.5788,
+      "last_sale_month": "2026-11-01T00:00:00",
       "replenishment_signal": "monitor"
     },
     {
@@ -675,15 +687,15 @@
       "replenishment_signal": "monitor"
     },
     {
-      "sku": "LTQ0033CN",
-      "base_product_code": "LTQ0033",
-      "product_name": "Jose Cuervo  Especial Reposado (700 ml)",
-      "brand": "Jose Cuervo",
+      "sku": "WSP1131AA",
+      "base_product_code": "WSP1131",
+      "product_name": "Nua  Vino Spumante Brut",
+      "brand": "Nua",
       "is_in_stock": true,
-      "units_sold": 630.0,
-      "revenue_thb": 521772.0,
-      "margin_thb": 38255.3072,
-      "last_sale_month": "2026-09-01T00:00:00",
+      "units_sold": 1112.0,
+      "revenue_thb": 527731.0,
+      "margin_thb": 203385.59110000005,
+      "last_sale_month": "2026-11-01T00:00:00",
       "replenishment_signal": "monitor"
     },
     {
@@ -699,14 +711,14 @@
       "replenishment_signal": "monitor"
     },
     {
-      "sku": "WSP1131AA",
-      "base_product_code": "WSP1131",
-      "product_name": "Nua  Vino Spumante Brut",
-      "brand": "Nua",
+      "sku": "WWW2216BU",
+      "base_product_code": "WWW2216",
+      "product_name": "Brancott Estate  Sauvignon Blanc (750 ml)",
+      "brand": "Brancott Estate",
       "is_in_stock": true,
-      "units_sold": 1093.0,
-      "revenue_thb": 518586.0,
-      "margin_thb": 199029.82760000005,
+      "units_sold": 902.0,
+      "revenue_thb": 520610.0,
+      "margin_thb": 42250.6546,
       "last_sale_month": "2026-11-01T00:00:00",
       "replenishment_signal": "monitor"
     },
@@ -716,10 +728,22 @@
       "product_name": "Nua  Prosecco Vino Spumante Extra Dry",
       "brand": "Nua",
       "is_in_stock": true,
-      "units_sold": 884.0,
-      "revenue_thb": 516354.0,
-      "margin_thb": 189979.44780000002,
-      "last_sale_month": "2026-09-01T00:00:00",
+      "units_sold": 890.0,
+      "revenue_thb": 519102.0,
+      "margin_thb": 190795.32900000003,
+      "last_sale_month": "2026-11-01T00:00:00",
+      "replenishment_signal": "monitor"
+    },
+    {
+      "sku": "WRW4559CB",
+      "base_product_code": "WRW4559",
+      "product_name": "Bread & Butter  Pinot Noir",
+      "brand": "Bread & Butter",
+      "is_in_stock": true,
+      "units_sold": 450.0,
+      "revenue_thb": 518099.0,
+      "margin_thb": 142112.93330000003,
+      "last_sale_month": "2026-11-01T00:00:00",
       "replenishment_signal": "monitor"
     },
     {
@@ -732,30 +756,6 @@
       "revenue_thb": 514099.0,
       "margin_thb": 51850.00150000001,
       "last_sale_month": "2026-09-01T00:00:00",
-      "replenishment_signal": "monitor"
-    },
-    {
-      "sku": "WRW4559CB",
-      "base_product_code": "WRW4559",
-      "product_name": "Bread & Butter  Pinot Noir",
-      "brand": "Bread & Butter",
-      "is_in_stock": true,
-      "units_sold": 446.0,
-      "revenue_thb": 513991.0,
-      "margin_thb": 141044.85330000002,
-      "last_sale_month": "2026-11-01T00:00:00",
-      "replenishment_signal": "monitor"
-    },
-    {
-      "sku": "WWW2216BU",
-      "base_product_code": "WWW2216",
-      "product_name": "Brancott Estate  Sauvignon Blanc (750 ml)",
-      "brand": "Brancott Estate",
-      "is_in_stock": true,
-      "units_sold": 890.0,
-      "revenue_thb": 513892.0,
-      "margin_thb": 41579.5824,
-      "last_sale_month": "2026-11-01T00:00:00",
       "replenishment_signal": "monitor"
     },
     {
@@ -776,10 +776,10 @@
       "product_name": "Wolf Blass  Eaglehawk Cabernet Sauvignon",
       "brand": "Wolf Blass",
       "is_in_stock": true,
-      "units_sold": 1366.0,
-      "revenue_thb": 505127.0,
-      "margin_thb": 71577.96409999998,
-      "last_sale_month": "2026-10-01T00:00:00",
+      "units_sold": 1369.0,
+      "revenue_thb": 506234.0,
+      "margin_thb": 71734.05109999998,
+      "last_sale_month": "2026-11-01T00:00:00",
       "replenishment_signal": "monitor"
     },
     {
@@ -788,10 +788,10 @@
       "product_name": "Hendrick's Gin (700 ml)",
       "brand": "Hendrick's",
       "is_in_stock": true,
-      "units_sold": 246.0,
-      "revenue_thb": 500601.0,
-      "margin_thb": 83807.48,
-      "last_sale_month": "2026-10-01T00:00:00",
+      "units_sold": 247.0,
+      "revenue_thb": 502563.0,
+      "margin_thb": 84062.93239999999,
+      "last_sale_month": "2026-11-01T00:00:00",
       "replenishment_signal": "monitor"
     },
     {
@@ -812,10 +812,10 @@
       "product_name": "Bottega  Prosecco Gold Brut",
       "brand": "Bottega",
       "is_in_stock": true,
-      "units_sold": 316.0,
-      "revenue_thb": 486544.0,
-      "margin_thb": 103148.09739999998,
-      "last_sale_month": "2026-08-01T00:00:00",
+      "units_sold": 317.0,
+      "revenue_thb": 488133.0,
+      "margin_thb": 103537.08459999999,
+      "last_sale_month": "2026-11-01T00:00:00",
       "replenishment_signal": "monitor"
     },
     {
@@ -927,6 +927,30 @@
       "replenishment_signal": "monitor"
     },
     {
+      "sku": "WSP1140AE",
+      "base_product_code": "WSP1140",
+      "product_name": "Follador  Prosecco Farder treviso Extra Dry Gold DOC",
+      "brand": "Follador",
+      "is_in_stock": true,
+      "units_sold": 515.0,
+      "revenue_thb": 443092.0,
+      "margin_thb": 140541.3395,
+      "last_sale_month": "2026-11-01T00:00:00",
+      "replenishment_signal": "monitor"
+    },
+    {
+      "sku": "WWW2349CB",
+      "base_product_code": "WWW2349",
+      "product_name": "Bread & Butter  Chardonnay",
+      "brand": "Bread & Butter",
+      "is_in_stock": true,
+      "units_sold": 384.0,
+      "revenue_thb": 440907.0,
+      "margin_thb": 126195.10500000003,
+      "last_sale_month": "2026-11-01T00:00:00",
+      "replenishment_signal": "monitor"
+    },
+    {
       "sku": "WRW4874FS",
       "base_product_code": "WRW4874",
       "product_name": "Chateau Clerc Milon  2015",
@@ -936,6 +960,18 @@
       "revenue_thb": 439963.0,
       "margin_thb": 50499.83180000001,
       "last_sale_month": "2026-08-01T00:00:00",
+      "replenishment_signal": "monitor"
+    },
+    {
+      "sku": "WRW4687AD",
+      "base_product_code": "WRW4687",
+      "product_name": "Penfolds  Koonunga Hill Shiraz/Cabernet",
+      "brand": "Penfolds",
+      "is_in_stock": true,
+      "units_sold": 692.0,
+      "revenue_thb": 439029.0,
+      "margin_thb": 80427.70900000002,
+      "last_sale_month": "2026-11-01T00:00:00",
       "replenishment_signal": "monitor"
     },
     {
@@ -951,38 +987,26 @@
       "replenishment_signal": "missing_masterfile"
     },
     {
-      "sku": "WRW4687AD",
-      "base_product_code": "WRW4687",
-      "product_name": "Penfolds  Koonunga Hill Shiraz/Cabernet",
-      "brand": "Penfolds",
-      "is_in_stock": true,
-      "units_sold": 688.0,
-      "revenue_thb": 436430.0,
-      "margin_thb": 79831.88450000001,
-      "last_sale_month": "2026-11-01T00:00:00",
-      "replenishment_signal": "monitor"
-    },
-    {
-      "sku": "WSP1140AE",
-      "base_product_code": "WSP1140",
-      "product_name": "Follador  Prosecco Farder treviso Extra Dry Gold DOC",
-      "brand": "Follador",
-      "is_in_stock": true,
-      "units_sold": 505.0,
-      "revenue_thb": 434307.0,
-      "margin_thb": 137505.24349999998,
-      "last_sale_month": "2026-11-01T00:00:00",
-      "replenishment_signal": "monitor"
-    },
-    {
       "sku": "WRW2153AC",
       "base_product_code": "WRW2153",
       "product_name": "Duckhorn  Napa Valley Merlot",
       "brand": "Duckhorn",
       "is_in_stock": true,
-      "units_sold": 157.0,
-      "revenue_thb": 433057.0,
-      "margin_thb": 74124.2927,
+      "units_sold": 158.0,
+      "revenue_thb": 435828.0,
+      "margin_thb": 74595.36270000001,
+      "last_sale_month": "2026-11-01T00:00:00",
+      "replenishment_signal": "monitor"
+    },
+    {
+      "sku": "WRW4680AD",
+      "base_product_code": "WRW4680",
+      "product_name": "Penfolds  Bin 28 Shiraz",
+      "brand": "Penfolds",
+      "is_in_stock": true,
+      "units_sold": 268.0,
+      "revenue_thb": 432630.0,
+      "margin_thb": 75939.1228,
       "last_sale_month": "2026-11-01T00:00:00",
       "replenishment_signal": "monitor"
     },
@@ -999,27 +1023,15 @@
       "replenishment_signal": "out_of_stock_high_demand"
     },
     {
-      "sku": "WRW4680AD",
-      "base_product_code": "WRW4680",
-      "product_name": "Penfolds  Bin 28 Shiraz",
-      "brand": "Penfolds",
-      "is_in_stock": true,
-      "units_sold": 264.0,
-      "revenue_thb": 426331.0,
-      "margin_thb": 74690.5037,
-      "last_sale_month": "2026-11-01T00:00:00",
-      "replenishment_signal": "monitor"
-    },
-    {
       "sku": "WRW3191AD",
       "base_product_code": "WRW3191",
       "product_name": "Vigneti del Salento  \"ZOLLA\" Primitivo Di Manduria DOC",
       "brand": "Vigneti Del Salento",
       "is_in_stock": true,
-      "units_sold": 484.0,
-      "revenue_thb": 425928.0,
-      "margin_thb": 111783.55179999999,
-      "last_sale_month": "2026-10-01T00:00:00",
+      "units_sold": 485.0,
+      "revenue_thb": 426792.0,
+      "margin_thb": 111947.53899999999,
+      "last_sale_month": "2026-11-01T00:00:00",
       "replenishment_signal": "monitor"
     },
     {
@@ -1071,18 +1083,6 @@
       "replenishment_signal": "monitor"
     },
     {
-      "sku": "WWW2349CB",
-      "base_product_code": "WWW2349",
-      "product_name": "Bread & Butter  Chardonnay",
-      "brand": "Bread & Butter",
-      "is_in_stock": true,
-      "units_sold": 363.0,
-      "revenue_thb": 419338.0,
-      "margin_thb": 120587.16500000002,
-      "last_sale_month": "2026-11-01T00:00:00",
-      "replenishment_signal": "monitor"
-    },
-    {
       "sku": "WSP1200BU",
       "base_product_code": "WSP1200",
       "product_name": "Moet & Chandon  Brut Imperial (200 ml)",
@@ -1129,6 +1129,18 @@
       "margin_thb": 3010.284999999999,
       "last_sale_month": "2026-10-01T00:00:00",
       "replenishment_signal": "low_margin_watch"
+    },
+    {
+      "sku": "WSP5782BN",
+      "base_product_code": "WSP5782",
+      "product_name": "Louis Roederer  Cristal Brut 2016",
+      "brand": "Louis Roederer",
+      "is_in_stock": true,
+      "units_sold": 32.0,
+      "revenue_thb": 402924.0,
+      "margin_thb": 50540.0509,
+      "last_sale_month": "2026-11-01T00:00:00",
+      "replenishment_signal": "monitor"
     },
     {
       "sku": "WWW2246BN",
@@ -1184,9 +1196,9 @@
       "product_name": "Chandon  Brut",
       "brand": "Chandon",
       "is_in_stock": true,
-      "units_sold": 450.0,
-      "revenue_thb": 370286.0,
-      "margin_thb": 56995.8077,
+      "units_sold": 453.0,
+      "revenue_thb": 372851.0,
+      "margin_thb": 57640.3921,
       "last_sale_month": "2026-11-01T00:00:00",
       "replenishment_signal": "monitor"
     },
@@ -1239,18 +1251,6 @@
       "replenishment_signal": "low_margin_watch"
     },
     {
-      "sku": "WSP5782BN",
-      "base_product_code": "WSP5782",
-      "product_name": "Louis Roederer  Cristal Brut 2016",
-      "brand": "Louis Roederer",
-      "is_in_stock": true,
-      "units_sold": 29.0,
-      "revenue_thb": 365354.0,
-      "margin_thb": 44844.4389,
-      "last_sale_month": "2026-08-01T00:00:00",
-      "replenishment_signal": "monitor"
-    },
-    {
       "sku": "LWH0048BU",
       "base_product_code": "LWH0048",
       "product_name": "Johnnie Walker  Black Label (1 L)",
@@ -1297,6 +1297,18 @@
       "margin_thb": 17104.084600000002,
       "last_sale_month": "2026-11-01T00:00:00",
       "replenishment_signal": "low_margin_watch"
+    },
+    {
+      "sku": "WRW5406BN",
+      "base_product_code": "WRW5406",
+      "product_name": "Castello di Fonterutoli  Badiola",
+      "brand": "Castello di Fonterutoli",
+      "is_in_stock": true,
+      "units_sold": 519.0,
+      "revenue_thb": 356288.0,
+      "margin_thb": 96416.51159999998,
+      "last_sale_month": "2026-11-01T00:00:00",
+      "replenishment_signal": "monitor"
     },
     {
       "sku": "LWH1086CN",
@@ -1357,18 +1369,6 @@
       "margin_thb": 30379.9132,
       "last_sale_month": "2026-09-01T00:00:00",
       "replenishment_signal": "low_margin_watch"
-    },
-    {
-      "sku": "WRW5406BN",
-      "base_product_code": "WRW5406",
-      "product_name": "Castello di Fonterutoli  Badiola",
-      "brand": "Castello di Fonterutoli",
-      "is_in_stock": true,
-      "units_sold": 510.0,
-      "revenue_thb": 348718.0,
-      "margin_thb": 93650.43359999999,
-      "last_sale_month": "2026-10-01T00:00:00",
-      "replenishment_signal": "monitor"
     },
     {
       "sku": "LWH0035BU",
@@ -1496,10 +1496,10 @@
       "product_name": "George Wyndham  Bin 555 Shiraz (750 ml)",
       "brand": "George Wyndham",
       "is_in_stock": true,
-      "units_sold": 625.0,
-      "revenue_thb": 323658.0,
-      "margin_thb": 43394.039000000004,
-      "last_sale_month": "2026-07-01T00:00:00",
+      "units_sold": 627.0,
+      "revenue_thb": 324777.0,
+      "margin_thb": 43505.04380000001,
+      "last_sale_month": "2026-11-01T00:00:00",
       "replenishment_signal": "monitor"
     },
     {
@@ -1700,9 +1700,9 @@
       "product_name": "Penfolds  Max's Cabernet Sauvignon",
       "brand": "Penfolds",
       "is_in_stock": true,
-      "units_sold": 349.0,
-      "revenue_thb": 288012.0,
-      "margin_thb": 50794.262400000014,
+      "units_sold": 350.0,
+      "revenue_thb": 288839.0,
+      "margin_thb": 50957.42960000001,
       "last_sale_month": "2026-11-01T00:00:00",
       "replenishment_signal": "monitor"
     },
@@ -1923,6 +1923,42 @@
       "replenishment_signal": "monitor"
     },
     {
+      "sku": "WRW0035AD",
+      "base_product_code": "WRW0035",
+      "product_name": "Rawson's Retreat  Cabernet Sauvignon",
+      "brand": "Rawson's Retreat",
+      "is_in_stock": true,
+      "units_sold": 568.0,
+      "revenue_thb": 262026.0,
+      "margin_thb": 50156.1921,
+      "last_sale_month": "2026-11-01T00:00:00",
+      "replenishment_signal": "monitor"
+    },
+    {
+      "sku": "LLQ0085BU",
+      "base_product_code": "LLQ0085",
+      "product_name": "Baileys  Original (700 ml)",
+      "brand": "Baileys",
+      "is_in_stock": true,
+      "units_sold": 238.0,
+      "revenue_thb": 261931.0,
+      "margin_thb": 8740.4365,
+      "last_sale_month": "2026-11-01T00:00:00",
+      "replenishment_signal": "low_margin_watch"
+    },
+    {
+      "sku": "WRW0288AD",
+      "base_product_code": "WRW0288",
+      "product_name": "Concha Y Toro  Frontera Cabernet Sauvignon",
+      "brand": "Concha Y Toro",
+      "is_in_stock": true,
+      "units_sold": 685.0,
+      "revenue_thb": 261243.0,
+      "margin_thb": 36847.301400000004,
+      "last_sale_month": "2026-11-01T00:00:00",
+      "replenishment_signal": "monitor"
+    },
+    {
       "sku": "WRW5351BN",
       "base_product_code": "WRW5351",
       "product_name": "Silver Oak  Cabernet Sauvignon Napa Valley 2018",
@@ -1932,18 +1968,6 @@
       "revenue_thb": 260915.0,
       "margin_thb": 61641.52270000001,
       "last_sale_month": "2026-04-01T00:00:00",
-      "replenishment_signal": "monitor"
-    },
-    {
-      "sku": "WRW0035AD",
-      "base_product_code": "WRW0035",
-      "product_name": "Rawson's Retreat  Cabernet Sauvignon",
-      "brand": "Rawson's Retreat",
-      "is_in_stock": true,
-      "units_sold": 565.0,
-      "revenue_thb": 260637.0,
-      "margin_thb": 49885.8931,
-      "last_sale_month": "2026-11-01T00:00:00",
       "replenishment_signal": "monitor"
     },
     {
@@ -1959,30 +1983,6 @@
       "replenishment_signal": "low_margin_watch"
     },
     {
-      "sku": "LLQ0085BU",
-      "base_product_code": "LLQ0085",
-      "product_name": "Baileys  Original (700 ml)",
-      "brand": "Baileys",
-      "is_in_stock": true,
-      "units_sold": 235.0,
-      "revenue_thb": 258569.0,
-      "margin_thb": 8587.8017,
-      "last_sale_month": "2026-11-01T00:00:00",
-      "replenishment_signal": "low_margin_watch"
-    },
-    {
-      "sku": "WRW0288AD",
-      "base_product_code": "WRW0288",
-      "product_name": "Concha Y Toro  Frontera Cabernet Sauvignon",
-      "brand": "Concha Y Toro",
-      "is_in_stock": true,
-      "units_sold": 673.0,
-      "revenue_thb": 256993.0,
-      "margin_thb": 36377.2514,
-      "last_sale_month": "2026-10-01T00:00:00",
-      "replenishment_signal": "monitor"
-    },
-    {
       "sku": "WRW3471AH",
       "base_product_code": "WRW3471",
       "product_name": "Montes Winemaker's Choice  Cabernet Sauvignon",
@@ -1993,6 +1993,30 @@
       "margin_thb": 27902.91089999999,
       "last_sale_month": "2026-11-01T00:00:00",
       "replenishment_signal": "monitor"
+    },
+    {
+      "sku": "WWW5371AB",
+      "base_product_code": "WWW5371",
+      "product_name": "Nollen Erben\t Mosel Riesling Spatlese",
+      "brand": "Nollen Erben",
+      "is_in_stock": true,
+      "units_sold": 499.0,
+      "revenue_thb": 256034.0,
+      "margin_thb": 29308.647699999998,
+      "last_sale_month": "2026-11-01T00:00:00",
+      "replenishment_signal": "monitor"
+    },
+    {
+      "sku": "LRM0053BU",
+      "base_product_code": "LRM0053",
+      "product_name": "Diplomatico  Reserva Exclusiva (700 ml)",
+      "brand": "Diplomatico",
+      "is_in_stock": true,
+      "units_sold": 147.0,
+      "revenue_thb": 255708.0,
+      "margin_thb": 30435.895300000004,
+      "last_sale_month": "2026-11-01T00:00:00",
+      "replenishment_signal": "low_margin_watch"
     },
     {
       "sku": "WRW3893AH",
@@ -2043,6 +2067,18 @@
       "replenishment_signal": "low_margin_watch"
     },
     {
+      "sku": "WRW5598AA",
+      "base_product_code": "WRW5598",
+      "product_name": "Baron Philippe de Rothschild  Mouton Cadet Heritage Bordeaux Rouge",
+      "brand": "Baron Philippe de Rothschild",
+      "is_in_stock": true,
+      "units_sold": 346.0,
+      "revenue_thb": 251205.0,
+      "margin_thb": 87964.62529999997,
+      "last_sale_month": "2026-11-01T00:00:00",
+      "replenishment_signal": "monitor"
+    },
+    {
       "sku": "WRW4677AD",
       "base_product_code": "WRW4677",
       "product_name": "Penfolds  Bin 8 Shiraz Cabernet",
@@ -2055,16 +2091,16 @@
       "replenishment_signal": "monitor"
     },
     {
-      "sku": "LRM0053BU",
-      "base_product_code": "LRM0053",
-      "product_name": "Diplomatico  Reserva Exclusiva (700 ml)",
-      "brand": "Diplomatico",
+      "sku": "LGN0106AA",
+      "base_product_code": "LGN0106",
+      "product_name": "Suntory  Roku Japanese Craft Gin (700 ml)",
+      "brand": "Suntory",
       "is_in_stock": true,
-      "units_sold": 143.0,
-      "revenue_thb": 248235.0,
-      "margin_thb": 30027.122200000005,
-      "last_sale_month": "2026-05-01T00:00:00",
-      "replenishment_signal": "low_margin_watch"
+      "units_sold": 196.0,
+      "revenue_thb": 248234.0,
+      "margin_thb": 30982.962099999997,
+      "last_sale_month": "2026-11-01T00:00:00",
+      "replenishment_signal": "monitor"
     },
     {
       "sku": "WSP1229BS",
@@ -2091,18 +2127,6 @@
       "replenishment_signal": "low_margin_watch"
     },
     {
-      "sku": "LGN0106AA",
-      "base_product_code": "LGN0106",
-      "product_name": "Suntory  Roku Japanese Craft Gin (700 ml)",
-      "brand": "Suntory",
-      "is_in_stock": true,
-      "units_sold": 195.0,
-      "revenue_thb": 246908.0,
-      "margin_thb": 30749.7045,
-      "last_sale_month": "2026-11-01T00:00:00",
-      "replenishment_signal": "monitor"
-    },
-    {
       "sku": "LWH1047BU",
       "base_product_code": "LWH1047",
       "product_name": "Jack Daniel's  Apple (350 ml)",
@@ -2115,18 +2139,6 @@
       "replenishment_signal": "low_margin_watch"
     },
     {
-      "sku": "WWW5371AB",
-      "base_product_code": "WWW5371",
-      "product_name": "Nollen Erben\t Mosel Riesling Spatlese",
-      "brand": "Nollen Erben",
-      "is_in_stock": true,
-      "units_sold": 478.0,
-      "revenue_thb": 245063.0,
-      "margin_thb": 28176.440499999997,
-      "last_sale_month": "2026-10-01T00:00:00",
-      "replenishment_signal": "monitor"
-    },
-    {
       "sku": "WSP1048BU",
       "base_product_code": "WSP1048",
       "product_name": "Moet & Chandon  Ice Imperial (750 ml)",
@@ -2136,18 +2148,6 @@
       "revenue_thb": 244890.0,
       "margin_thb": 5851.867100000001,
       "last_sale_month": "2026-05-01T00:00:00",
-      "replenishment_signal": "monitor"
-    },
-    {
-      "sku": "WRW5598AA",
-      "base_product_code": "WRW5598",
-      "product_name": "Baron Philippe de Rothschild  Mouton Cadet Heritage Bordeaux Rouge",
-      "brand": "Baron Philippe de Rothschild",
-      "is_in_stock": true,
-      "units_sold": 337.0,
-      "revenue_thb": 244293.0,
-      "margin_thb": 85371.61219999997,
-      "last_sale_month": "2026-11-01T00:00:00",
       "replenishment_signal": "monitor"
     },
     {
@@ -2211,6 +2211,18 @@
       "replenishment_signal": "monitor"
     },
     {
+      "sku": "WRW4689AD",
+      "base_product_code": "WRW4689",
+      "product_name": "Penfolds  Koonunga Hill Cabernet Sauvignon",
+      "brand": "Penfolds",
+      "is_in_stock": true,
+      "units_sold": 374.0,
+      "revenue_thb": 241030.0,
+      "margin_thb": 45780.8991,
+      "last_sale_month": "2026-11-01T00:00:00",
+      "replenishment_signal": "monitor"
+    },
+    {
       "sku": "WRW6186WN",
       "base_product_code": "WRW6186",
       "product_name": "Chateau de la Vieille Tour  Bordeaux Sup\u00e9rieur AOP",
@@ -2223,16 +2235,16 @@
       "replenishment_signal": "monitor"
     },
     {
-      "sku": "WRW4689AD",
-      "base_product_code": "WRW4689",
-      "product_name": "Penfolds  Koonunga Hill Cabernet Sauvignon",
-      "brand": "Penfolds",
+      "sku": "LRM0091BU",
+      "base_product_code": "LRM0091",
+      "product_name": "Ron Zacapa  Centenario Sistema Solera 23 Years (750 ml)",
+      "brand": "Ron Zacapa",
       "is_in_stock": true,
-      "units_sold": 370.0,
-      "revenue_thb": 238432.0,
-      "margin_thb": 45274.2891,
+      "units_sold": 85.0,
+      "revenue_thb": 237372.0,
+      "margin_thb": 2063.7735,
       "last_sale_month": "2026-11-01T00:00:00",
-      "replenishment_signal": "monitor"
+      "replenishment_signal": "low_margin_watch"
     },
     {
       "sku": "WRW3123CH",
@@ -2271,18 +2283,6 @@
       "replenishment_signal": "low_margin_watch"
     },
     {
-      "sku": "LRM0091BU",
-      "base_product_code": "LRM0091",
-      "product_name": "Ron Zacapa  Centenario Sistema Solera 23 Years (750 ml)",
-      "brand": "Ron Zacapa",
-      "is_in_stock": true,
-      "units_sold": 83.0,
-      "revenue_thb": 231775.0,
-      "margin_thb": 2002.7689999999998,
-      "last_sale_month": "2026-11-01T00:00:00",
-      "replenishment_signal": "low_margin_watch"
-    },
-    {
       "sku": "WRW1570BN",
       "base_product_code": "WRW1570",
       "product_name": "Chateau Latour  A Pomerol 2018",
@@ -2293,6 +2293,30 @@
       "margin_thb": 21159.040800000002,
       "last_sale_month": "2026-05-01T00:00:00",
       "replenishment_signal": "out_of_stock_high_demand"
+    },
+    {
+      "sku": "WRW6184WN",
+      "base_product_code": "WRW6184",
+      "product_name": "Chateau Pericou  AOP Bordeaux Rouge",
+      "brand": "chateau Pericou",
+      "is_in_stock": true,
+      "units_sold": 516.0,
+      "revenue_thb": 229772.0,
+      "margin_thb": 54931.7376,
+      "last_sale_month": "2026-11-01T00:00:00",
+      "replenishment_signal": "monitor"
+    },
+    {
+      "sku": "WRW4728DD",
+      "base_product_code": "WRW4728",
+      "product_name": "Hopes End  Red Blend",
+      "brand": "Hopes End",
+      "is_in_stock": true,
+      "units_sold": 460.0,
+      "revenue_thb": 227724.0,
+      "margin_thb": 34456.75269999999,
+      "last_sale_month": "2026-11-01T00:00:00",
+      "replenishment_signal": "monitor"
     },
     {
       "sku": "WRW4703AD",
@@ -2331,18 +2355,6 @@
       "replenishment_signal": "monitor"
     },
     {
-      "sku": "WRW4728DD",
-      "base_product_code": "WRW4728",
-      "product_name": "Hopes End  Red Blend",
-      "brand": "Hopes End",
-      "is_in_stock": true,
-      "units_sold": 454.0,
-      "revenue_thb": 224724.0,
-      "margin_thb": 33899.65269999999,
-      "last_sale_month": "2026-10-01T00:00:00",
-      "replenishment_signal": "monitor"
-    },
-    {
       "sku": "WRW5470FJ",
       "base_product_code": "WRW5470",
       "product_name": "Pinical Estate  Cabernet Merlot",
@@ -2353,6 +2365,18 @@
       "margin_thb": 42872.85039999999,
       "last_sale_month": "2026-10-01T00:00:00",
       "replenishment_signal": "monitor"
+    },
+    {
+      "sku": "LTQ0035BU",
+      "base_product_code": "LTQ0035",
+      "product_name": "Don Julio  Reposado (750 ml)",
+      "brand": "Don Julio",
+      "is_in_stock": true,
+      "units_sold": 74.0,
+      "revenue_thb": 223201.0,
+      "margin_thb": 9159.993600000002,
+      "last_sale_month": "2026-11-01T00:00:00",
+      "replenishment_signal": "low_margin_watch"
     },
     {
       "sku": "LWH0001AA",
@@ -2367,18 +2391,6 @@
       "replenishment_signal": "out_of_stock_high_demand"
     },
     {
-      "sku": "WRW6184WN",
-      "base_product_code": "WRW6184",
-      "product_name": "Chateau Pericou  AOP Bordeaux Rouge",
-      "brand": "chateau Pericou",
-      "is_in_stock": true,
-      "units_sold": 501.0,
-      "revenue_thb": 221651.0,
-      "margin_thb": 52311.0909,
-      "last_sale_month": "2026-10-01T00:00:00",
-      "replenishment_signal": "monitor"
-    },
-    {
       "sku": "WWW1374AC",
       "base_product_code": "WWW1374",
       "product_name": "Far Niente  Chardonnay",
@@ -2389,18 +2401,6 @@
       "margin_thb": 34368.1066,
       "last_sale_month": "2026-09-01T00:00:00",
       "replenishment_signal": "monitor"
-    },
-    {
-      "sku": "LGN0016BU",
-      "base_product_code": "LGN0016",
-      "product_name": "Tanqueray  Gin (750 ml)",
-      "brand": "Tanqueray",
-      "is_in_stock": true,
-      "units_sold": 202.0,
-      "revenue_thb": 220259.0,
-      "margin_thb": 7731.3123,
-      "last_sale_month": "2026-11-01T00:00:00",
-      "replenishment_signal": "low_margin_watch"
     }
   ]
 }
